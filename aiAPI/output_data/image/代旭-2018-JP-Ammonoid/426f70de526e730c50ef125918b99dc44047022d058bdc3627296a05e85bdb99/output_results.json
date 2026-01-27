@@ -1,0 +1,345 @@
+{
+    "static": [
+        {
+            "name": "Proptychites sp. indet.",
+            "unet_box": {
+                "xmin": 1349,
+                "ymin": 1166,
+                "xmax": 1498,
+                "ymax": 1575
+            },
+            "ocr_box": {
+                "text": "11",
+                "xmin": 1412,
+                "ymin": 1594,
+                "xmax": 1448,
+                "ymax": 1619
+            }
+        },
+        {
+            "name": "Proptychites sp. indet.",
+            "unet_box": {
+                "xmin": 1042,
+                "ymin": 1162,
+                "xmax": 1335,
+                "ymax": 1575
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 1168,
+                "ymin": 1591,
+                "xmax": 1216,
+                "ymax": 1619
+            }
+        },
+        {
+            "name": "Proptychites sp. indet.",
+            "unet_box": {
+                "xmin": 1311,
+                "ymin": 597,
+                "xmax": 1463,
+                "ymax": 1049
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 1385,
+                "ymin": 1062,
+                "xmax": 1406,
+                "ymax": 1089
+            }
+        },
+        {
+            "name": "Proptychites sp. indet.",
+            "unet_box": {
+                "xmin": 1196,
+                "ymin": 66,
+                "xmax": 1515,
+                "ymax": 519
+            },
+            "ocr_box": {
+                "text": "7",
+                "xmin": 1352,
+                "ymin": 543,
+                "xmax": 1378,
+                "ymax": 575
+            }
+        },
+        {
+            "name": "Proptychites sp. indet.",
+            "unet_box": {
+                "xmin": 936,
+                "ymin": 22,
+                "xmax": 1128,
+                "ymax": 877
+            },
+            "ocr_box": {
+                "text": "7",
+                "xmin": 1352,
+                "ymin": 543,
+                "xmax": 1378,
+                "ymax": 575
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 7,
+                "ymin": 19,
+                "xmax": 689,
+                "ymax": 871
+            },
+            "ocr_box": {
+                "text": "1",
+                "xmin": 368,
+                "ymin": 892,
+                "xmax": 388,
+                "ymax": 921
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 705,
+                "ymin": 17,
+                "xmax": 902,
+                "ymax": 874
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 810,
+                "ymin": 890,
+                "xmax": 835,
+                "ymax": 924
+            }
+        }
+    ],
+    "dynamic": [
+        {
+            "name": "Proptychites sp. indet.",
+            "unet_box": {
+                "xmin": 1349,
+                "ymin": 1166,
+                "xmax": 1498,
+                "ymax": 1575
+            },
+            "ocr_box": {
+                "text": "11",
+                "xmin": 1412,
+                "ymin": 1594,
+                "xmax": 1448,
+                "ymax": 1619
+            }
+        },
+        {
+            "name": "Proptychites sp. indet.",
+            "unet_box": {
+                "xmin": 1042,
+                "ymin": 1162,
+                "xmax": 1335,
+                "ymax": 1575
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 1168,
+                "ymin": 1591,
+                "xmax": 1216,
+                "ymax": 1619
+            }
+        },
+        {
+            "name": "Proptychites sp. indet.",
+            "unet_box": {
+                "xmin": 1311,
+                "ymin": 597,
+                "xmax": 1463,
+                "ymax": 1049
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 1385,
+                "ymin": 1062,
+                "xmax": 1406,
+                "ymax": 1089
+            }
+        },
+        {
+            "name": "Proptychites sp. indet.",
+            "unet_box": {
+                "xmin": 1196,
+                "ymin": 66,
+                "xmax": 1515,
+                "ymax": 519
+            },
+            "ocr_box": {
+                "text": "7",
+                "xmin": 1352,
+                "ymin": 543,
+                "xmax": 1378,
+                "ymax": 575
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 936,
+                "ymin": 22,
+                "xmax": 1128,
+                "ymax": 877
+            },
+            "ocr_box": {
+                "text": "3",
+                "xmin": 1027,
+                "ymin": 890,
+                "xmax": 1052,
+                "ymax": 922
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 7,
+                "ymin": 19,
+                "xmax": 689,
+                "ymax": 871
+            },
+            "ocr_box": {
+                "text": "1",
+                "xmin": 368,
+                "ymin": 892,
+                "xmax": 388,
+                "ymax": 921
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 705,
+                "ymin": 17,
+                "xmax": 902,
+                "ymax": 874
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 810,
+                "ymin": 890,
+                "xmax": 835,
+                "ymax": 924
+            }
+        }
+    ],
+    "km": [
+        {
+            "name": "Proptychites sp. indet.",
+            "unet_box": {
+                "xmin": 1349,
+                "ymin": 1166,
+                "xmax": 1498,
+                "ymax": 1575
+            },
+            "ocr_box": {
+                "text": "11",
+                "xmin": 1412,
+                "ymin": 1594,
+                "xmax": 1448,
+                "ymax": 1619
+            }
+        },
+        {
+            "name": "Proptychites sp. indet.",
+            "unet_box": {
+                "xmin": 1042,
+                "ymin": 1162,
+                "xmax": 1335,
+                "ymax": 1575
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 1168,
+                "ymin": 1591,
+                "xmax": 1216,
+                "ymax": 1619
+            }
+        },
+        {
+            "name": "Proptychites sp. indet.",
+            "unet_box": {
+                "xmin": 1311,
+                "ymin": 597,
+                "xmax": 1463,
+                "ymax": 1049
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 1385,
+                "ymin": 1062,
+                "xmax": 1406,
+                "ymax": 1089
+            }
+        },
+        {
+            "name": "Proptychites sp. indet.",
+            "unet_box": {
+                "xmin": 1196,
+                "ymin": 66,
+                "xmax": 1515,
+                "ymax": 519
+            },
+            "ocr_box": {
+                "text": "7",
+                "xmin": 1352,
+                "ymin": 543,
+                "xmax": 1378,
+                "ymax": 575
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 936,
+                "ymin": 22,
+                "xmax": 1128,
+                "ymax": 877
+            },
+            "ocr_box": {
+                "text": "3",
+                "xmin": 1027,
+                "ymin": 890,
+                "xmax": 1052,
+                "ymax": 922
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 7,
+                "ymin": 19,
+                "xmax": 689,
+                "ymax": 871
+            },
+            "ocr_box": {
+                "text": "1",
+                "xmin": 368,
+                "ymin": 892,
+                "xmax": 388,
+                "ymax": 921
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 705,
+                "ymin": 17,
+                "xmax": 902,
+                "ymax": 874
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 810,
+                "ymin": 890,
+                "xmax": 835,
+                "ymax": 924
+            }
+        }
+    ],
+    "cap": "Figure 11.  (1-6) Jieshaniceras guizhouense (Zakharov and Mu in Mu et al, 2007), (1-3) YFMCUG 00045, from GJ-35; (4) YFMCUG 00046, from GJ-35, sutureline at H=24.8mm : (5) YFMCUG 00047, from GJ-35, suture line at H=24.3mm (6) YFMCUG 00043, from GJ-35, suture line at H=24.0mm (7-11) Proptychites sp. indet., (7-9) YFMCUG 00049, from GJ-35, suture line at H=23.8mm (10, 11) YFMCUG 00050, from GJ-40."
+}

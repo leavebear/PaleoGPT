@@ -1,0 +1,626 @@
+{
+    "pdf_id": 124,
+    "textList": [
+        {
+            "text": "Samples averaging-3 Myr intervals have analytically indistinguishable 238U/235U throughout the Cenozoic.",
+            "text_tag": [
+                {
+                    "tag_id": "tag_id0",
+                    "start": 0,
+                    "end": 7,
+                    "mark_content": "Samples",
+                    "text_id": "0"
+                },
+                {
+                    "tag_id": "tag_id1",
+                    "start": 20,
+                    "end": 23,
+                    "mark_content": "Myr",
+                    "text_id": "0"
+                }
+            ]
+        },
+        {
+            "text": "Keywords: Uranium isotopes, redox proxies, Cenozoic marine redox introduction Models predict that warmer surface temperatures will reduce O2 solubility and potentially increase thermal stratiﬁcation in Earth’s oceans (Sarmiento and others, 1998; Shaffer and others, 2009), potentially leading to ocean “deoxygenation” on a broad scale (for examples, Keeling and others, 2010).",
+            "text_tag": []
+        },
+        {
+            "text": "Here we apply a uranium isotope approach (238U/ 235U, expressed as (cid:3)238U relative to the standard CRM112a) to hydrogenous ferromanganese (Fe-Mn) crusts in order to reconstruct ocean redox state throughout the Cenozoic [65 million years (Myr) ago to the present], a period during which tectonism, weathering, and surface temperatures ﬂuctuated signiﬁcantly (Hansen and others, 2008).",
+            "text_tag": []
+        },
+        {
+            "text": "Uranium has two valence states in surface environments: the soluble U(VI) and insoluble U(IV) (Langmuir, 1978).",
+            "text_tag": []
+        },
+        {
+            "text": "Under reducing conditions U(VI) is reductively removed from seawater.",
+            "text_tag": []
+        },
+        {
+            "text": "This process results in 238U becoming enriched in the reduced phase, causing the remaining dissolved U(VI) in seawater to * Yale University, Department of Geology and Geophysics, New Haven, Connecticut, 06520-8109 USA ** Georgia Institute of Technology, School of Earth and Atmospheric Sciences, Atlanta, Georgia, 30332 USA *** US Geological Survey, PCMSC, Santa Cruz, California, 95060 USA § University of Illinois, Department of Geology, Urbana-Champaign, Illinois, 61820 USA † Corresponding author: xiangli.wang@yale.edu 64 Xiangli Wang and others 65 be fractionated to lower 238U/235U values.",
+            "text_tag": []
+        },
+        {
+            "text": "Therefore, at steady state—a condition likely applicable to the modern ocean (Andersen and others, 2016)—the 238U/235U of seawater is expected to shift to lower values when ocean basins characterized by reducing conditions expand.",
+            "text_tag": []
+        },
+        {
+            "text": "This is because U(VI) reduction tends to occur below the sediment-water interface rather than within the water column (Anderson and others, 1989; Barnes and Cochran, 1990).",
+            "text_tag": []
+        },
+        {
+            "text": "However, it is expected that changes in the areal extent of benthic anoxia are difﬁcult to accomplish without signiﬁcant changes to the volume of Oxygen Minimum Zones (OMZs) in the water column.",
+            "text_tag": []
+        },
+        {
+            "text": "Seaﬂoor Fe-Mn crusts provide a powerful archive for seawater chemistry because they precipitate directly from seawater and preferentially incorporate a wide range of trace elements (see Frank and others, 1999; Koschinsky and Hein, 2003; Siebert and others, 2003; Rehkamper and others, 2004; Hein and Koschinsky, 2014).",
+            "text_tag": []
+        },
+        {
+            "text": "This value is offset from the modern seawater (cid:3)238U (-0.41‰) by -0.24 permil, which agrees well with experimental determination of U isotopic fractionation during adsorption of U(VI) to manganese oxides (Brennecka and others, 2011b).",
+            "text_tag": []
+        },
+        {
+            "text": "Therefore, both ﬁeld and experimental studies suggest that Fe-Mn crusts can record contemporaneous seawater (cid:3)238U, taking the fractionation attendant to adsorption to Mn-oxide surfaces into account. samples and methods The Fe-Mn crusts examined in this study include: ANTP109D-E and DODO232D-B from the Indian Ocean, D11-1 and CD29-2 from the Paciﬁc Ocean, and ALV539 from the Atlantic Ocean (table 1, ﬁg. 1).",
+            "text_tag": []
+        },
+        {
+            "text": "The exposed depth proﬁle was sampled by micro drilling (-4 mm2 drilling area) to obtain-30 to 120 mg of material at temporal resolutions ranging from 1.2 to 12.1 Myr (table 2).",
+            "text_tag": []
+        },
+        {
+            "text": "The amount of detrital grains undissolved by the 6 N HCl accounted for very small portions ((cid:6)1%) of the total sample materials.",
+            "text_tag": []
+        },
+        {
+            "text": "Brieﬂy, U was extracted from the sample digests using the UTEVA ion exchange and 233U-236U double-spike method (Chen and Wasserburg, 1981; Horwitz and others, 1993; Stirling and others, 2005; Rademacher and others, 2006; Weyer and others, 2008).",
+            "text_tag": []
+        },
+        {
+            "text": "Procedural blanks were 10 to 40 pg, which were negligible ((cid:6)0.01%) compared to 300 ng sample U. External uncertainties for (cid:3)238U, U concentration, and 234U/238U activity ratio (see result section) measurements were (cid:4)0.07‰, (cid:4)0.1 ı`g/g, and 3.7 permil at 95 percent conﬁdence level, respectively, 66 Xiangli Wang and others—A cenozoic seawater redox record derived Table 1 Basic information for the Fe-Mn crusts examined in this study General information and age models used to calculate growth rates can be found in refs. (1)Klemm and others, 2005; (2) Klemm and others, 2008; (3) Nielsen and others, 2011; (4) Nielsen and others, 2009; (5) Rehkamper and others, 2002.",
+            "text_tag": []
+        },
+        {
+            "text": "Growth rates are derived from Os chemostratigraphy except for DODO232-D-B, whose age is constrained by cosmogenic 10Be and Co ﬂux method (see text in “Age Models” section).",
+            "text_tag": []
+        },
+        {
+            "text": "U concentration data of individual samples can be found in table",
+            "text_tag": []
+        },
+        {
+            "text": "2. calculated as the root mean square difference (Hyslop and White, 2009) of six duplicate sample preparations and analyses.",
+            "text_tag": []
+        },
+        {
+            "text": "1. Map showing the locations of the Fe-Mn crusts examined here. from 238U/235U in ferromanganese crusts 67 reliable seawater osmium isotope record (see Klemm and others, 2005 for a review), Os chemostratigraphic correlation has been used to date Fe-Mn crusts.",
+            "text_tag": []
+        },
+        {
+            "text": "The average (cid:3)238U value is0.2 permil lower than the modern seawater value of -0.4 permil (Weyer and others, 2008), consistent with previous measurements of the surface layers of Fe-Mn crusts (Weyer and others, 2008; Goto and others, 2014) and previous experimental work on adsorption of U(VI) onto Mn oxides (Brennecka and others, 2011b).",
+            "text_tag": []
+        },
+        {
+            "text": "In other words, regardless of the initial (234U/238U) value of a sample, so long as it behaves as a closed system for more than-1 Myr, its (234U/238U) value should be-1.",
+            "text_tag": []
+        },
+        {
+            "text": "Modern seawater has a (234U/238U) value of-1.14, due to alpha-recoil ejection of 234Th—and thus 234Pa and 234U— into weathering ﬂuids and ultimately seawater (for example, Henderson, 2002; DePaolo and others, 2006).",
+            "text_tag": []
+        },
+        {
+            "text": "If a sample has (234U/238U) values signiﬁcantly above the secular equilibrium value of 1, it means there has been open system behavior in the last-1 Myr, most likely due to diffusion of modern seawater into the interior of Fe-Mn crust.",
+            "text_tag": []
+        },
+        {
+            "text": "The (234U/238U) values in most Fe-Mn crust samples explored here are distinct from the modern seawater value and are close to the secular equilibrium value of 1 (ﬁg. 3).",
+            "text_tag": []
+        },
+        {
+            "text": "However, Fe-Mn crusts formed in the last 3 Myr yield (234U/238U) values higher than 1, indicating inﬂuence by modern seawater.",
+            "text_tag": []
+        },
+        {
+            "text": "However, 68 Xiangli Wang and others—A cenozoic seawater redox record derived Table 2 Results for U isotopic compositions and concentrations from 238U/235U in ferromanganese crusts 69 Table 2 (continued) aMillimeter below crust surface; bOs-based ages except for crust DODO232D-B, which is based on cosmogenic 10Be ages extended by Co method (see text); cErrors (95% conﬁdence) are either the internal 2 standard errors based on counting statistics or external uncertainty calculated as the root mean square difference (Hyslop and White, 2009) of the six duplicate preparations and analyses, whichever is greater; dexternal precision (2 root mean square difference) on (234U/238U) measurement is 0.37%. “Lat”, “Lon.”, and “Dep.” are short for latitude, longitude, and depth. eConcentrations were derived from isotope dilution method. such diffusional overprinting seems to have affected only the surface 1 to 2 mm layer of all crusts examined here, except for ALV539 which has elevated (234U/238U) values on the surface and deeper parts, but secular equilibrium values in the middle.",
+            "text_tag": []
+        },
+        {
+            "text": "The latter pattern is most likely due to bottom-up diffusion of modern seawater through the underlying substrate (Goto and others, 2014).",
+            "text_tag": []
+        },
+        {
+            "text": "These observations suggest that the U concentrations in these Fe-Mn crusts are controlled primarily by growth processes, rather than by temporal changes in seawater U concentrations.",
+            "text_tag": []
+        },
+        {
+            "text": "Phosphatization typically affects crusts formed at water depths shallower than-2500 m.",
+            "text_tag": []
+        },
+        {
+            "text": "70 Xiangli Wang and others—A cenozoic seawater redox record derived A s O 8 8 1 / s O 7 8 1 1.2 1 0.8 0.6 0.4 0.2 0 0 20 40 60 80 D11-1 ANTP109D-E DODO232D-B ALV539 CD29-2 0.0 B 0.2 0.4 0.6 0.8 ) ‰ U ( 8 3 2 δ 0 20 40 Time (Myr) 60 80 Fig.",
+            "text_tag": []
+        },
+        {
+            "text": "2. Results for (cid:3)238U in Fe-Mn crusts (B) and previously published Os isotope data (A) for the seawater (shaded band) and the same Fe-Mn crusts.",
+            "text_tag": []
+        },
+        {
+            "text": "Modern seawater (cid:3)238U value is indicated by the thick dashed line (Tissot and Dauphas, 2015 and references therein).",
+            "text_tag": []
+        },
+        {
+            "text": "The fact that Os isotope data in the Fe-Mn crusts align well with the seawater Os data suggests that the Os isotopic compositions in Fe-Mn crusts are not altered by the modern water.",
+            "text_tag": []
+        },
+        {
+            "text": "Os data sources: CD29-2, Klemm and others, 2005; ALV539, Klemm and others, 2008; ANTP109D-E, Nielsen and others, 2011; seawater, reviewed in Klemm and others, 2005.",
+            "text_tag": []
+        },
+        {
+            "text": "Since the ages of the younger intervals are well constrained by the cosmogenic 10Be and 187Os/188Os methods, such mismatch is not likely explainable by errors on age constraints and is more likely due to addition of 234U from modern seawater, which has a (234U/238U) of-1.14 (Ku and others, 1977; Henderson and Burton, 1999).",
+            "text_tag": []
+        },
+        {
+            "text": "As seawater diffuses inward along the grain boundary, 234U is concurrently consumed by decay.",
+            "text_tag": []
+        },
+        {
+            "text": "The fact that elevated (234U/238U) was observed in young layers but not older layers can be explained by two possible scenarios: (1) The penetration length scale of diffusive inﬂuence is on the order of-1 to 2 mm and thus only the young layers are affected; (2) diffusion advances further into the interior of the crust, but the timescale of diffusion beyond-1 to 2 mm into the Fe-Mn crust is long enough for secular equilibrium to be achieved, and from 238U/235U in ferromanganese crusts 71 1.2 1.1 1.0 0.9 0.8 0.7 0.6 (A) Modern seawater Secular equilibrium D11-1 ANTP109D-E DODO232D-B Modern SW ALV539 CD29-2 Sec.",
+            "text_tag": []
+        },
+        {
+            "text": "1.2 1.2 1.1 1.1 1.0 1.0 0.9 ) U 8 3 2 / U 4 3 2 ( (B) Modern seawater Secular equilibrium Closed-system decay ) U 8 3 2 / U 4 3 2 ( 0 20 40 Time (Myr) 60 80 0 1 2 3 4 5 6 7 Time (Myr) Fig.",
+            "text_tag": []
+        },
+        {
+            "text": "3. 234U/238U activity ratio, represented as (234U/238U), as a monitor of diffusional overprinting by modern seawater.",
+            "text_tag": []
+        },
+        {
+            "text": "The upper and lower horizontal dashed lines in (A and B) represent modern seawater value and secular equilibrium value of 1.14 and 1, respectively (Ku and others, 1977). (B) shows magniﬁed details of the rectangular area in (A), with the black curve showing the theoretical (234U/238U) evolution in a closed system (calculated using half-lives from Cheng and others, 2013).",
+            "text_tag": []
+        },
+        {
+            "text": "Larger age error bars for DODO232D-B are due to lack of Os chemostratigraphy. therefore (234U/238U) appears as if there was no diffusion despite overprinting of (cid:3)238U values by recent seawater throughout the crust.",
+            "text_tag": []
+        },
+        {
+            "text": "However, Fe-Mn crusts are taken to faithfully record the seawater 187Os/188Os trend derived from independent archives (ﬁg. 2).",
+            "text_tag": []
+        },
+        {
+            "text": "As a result, there is no readily available mechanistic explanation for overprinting the (cid:3)238U record throughout the crust by recent seawater while simultaneously leaving the 187Os/188Os system unperturbed.",
+            "text_tag": []
+        },
+        {
+            "text": "No correlation was found among individual crusts, suggesting crust U concentration is not controlled by seawater U concentration but by formation mechanisms.",
+            "text_tag": []
+        },
+        {
+            "text": "72 Xiangli Wang and others—A cenozoic seawater redox record derived trends.",
+            "text_tag": []
+        },
+        {
+            "text": "Therefore, the most plausible explanation for the stability of the (cid:3)238U record is that on timescales of-3 Myr, the Fe-Mn crusts examined here provide a robust archive for seawater (cid:3)238U composition that has remained essentially unchanged throughout the Cenozoic.",
+            "text_tag": []
+        },
+        {
+            "text": "Uranium Isotope Mass Balance Modeling In order to quantitatively relate our seawater U isotope record to the spatial extent of benthic ocean anoxia, we construct a simple isotope mass balance model designed to explore the sensitivity of the U isotope system to shifts in ocean redox state.",
+            "text_tag": []
+        },
+        {
+            "text": "Goto and others (2014) aimed to investigate the effect of metallic sediment production on seawater (cid:3)238U, whereas Tissot and Dauphas (2015) focused on testing the robustness of various ocean U budgets.",
+            "text_tag": []
+        },
+        {
+            "text": "In contrast, our goal is to explicitly examine the sensitivity of seawater (cid:3)238U to changing relative proportions of oxic, suboxic, and anoxic/ euxinic seaﬂoor.",
+            "text_tag": []
+        },
+        {
+            "text": "Following Goto and others (2014) and references therein, transient global seawater [U] and (cid:3)238U can be written as: dMSW/dt (cid:5) Fr (cid:11)/dt-Fr SW (cid:3) r (cid:8) (cid:9)Fi (cid:10)(cid:3) (cid:3) (cid:9)Fi (cid:4) (cid:12) (cid:11) i SW (1) (2) d(cid:10)MSW (cid:3) where MSW refers to the mass of U in seawater; Fr represents the river input ﬂux and Fi SW and (cid:3)r refer to the represents anoxic, suboxic, and oxic sink ﬂuxes (mol yr (cid:3)238U values of seawater and the river input; (cid:12) i refers to isotopic fractionation factors for anoxic, suboxic, and oxic sinks.",
+            "text_tag": []
+        },
+        {
+            "text": "If where fi is the fraction of individual sink ﬂuxes out of the total input ﬂux: fi we assume that removal mechanisms are ﬁrst order with respect to seawater U concentration (Hastings and others, 1996; Partin and others, 2013; Reinhard and others, 2013), we have SW r i Fi kiAi (cid:13)U(cid:14) (5) where Ai represents the seaﬂoor areas covered by various sinks; [U] denotes seawater U concentration, and ki terms are effective burial rate constants solved for by inverting modern areas and burial ﬂuxes (see table 3).",
+            "text_tag": []
+        },
+        {
+            "text": "5. Following previous studies (Montoya-Pino and others, 2010; Brennecka and others, 2011a; Goto and others, 2014), the riverine input ﬂux (Fr) is considered to be the dominant source of U to the ocean—aeolian and subsea groundwater discharges are ignored because of their relatively small contributions.",
+            "text_tag": []
+        },
+        {
+            "text": "Note that anoxic/ sulﬁdic, suboxic and oxic are referring to the porewater redox, not the overlying water column.",
+            "text_tag": []
+        },
+        {
+            "text": "Speciﬁcally, anoxic is deﬁned as [O2] (cid:5) [H2S] (cid:15) 0 (cid:16)mol/L, sulﬁdic as [O2] (cid:5) 0 (cid:16)mol/L and [H2S] (cid:5) 11 from 238U/235U in ferromanganese crusts 73 Table 3 Parameters used in the mass balance model References: (1) Andersen and others, 2014; (2) Barnes and Cochran, 1990; (3) Dunk and others, 2002; (4) Hastings and others, 1996; (5) Holmden and others, 2015; (6) Noordmann and others, 2010; (7) Romaniello, 2012 ; (8) Veeh, 1968; (9) Weyer and others, 2008; (10) Morford and Emerson, 1999; (11) Tissot and Dauphas, 2015; (12) Chen and others, 1986. *Calculated by equation (5) using modern ﬂux, seawater U concentration, and seaﬂoor area associated with each type of sink.",
+            "text_tag": []
+        },
+        {
+            "text": "Carbonates have been found to be isotopically fractionated from modern seawater by approximately 0.2 permil (Tissot and Dauphas, 2015 and references therein).",
+            "text_tag": []
+        },
+        {
+            "text": "Fe-Mn crusts are isotopically fractionated from seawater by about -0.24 permil (Brennecka and others, 2011b; Goto and others, 2014).",
+            "text_tag": []
+        },
+        {
+            "text": "Existing data on pelagic sediments suggest a very small fractionation from seawater (0.04‰, Andersen and others, 2014).",
+            "text_tag": []
+        },
+        {
+            "text": "Altered oceanic basalts are fractionated from seawater by up to (cid:18)0.25 permil (Tissot and Dauphas, 2015).",
+            "text_tag": []
+        },
+        {
+            "text": "Taking the ﬂux data for these individual oxic sinks summarized in Goto and others (2014) (table 4), the overall fractionation factor of the lumped oxic sink from seawater is calculated as the weighted average of these individual sinks, which is 0.005 permil.",
+            "text_tag": []
+        },
+        {
+            "text": "The isotope 74 Xiangli Wang and others—A cenozoic seawater redox record derived River input: Fr = 42 δ238U = -0.24‰ Ocean: [U]SW = 14.3 nM U inventory = 1.9 × 1013 mol δ238U = -0.40‰ τU = ~ 400 kyr Ocean mixing time = ~1 kyr Anoxic: Fanox = 4.5 Δanoxci-SW =+0.6‰ Suboxic: Fsubox = 15.3 Δsubox-SW =+0.1‰ Carbonate: Fcarb = 5.6 Δcarb-SW =+0.2‰ Metallic: Fmet = 1.0 Δmeti-SW =-0.24‰ Alteration: Falt = 5.8 Δalt-SW HT=0.0‰ LT=+0.25‰ Pelagic: Fpel = 3.0 Δpel-SW =+0.04‰ Coastal: Fcoa = 7.6 Δcoa-SW =-0.24‰ Oxic: Fox = 22.9; Δox-SW= 0.005‰ Fig.",
+            "text_tag": []
+        },
+        {
+            "text": "Riverine input is assumed to be the only source of U to the ocean: aeolian and groundwater sources are ignored because of their small contributions.",
+            "text_tag": []
+        },
+        {
+            "text": "Following previous modeling studies (Montoya-Pino and others, 2010; Brennecka and others, 2011a; Goto and others, 2014; Tissot and Dauphas, 2015), (cid:18)0.6 permil is chosen as the average fractionation factor for anoxic sinks from seawater for our baseline model.",
+            "text_tag": []
+        },
+        {
+            "text": "The modeling result shows that with our current understanding of global U mass balance and U isotope fractionation in different marine settings, from 238U/235U in ferromanganese crusts 75 Table 4 Break down of the oxic sink into individual sinks, together with their isotope fractionation factors from seawater ((cid:12) i) The overall U isotope fractionation factor for the lumped oxic sink is calculated as the weighted average of individual ones. seawater U concentration and (cid:3)238U both decrease as anoxic seaﬂoor area increases.",
+            "text_tag": []
+        },
+        {
+            "text": "For instance, in ﬁgure 6B an increase in anoxic seaﬂoor area by a factor of 3 brings the seawater (cid:3)238U from modern value of -0.40 permil down to -0.49 permil, keeping suboxic seaﬂoor unchanged.",
+            "text_tag": []
+        },
+        {
+            "text": "However, if the increase in anoxic seaﬂoor area is accompanied by a concurrent increase in suboxic seaﬂoor area from a modern value of 6 percent to 20 percent, seawater (cid:3)238U is reduced by a slightly smaller offset.",
+            "text_tag": []
+        },
+        {
+            "text": "In this case, the drawdown in seawater (cid:3)238U is slightly enhanced (down to -0.51‰).",
+            "text_tag": []
+        },
+        {
+            "text": "Implications of Ocean Deoxygenation The invariant Cenozoic (cid:3)238U values recorded in Fe-Mn crusts suggest that benthic anoxia has remained remarkably stable on a broad scale.",
+            "text_tag": []
+        },
+        {
+            "text": "A-10 °C surface temperature change over the last 60 (cid:8)1 decreases in dissolved O2 in the surface ocean Myr should have caused (cid:17)65 (cid:16)mol L 76 Xiangli Wang and others—A cenozoic seawater redox record derived ] n r e d o m U [ / ] U [ ] n r e d o m U [ / ] U [ 2.0 1.5 1.0 0.5 A 0.0 0 2 2.0 1.5 1.0 0.5 0.0 2.0 C 0 2 ] 1.5 n r e d o m U [ / ] U 0.5 [ 1.0 E 0.0 0 2 20% suboxic 6% suboxic (modern) 1% suboxic 0.3 0.4 0.5 0.6 ) ‰ U ( 8 3 2 δ Modern seawater B 0.7 6 4 4 Anoxic seafloor area relative to modern 10 2 8 0 Δanox= 0.5‰ Δanox= 0.6‰ Δanox= 0.7‰ 0.3 0.4 0.5 0.6 0.7 D ) ‰ U ( 8 3 2 δ 6 8 10 Δanox= 0.5‰ Δanox= 0.6‰ Δanox= 0.7‰ 8 6 4 Anoxic seafloor area relative to modern 10 2 4 0 6 8 10 Δsubox= 0.15‰ Δsubox= 0.10‰ Δsubox= 0.05‰ 0.3 0.4 0.5 0.6 ) ‰ U ( 8 3 2 δ F 0.7 4 6 4 Anoxic seafloor area relative to modern 10 2 8 0 Δsubox= 0.15‰ Δsubox= 0.10‰ Δsubox= 0.05‰ 6 8 10 Fig.",
+            "text_tag": []
+        },
+        {
+            "text": "In B, D, and E, the horizontal dashed line represents the modern seawater minus the analytical uncertainty (0.07‰), with the vertical dashed lines denoting the uncertainties on our reconstructed anoxic seaﬂoor area.",
+            "text_tag": []
+        },
+        {
+            "text": "With an analytical uncertainty of (cid:4)0.07‰ on seawater (cid:3)238U reconstruction, anoxic seaﬂoor area has remained less than-1% of the total seaﬂoor area (-3 times the modern value).",
+            "text_tag": []
+        },
+        {
+            "text": "With all other factors affecting marine oxygen levels being held constant, this should have caused well over an order of magnitude increase in ocean anoxia compared to today, given the spatial distribution of modern low oxygen surface water (Weiss, 1970; Jaccard and Galbraith, 2012).",
+            "text_tag": []
+        },
+        {
+            "text": "In addition, approximately 8 percent of the (cid:8)1 O2 (Paulmier and Ruiz-Pino, shallow ocean is occupied by OMZs with (cid:6)20 (cid:16)mol L 2009).",
+            "text_tag": []
+        },
+        {
+            "text": "Further, the most recent efforts to model atmospheric oxygen levels suggest slightly lower atmospheric pO2 during the early and middle Cenozoic (for example, Berner, 2006).",
+            "text_tag": []
+        },
+        {
+            "text": "All these factors discussed above should have driven the shallow oceans toward lower oxygen conditions in the early to middle Cenozoic.",
+            "text_tag": []
+        },
+        {
+            "text": "In response to decreased surface seawater oxygen levels, and potentially to increased ocean stratiﬁcation due to warming, the deep ocean should also have experienced decreased oxygen levels.",
+            "text_tag": []
+        },
+        {
+            "text": "The stark contrast between our ﬁnding and O2-solubility-based expectation suggests that benthic marine redox, and by inference water column oxygenation on a broad scale, has been somehow stabilized against a backdrop of large changes in tectonic activity, Earth surface temperatures, and ocean circulation.",
+            "text_tag": []
+        },
+        {
+            "text": "Marine dissolved oxygen concentrations reﬂect the balance between oxygen supply via gas-water equilibration at the surface and oxygen consumption throughout the water column.",
+            "text_tag": []
+        },
+        {
+            "text": "It is generally agreed that warmer climate (for example, the early to middle Cenozoic) tends to cause ocean stratiﬁcation due to freshening of high-latitude surface water (Sarmiento and others, 1998; Keeling and Garcia, 2002; Zachos and others, 2008).",
+            "text_tag": []
+        },
+        {
+            "text": "When there is less organic matter produced, there is less oxygen demand in the water column.",
+            "text_tag": []
+        },
+        {
+            "text": "Although potential stabilizing feedbacks may have prevented large-scale shifts in ocean redox during the Cenozoic, sporadic ocean anoxic events (OAEs) apparently occurred during the Paleozoic and Mesozoic.",
+            "text_tag": []
+        },
+        {
+            "text": "Moving forward, it will be important to 78 Xiangli Wang and others—A cenozoic seawater redox record derived establish why certain internal stabilization mechanisms work effectively for some time periods but not others.",
+            "text_tag": []
+        },
+        {
+            "text": "For example, Cretaceous OAEs have been attributed to multiple phenomena acting synergistically, including climate optima, realignment of major ocean current systems, and release of volcanic CO2 or methane gas hydrate (Jenkyns and others, 2001; Jenkyns, 2010).",
+            "text_tag": []
+        },
+        {
+            "text": "It is important to emphasize that the effects of transient events [for example, the Paleocene-Eocene Thermal Maximum; see Dickson and Cohen (2012) and Dickson and others (2012)] on ocean oxygenation would be unlikely to register at the temporal precision of the records obtained from Fe-Mn crusts.",
+            "text_tag": []
+        },
+        {
+            "text": "Shorter transient perturbations in benthic marine redox are important to explore, but will require archives with higher sedimentation rates and proxies with faster response time. concluding remarks A new U isotope record from hydrogenous ferromanganese crusts sampled from three major oceans at different ocean depths yields invariant (cid:3)238U values.",
+            "text_tag": []
+        },
+        {
+            "text": "Combined with a simple isotope mass balance model, we suggest that the spatial extent of anoxic seaﬂoor throughout the Cenozoic has remained with a factor of 3 of the modern value, well below-1 percent of total seaﬂoor area.",
+            "text_tag": []
+        },
+        {
+            "text": "Appendix Methods A 233U-236U double spike method was used to correct for instrumental mass bias and potential isotopic fractionation during sample preparation (Weyer and others, 2008; Shiel and others, 2013).",
+            "text_tag": []
+        },
+        {
+            "text": "Sample aliquots with 300 ng U were spiked with appropriate amount of double spike to yield a 238U/236U ratio of-30.",
+            "text_tag": []
+        },
+        {
+            "text": "The sample-spike mixtures were then slowly evaporated to dryness and redissolved in 3 N HNO3.",
+            "text_tag": []
+        },
+        {
+            "text": "Samples were puriﬁed with the UTEVA ion exchange resin (based on ref. Weyer and others, 2008).",
+            "text_tag": []
+        },
+        {
+            "text": "Brieﬂy, U samples in 3 N HNO3 were loaded onto 0.2 mL UTEVA resin columns (inner diameter of 0.33 mm) pre-cleaned with 4 mL 0.05 N HCl and preconditioned with 1 mL 3 N HNO3.",
+            "text_tag": []
+        },
+        {
+            "text": "Collected U samples were evaporated to dryness and treated with a few drops of concentrated distilled HNO3 to destroy potential residual organics leached from the resin. from 238U/235U in ferromanganese crusts 79 Puriﬁed U samples were dissolved in 2 mL 0.3 N HNO3 and introduced into the MC-ICP-MS with a DSN 100 desolvating system (Nu Instrument, UK) housed at Department of Geology, University of Illinois at Urbana-Champaign.",
+            "text_tag": []
+        },
+        {
+            "text": "The CRM 112a (New Brunswick Laboratory, U.S. Department of Energy) standard was analyzed every 3 samples to monitor drift in instrumental mass bias.",
+            "text_tag": []
+        },
+        {
+            "text": "The (cid:3)238U and (234U/238U) values of samples were normalized to the average values of the bracketing CRM 112a, assuming (cid:3)238UCRM 112a (cid:5) 0‰ (cid:5) 0.9619. (234U/238U) values are calculated using decay constants for 238U and and (234U/238U)CRM 112a 234U of 1.55(cid:20)10(cid:8)10 and 2.83(cid:20)10(cid:8)6, respectively (Cheng and others, 2013; Villa and others, 2016).",
+            "text_tag": []
+        },
+        {
+            "text": "Secondary standards IRMM REIMP 18a (JRC, Brussels, Belgium) and CRM 129 (New Brunswick Laboratory, U.S. Department of Energy) measured in each session before samples yielded (cid:3)238U values of -0.17(cid:4)0.09‰ (2SD, n (cid:5) 5) and (cid:8)1.77(cid:4)0.07 (2 SD, n (cid:5) 5), respectively, consistent with other studies (Weyer and others, 2008; Shiel and others, 2013).",
+            "text_tag": []
+        },
+        {
+            "text": "External uncertainties for (cid:3)238U, U concentration, and (234U/238U) measurements were (cid:4)0.07‰, (cid:4)0.1 (cid:16)g g(cid:8)1, and 3.7‰ at 95% conﬁdence level, respectively, calculated as the root mean square difference of six duplicate sample preparations and analyses (Hyslop and White, 2009).",
+            "text_tag": []
+        },
+        {
+            "text": "Procedural blank was-10 – 40 pg, which was negligible ((cid:6)0.01%) compared to 300 ng sample U. References Andersen, M. B., Romaniello, S., Vance, D., Little, S. H., Herdman, R., and Lyons, T. W., 2014, A modern framework for the interpretation of 238U/235U in studies of ancient ocean redox: Earth and Planetary Science Letters, v. 400, p. 184 –194, http://dx.doi.org/10.1016/j.epsl.2014.05.051 Andersen, M. B., Vance, D., Morford, J. L., Bura-Nakic´, E., Breitenbach, S. F. M., and Och, L., 2016, Closing in on the marine 238/235U budget: Chemical Geology, v. 420, p. 11–22, http://dx.doi.org/10.1016/ j.chemgeo.2015.10.041 Anderson, R. F., Fleisher, M. Q., and LeHuray, A. P., 1989, Concentration, oxidation state, and particulate ﬂux of uranium in the Black Sea: Geochimica et Cosmochimica Acta, v. 53, n.",
+            "text_tag": []
+        },
+        {
+            "text": "1–2, p. 94 –101, http://dx.doi.org/10.1016/0012821X(90)90101-3 Basu, A., Sanford, R. A., Johnson, T. M., Lundstrom, C. C., and Loﬂer, F. E., 2014, Uranium Isotopic Fractionation Factors during U(VI) Reduction by Bacterial Isolates: Geochimica et Cosmochimica Acta, v. 136, p. 100 –113, http://dx.doi.org/10.1016/j.gca.2014.02.041 Behrenfeld, M. J., O’Malley, R. T., Siegel, D. A., McClain, C. R., Sarmiento, J. L., Feldman, G. C., Milligan, A. J., Falkowski, P. G., Letelier, R. M., and Boss, E. S., 2006, Climate-driven trends in contemporary ocean productivity: Nature, v. 444, p. 752–755, http://dx.doi.org/10.1038/nature05317 Bender, M. L., 1990, The (cid:3)18O of dissolved O2 in seawater: A unique tracer of circulation and respiration in the deep sea: Journal of Geophysical Research- Oceans, v. 95, n.",
+            "text_tag": []
+        },
+        {
+            "text": "C2, p. 22243–22252, http://dx.doi.org/ 10.1029/JC095iC12p22243 Berner, R. A., 1981, A new geochemical classiﬁcation of sedimentary environments: Journal of Sedimentary Research, v. 51, n.",
+            "text_tag": []
+        },
+        {
+            "text": "2, p. 359 –365, http://dx.doi.org/0.1306/212F7C7F-2B24-11D7-8648000102C1865D –––––– 2006, GEOCARBSULF: A combined model for Phanerozoic atmospheric O2 and CO2: Geochimica et Cosmochimica Acta, v. 70, n.",
+            "text_tag": []
+        },
+        {
+            "text": "6, p. 1415–1434, http://dx.doi.org/10.1016/0016-7037(73)90080-X Bopp, C. J., IV, Lundstrom, C. C., Johnson, T. M., Sanford, R. A., Long, P. E., and Williams, K. H., 2010, Uranium 238U/235U isotope ratios as indicators of reduction: Results from an in situ biostimulation experiment at Riﬂe, Colorado, USA: Environmental Science & Technology, v. 44, p. 5927–5933, http://dx.doi.org/10.1021/es100643v Bourdon, B., Turner, S., Henderson, G. M., and Lundstrom, C. C., 2003, Introduction to U-series geochemistry: Reviews in Mineralogy and Geochemistry, v. 52, n.",
+            "text_tag": []
+        },
+        {
+            "text": "1, p. 1–21, http://dx.doi.org/10.2113/ 0520001 Boyle, R. A., Clark J. R., Poulton, S. W., Shields-Zhou, G., Canﬁeld, D. E., and Lenton T. M., 2013, Nitrogen cycle feedbacks as a control on euxinia in the mid-Proterozoic ocean: Nature Communications, v. 4, p. 1533, http://dx.doi.org/10.1038/ncomms2511 Brennecka, G. A., Herrmann, A. D., Algeo, T. J., and Anbar, A. D., 2011a, Rapid expansion of oceanic anoxia immediately before the end-Permian mass extinction: Proceedings of the National Academy of Sciences of the United States of America, v. 108, p. 17631–17634, http://dx.doi.org/10.1073/pnas.1106039108 Brennecka, G. A., Wasylenki, L. E., Bargar, J. R., Weyer, S., and Anbar, A. D., 2011b, Uranium Isotope Fractionation during Adsorption to Mn-Oxyhydroxides: Environmental Science & Technology, v. 45, n.",
+            "text_tag": []
+        },
+        {
+            "text": "80 Xiangli Wang and others—A cenozoic seawater redox record derived Burton, K. W., 2006, Global weathering variations inferred from marine radiogenic isotope records: Journal of Geochemical Exploration, v. 88, n.",
+            "text_tag": []
+        },
+        {
+            "text": "13, p. 2060 –2067, http://dx.doi.org/10.1021/ac00236a027 Chen, J. H., Edwards, R. L., and Wasserburg, G. J., 1986, 238U, 234U and 232Th in seawater: Earth and Planetary Science Letters, v. 80, n.",
+            "text_tag": []
+        },
+        {
+            "text": "1–2, p. 17–33, http://dx.doi.org/10.1016/ S0009-2541(99)00157-6 Cheng, H., Edwards, R. L., Shen, C.-C., Polyak, V. J., Asmerom, Y., Woodhead, J., Hellstrom, J., Wang, Y., Kong, X., Spotl, C., Wang, X., and Alexander, E. A., Jr., 2013, Improvements in 230 Th dating, 230Th and 234U half-life values, and U–Th isotopic measurements by multi-collector inductively coupled plasma mass spectrometry: Earth and Planetary Science Letters, v. 371–372, p. 82–91, http://dx.doi.org/ 10.1016/j.epsl.2013.04.006 Clark, S. K., and Johnson, T. M., 2008, Effective isotopic fractionation factors for solute removal by reactive sediments: A laboratory microcosm and slurry study: Environmental Science & Technology, v. 42, n.",
+            "text_tag": []
+        },
+        {
+            "text": "1–2, p. 394 – 410, http://dx.doi.org/10.1016/j.epsl.2006.06.004 Dickson, A. J., and Cohen, A. S., 2012, A molybdenum isotope record of Eocene Thermal Maximum 2: Implications for global ocean redox during the early Eocene: Paleoceanography, v. 27, n.",
+            "text_tag": []
+        },
+        {
+            "text": "PA3230, http://dx.doi.org/10.1029/2012PA002346 Dickson, A. J., Cohen, A. S., and Coe, A. L., 2012, Seawater oxygenation during the Paleocene-Eocene thermal maximum: Geology, v. 40, n.",
+            "text_tag": []
+        },
+        {
+            "text": "1– 4, p. 45– 67, http://dx.doi.org/10.1016/S0009-2541(02)00110-9 Frank, M., O’Nions, R. K., Hein, J. R., and Banakar, V. K., 1999, 60 Myr records of major elements and Pb-Nd isotopes from hydrogenous ferromanganese crusts: Reconstruction of seawater paleochemistry: Geochimica et Cosmochimica Acta, v. 63, n.",
+            "text_tag": []
+        },
+        {
+            "text": "6, p. 665– 678, http://dx.doi.org/10.1029/96PA01985 Hein, J. R., and Koschinsky, A., 2014, Deep-Ocean Ferromanganese Crusts and Nodules, in Scott, S. D., editor, Geochemistry of Mineral Deposits: Treatise of Geochemistry, 2nd edition, v. 13, p. 273–291, http://dx.doi.org/10.1016/B978-0-08-095975-7.01111-6 Hein, J. R., Yeh, H. W., Gunn, S. H., Sliter, W. V., Benninger, L. M., and Wang, C. H., 1993, Two major Cenozoic episodes of phosphogenesis recorded in equatorial Paciﬁc seamount deposits: Paleoceanography, v. 8, n.",
+            "text_tag": []
+        },
+        {
+            "text": "2, p. 293–311, http://dx.doi.org/10.1029/93PA00320 Helly, J. J., and Levin, L. A., 2004, Global distribution of naturally occurring marine hypoxia on continental margins: Deep Sea Research Part I: Oceanographic Research Papers, v. 51, n.",
+            "text_tag": []
+        },
+        {
+            "text": "9, p. 1159 –1168, http://dx.doi.org/10.1016/j.dsr.2004.03.009 Henderson, G. M., 2002, Seawater (234U/238U) during the last 800 thousand years: Earth and Planetary Science Letters, v. 199, n.",
+            "text_tag": []
+        },
+        {
+            "text": "Q03004, http://dx.doi.org/10.1029/2009GC002788 Jenkyns H. C., Grocke D. R., and Hesselbo, S. P., 2001, Nitrogen isotope evidence for water mass denitriﬁcation during the early Toarcian (Jurassic) oceanic anoxic event: Paleoceanography, v. 16, n.",
+            "text_tag": []
+        },
+        {
+            "text": "6, p. 593– 603, http://dx.doi.org/10.1029/2000PA000558 Junium, C. K., and Arthur, M. A., 2007, Nitrogen cycling during the Cretaceous, Cenomanian-Turonian oceanic anoxic event II: Geochemistry, Geophysics, Geosystems, v. 8, p.",
+            "text_tag": []
+        },
+        {
+            "text": "1–2, p. 42– 48, http:// dx.doi.org/10.1016/j.epsl.2005.07.016 Klemm, V., Frank, M., Levasseur, S., Halliday, A. N., and Hein, J. R., 2008, Seawater osmium isotope evidence for a middle Miocene ﬂood basalt event in ferromanganese crust records: Earth and Planetary Science Letters, v. 273, n.",
+            "text_tag": []
+        },
+        {
+            "text": "24, p. 5113–5132, http://dx.doi.org/10.1016/ 0016-7037(95)00358-4 Koschinsky, A., and Hein, J. R., 2003, Uptake of elements from seawater by ferromanganese crusts: solid-phase associations and seawater speciation: Marine Geology, v. 198, n.",
+            "text_tag": []
+        },
+        {
+            "text": "3– 4, p. 331–351, http:// dx.doi.org/10.1016/S0025-3227(03)00122-1 Ku, T.-L., Knauss, K. G., and Mathieu, G. G., 1977, Uranium in open ocean: concentration and isotopic composition: Deep Sea Research, v. 24, n.",
+            "text_tag": []
+        },
+        {
+            "text": "6, Part A, p. 547–569, http://dx.doi.org/ 10.1016/0016-7037(78)90001-7 Ling, H. F., Burton, K. W., O’Nions, R. K., Kamber, B. S., von Blanckenburg, F., Gibb, A. J., and Hein, J. R., 1997, Evolution of Nd and Pb isotopes in Central Paciﬁc seawater from ferromanganese crusts: Earth and Planetary Science Letters, v. 146, n.",
+            "text_tag": []
+        },
+        {
+            "text": "3– 4, p. 297–307, http://dx.doi.org/ 10.1016/j.epsl.2008.12.010 Nielsen, S. G., Gannoun, A., Marnham, C., Burton, K. W., Halliday, A. N., and Hein, J. R., 2011, New age for ferromanganese crust 109D–C and implications for isotopic records of lead, neodymium, hafnium, and thallium in the Pliocene Indian Ocean: Paleoceanography, v. 26, p.",
+            "text_tag": []
+        },
+        {
+            "text": "Noordmann, J., Weyer, S., Georg, R. B., Jons, S., and Sharma, M., 2015, 238U/235U isotope ratios of crustal material, rivers and products of hydrothermal alteration: New insights on the oceanic U isotope mass balance: Isotopes in Environmental and Health Studies, p. 1–23, http://dx.doi.org/10.1080/ 10256016.2015.1047449.",
+            "text_tag": []
+        },
+        {
+            "text": "1–2, p. 15–28, http://dx.doi.org/10.1016/S0012-821X(97)00207-0 Partin, C. A., Bekker, A., Planavsky, N. J., Scott, C. T., Gill, B. C., Li, C., Podkovyrov, V., Maslov, A., 82 Xiangli Wang and others—A cenozoic seawater redox record derived Konhauser, K. D., Lalonde, S. V., Love, G. D., Poulton, S. W., and Lyons, T. W., 2013, Large-scale ﬂuctuations in Precambrian atmospheric and oceanic oxygen levels from the record of U in shales: Earth and Planetary Science Letters, v. 369 –370, p. 284 –293, http://dx.doi.org/10.1016/ j.epsl.2013.03.031 Paulmier, A., and Ruiz-Pino, D., 2009, Oxygen minimum zones (OMZs) in the modern ocean: Progress in Oceanography, v. 80, n.",
+            "text_tag": []
+        },
+        {
+            "text": "1–2, p. 73– 85, http://dx.doi.org/ 10.1016/0009-2541(88)90159-3 Rademacher, L. K., Lundstrom, C. C., Johnson, T. M., Sanford, R. A., Zhao, J., and Zhang, Z., 2006, Experimentally determined uranium isotope fractionation during reduction of hexavalent U by bacteria and zero valent iron: Environmental Science & Technology, v. 40, n.",
+            "text_tag": []
+        },
+        {
+            "text": "22, p. 6943– 6948, http://dx.doi.org/10.1021/es0604360 Rehkamper, M., Frank, M., Hein, J. R., Porcelli, D., Halliday, A., Ingri, J., and Liebetrau, V., 2002, Thallium isotope variations in seawater and hydrogenetic, diagenetic, and hydrothermal ferromanganese deposits: Earth and Planetary Science Letters, v. 197, n.",
+            "text_tag": []
+        },
+        {
+            "text": "12, p. 65– 81, http://dx.doi.org/10.1016/S0012821X(02)00462-4 Rehkamper, M., Frank, M., Hein, J. R., and Halliday, A., 2004, Cenozoic marine geochemistry of thallium deduced from isotopic studies of ferromanganese crusts and pelagic sediments: Earth and Planetary Science Letters, v. 219, n.",
+            "text_tag": []
+        },
+        {
+            "text": "1–2, p. 77–91, http://dx.doi.org/10.1016/S0012-821X(03)00703-9 Reinhard, C. T., Planavsky, N. J., Robbins, L. J., Partin, C. A., Gill, B. C., Lalonde, S. V., Bekker, A., Konhauser, K. O., and Lyons, T. W., 2013, Proterozoic ocean redox and biogeochemical stasis: Proceedings of the National Academy of Sciences of the United States of America, v. 110, n.",
+            "text_tag": []
+        },
+        {
+            "text": "14, p. 5357–5362, http://dx.doi.org/10.1073/pnas.1208622110 Reinhard, C. T., Planavsky, N. J., Wang, X., Fischer, W. W., Johnson, T. M., and Lyons, T. W., 2014, The isotopic composition of authigenic chromium in anoxic marine sediments: A case study from the Cariaco Basin: Earth and Planetary Science Letters, v. 407, p. 9 –18, http://dx.doi.org/10.1016/ j.epsl.2014.09.024 Rohl, U., Westerhold, T., Bralower, T. J., and Zachos, J. C., 2007, On the duration of the Paleocene-Eocene thermal maximum (PETM): Geochemistry, Geophysics, Geosystems, v. 8, n.",
+            "text_tag": []
+        },
+        {
+            "text": "Rozˇmaric´, M., Ivsˇic´, A. G., and Grahek, Zˇ., 2009, Determination of uranium and thorium in complex samples using chromatographic separation, ICP-MS and spectrophotometric detection: Talanta, v. 80, n.",
+            "text_tag": []
+        },
+        {
+            "text": "9, p. 2170 –2189, http://dx.doi.org/10.1016/j.gca.2007.02.004 Shaffer, G., Olsen, S. M., and Pedersen, J. O. P., 2009, Long-term ocean oxygen depletion in response to carbon dioxide emissions from fossil fuels: Nature Geoscience, v. 2, p. 105–109, http://dx.doi.org/ 10.1038/ngeo420 Shiel, A. E., Laubach, P. G., Johnson, T. M., Lundstrom, C. C., Long, P. E., and Williams, K. H., 2013, No measurable changes in 238U/235U due to desorption-adsorption of U(VI) from groundwater at the Riﬂe, Colorado, Integrated Field Research Challenge Site: Environmental Science & Technology, v. 47, n.",
+            "text_tag": []
+        },
+        {
+            "text": "4, p. 1059 –1071, http://dx.doi.org/10.1016/ j.gca.2004.06.034 Stirling, C. H., Andersen, M. B., Warthmann, R., and Halliday, A. N., 2015, Isotope fractionation of 238U and 235U during biologically-mediated uranium reduction: Geochimica et Cosmochimica Acta, v. 163, p. 200 –218, http://dx.doi.org/10.1016/j.gca.2015.03.017 Stramma, L., Schmidtko, S., Levin, L. A., and Johnson, G. C., 2010, Ocean oxygen minima expansions and their biological impacts: Deep Sea Research Part I: Oceanographic Research Papers, v. 57, n.",
+            "text_tag": []
+        },
+        {
+            "text": "8, p. 5619 –5624, http://dx.doi.org/10.1073/pnas.1421841112 Tissot, F. L., and Dauphas, N., 2015, Uranium isotopic compositions of the crust and ocean: Age corrections, U budget and global extent of modern anoxia: Geochimica et Cosmochimica Acta, v. 167, p. 113–143, http://dx.doi.org/10.1016/j.gca.2015.06.034 Veeh, H. H., 1968, Deposition of uranium from the ocean: Earth and Planetary Science Letters, v. 3, p. 145–150, http://dx.doi.org/10.1016/0012-821X(67)90026-X Villa, I. M., Bonardi, M. L., De Bie`vre, P., Holden, N., and Renne, P., 2016, IUPAC-IUGS status report on the from 238U/235U in ferromanganese crusts 83 half-lives of 238U, 235U and 234U: Geochimica et Cosmochimica Acta, v. 172, p. 387–392, http:// dx.doi.org/10.1016/j.gca.2015.10.011 Wang, X. L., Johnson, T. M., and Lundstrom, C. C., 2015, Isotope fractionation during oxidation of tetravalent uranium by dissolved oxygen: Geochimica et Cosmochimica Acta, v. 150, p. 160 –170, http://dx.doi.org/10.1016/j.gca.2014.12.007 Ward, B. B., Devol, A. H., Rich, J. J., Chang, B. X., Bulow, S. E., Naik, H., Pratihary, A., and Jayakumar, A., 2009, Denitriﬁcation as the dominant nitrogen loss process in the Arabian Sea: Nature, v. 461, p. 78 – 81, http://dx.doi.org/10.1038/nature08276 Weiss, R. F., 1970, The solubility of nitrogen, oxygen and argon in water and seawater: Deep Sea Research and Oceanographic Abstracts, v. 17, n.",
+            "text_tag": []
+        },
+        {
+            "text": "2, p. 345–359, http://dx.doi.org/10.1016/ j.gca.2007.11.012 Zachos, J. C., Dickens, G. R., and Zeebe, R. E., 2008, An early Cenozoic perspective on greenhouse warming and carbon-cycle dynamics: Nature, v. 451, p. 279 –283, http://dx.doi.org/10.1038/nature06588",
+            "text_tag": []
+        }
+    ],
+    "ttag": [
+        {
+            "tag_name": "SAMPLE",
+            "tag_color": "#BB01CF",
+            "tag_id": "tag_id0"
+        },
+        {
+            "tag_name": "Time",
+            "tag_color": "#969F04",
+            "tag_id": "tag_id1"
+        },
+        {
+            "tag_name": "LOC",
+            "tag_color": "#C68369",
+            "tag_id": "tag_id2"
+        },
+        {
+            "tag_name": "FACE",
+            "tag_color": "#DB8856",
+            "tag_id": "tag_id3"
+        },
+        {
+            "tag_name": "Country",
+            "tag_color": "#6F28B1",
+            "tag_id": "tag_id4"
+        },
+        {
+            "tag_name": "BIO",
+            "tag_color": "#75FA5E",
+            "tag_id": "tag_id5"
+        },
+        {
+            "tag_name": "SEC",
+            "tag_color": "#EAC7A0",
+            "tag_id": "tag_id6"
+        },
+        {
+            "tag_name": "STR",
+            "tag_color": "#E1B712",
+            "tag_id": "tag_id7"
+        }
+    ],
+    "relations": [
+        {
+            "from": {
+                "text_id": "0",
+                "start": 0,
+                "end": 7
+            },
+            "to": {
+                "text_id": "0",
+                "start": 20,
+                "end": 23
+            },
+            "relation": {
+                "entity1_name": "SAMPLE",
+                "entity1_color": "#BB01CF",
+                "entity2_name": "Time",
+                "entity2_color": "#969F04",
+                "relation_color": "#FFD700"
+            }
+        }
+    ],
+    "relationList": [
+        {
+            "entity1_name": "LOC",
+            "entity1_color": "#C68369",
+            "entity2_name": "FACE",
+            "entity2_color": "#DB8856",
+            "relation_color": "#00BFFF"
+        },
+        {
+            "entity1_name": "SAMPLE",
+            "entity1_color": "#BB01CF",
+            "entity2_name": "Time",
+            "entity2_color": "#969F04",
+            "relation_color": "#FFD700"
+        },
+        {
+            "entity1_name": "Time",
+            "entity1_color": "#969F04",
+            "entity2_name": "SAMPLE",
+            "entity2_color": "#BB01CF",
+            "relation_color": "#FF7F50"
+        }
+    ]
+}

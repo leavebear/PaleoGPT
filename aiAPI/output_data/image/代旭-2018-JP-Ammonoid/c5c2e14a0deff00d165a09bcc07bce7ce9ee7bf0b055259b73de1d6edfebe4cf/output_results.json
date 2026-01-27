@@ -1,0 +1,1065 @@
+{
+    "static": [
+        {
+            "name": "Vishnuites pralambha",
+            "unet_box": {
+                "xmin": 1366,
+                "ymin": 1394,
+                "xmax": 1453,
+                "ymax": 1804
+            },
+            "ocr_box": {
+                "text": "24",
+                "xmin": 1389,
+                "ymin": 1830,
+                "xmax": 1436,
+                "ymax": 1863
+            }
+        },
+        {
+            "name": "Vishnuites pralambha",
+            "unet_box": {
+                "xmin": 1135,
+                "ymin": 1392,
+                "xmax": 1330,
+                "ymax": 1804
+            },
+            "ocr_box": {
+                "text": "23",
+                "xmin": 1231,
+                "ymin": 1830,
+                "xmax": 1278,
+                "ymax": 1863
+            }
+        },
+        {
+            "name": "Ophiceratidae gen. indet.",
+            "unet_box": {
+                "xmin": 857,
+                "ymin": 926,
+                "xmax": 1078,
+                "ymax": 1898
+            },
+            "ocr_box": {
+                "text": "20",
+                "xmin": 1171,
+                "ymin": 1303,
+                "xmax": 1220,
+                "ymax": 1340
+            }
+        },
+        {
+            "name": "Vishnuites pralambha",
+            "unet_box": {
+                "xmin": 18,
+                "ymin": 926,
+                "xmax": 837,
+                "ymax": 1896
+            },
+            "ocr_box": {
+                "text": "21",
+                "xmin": 373,
+                "ymin": 1916,
+                "xmax": 418,
+                "ymax": 1950
+            }
+        },
+        {
+            "name": "Ophiceratidae gen. indet.",
+            "unet_box": {
+                "xmin": 1110,
+                "ymin": 664,
+                "xmax": 1494,
+                "ymax": 1116
+            },
+            "ocr_box": {
+                "text": "19",
+                "xmin": 1127,
+                "ymin": 1078,
+                "xmax": 1171,
+                "ymax": 1111
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 909,
+                "ymin": 658,
+                "xmax": 965,
+                "ymax": 850
+            },
+            "ocr_box": {
+                "text": "17",
+                "xmin": 920,
+                "ymin": 863,
+                "xmax": 965,
+                "ymax": 896
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 682,
+                "ymin": 629,
+                "xmax": 880,
+                "ymax": 850
+            },
+            "ocr_box": {
+                "text": "16",
+                "xmin": 747,
+                "ymin": 863,
+                "xmax": 793,
+                "ymax": 896
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 997,
+                "ymin": 617,
+                "xmax": 1058,
+                "ymax": 850
+            },
+            "ocr_box": {
+                "text": "18",
+                "xmin": 1012,
+                "ymin": 863,
+                "xmax": 1058,
+                "ymax": 896
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 453,
+                "ymin": 617,
+                "xmax": 511,
+                "ymax": 824
+            },
+            "ocr_box": {
+                "text": "14",
+                "xmin": 466,
+                "ymin": 840,
+                "xmax": 512,
+                "ymax": 872
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 542,
+                "ymin": 605,
+                "xmax": 603,
+                "ymax": 824
+            },
+            "ocr_box": {
+                "text": "15",
+                "xmin": 559,
+                "ymin": 840,
+                "xmax": 603,
+                "ymax": 873
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 14,
+                "ymin": 596,
+                "xmax": 217,
+                "ymax": 824
+            },
+            "ocr_box": {
+                "text": "12",
+                "xmin": 102,
+                "ymin": 840,
+                "xmax": 147,
+                "ymax": 873
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 235,
+                "ymin": 594,
+                "xmax": 438,
+                "ymax": 824
+            },
+            "ocr_box": {
+                "text": "13",
+                "xmin": 314,
+                "ymin": 840,
+                "xmax": 359,
+                "ymax": 873
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 665,
+                "ymin": 330,
+                "xmax": 723,
+                "ymax": 521
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 689,
+                "ymin": 539,
+                "xmax": 710,
+                "ymax": 567
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 533,
+                "ymin": 306,
+                "xmax": 645,
+                "ymax": 523
+            },
+            "ocr_box": {
+                "text": "7",
+                "xmin": 555,
+                "ymin": 537,
+                "xmax": 581,
+                "ymax": 569
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 383,
+                "ymin": 306,
+                "xmax": 505,
+                "ymax": 525
+            },
+            "ocr_box": {
+                "text": "6",
+                "xmin": 467,
+                "ymin": 539,
+                "xmax": 489,
+                "ymax": 567
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 749,
+                "ymin": 302,
+                "xmax": 808,
+                "ymax": 523
+            },
+            "ocr_box": {
+                "text": "9",
+                "xmin": 769,
+                "ymin": 539,
+                "xmax": 790,
+                "ymax": 567
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 7,
+                "ymin": 34,
+                "xmax": 379,
+                "ymax": 508
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 479,
+                "ymin": 253,
+                "xmax": 504,
+                "ymax": 284
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 965,
+                "ymin": 23,
+                "xmax": 1524,
+                "ymax": 615
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 891,
+                "ymin": 248,
+                "xmax": 916,
+                "ymax": 279
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 869,
+                "ymin": 23,
+                "xmax": 929,
+                "ymax": 218
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 891,
+                "ymin": 248,
+                "xmax": 916,
+                "ymax": 279
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 783,
+                "ymin": 21,
+                "xmax": 847,
+                "ymax": 238
+            },
+            "ocr_box": {
+                "text": "4",
+                "xmin": 808,
+                "ymin": 249,
+                "xmax": 832,
+                "ymax": 279
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 395,
+                "ymin": 19,
+                "xmax": 575,
+                "ymax": 240
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 479,
+                "ymin": 253,
+                "xmax": 504,
+                "ymax": 284
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 591,
+                "ymin": 17,
+                "xmax": 764,
+                "ymax": 238
+            },
+            "ocr_box": {
+                "text": "3",
+                "xmin": 662,
+                "ymin": 248,
+                "xmax": 686,
+                "ymax": 280
+            }
+        }
+    ],
+    "dynamic": [
+        {
+            "name": "Vishnuites pralambha",
+            "unet_box": {
+                "xmin": 1366,
+                "ymin": 1394,
+                "xmax": 1453,
+                "ymax": 1804
+            },
+            "ocr_box": {
+                "text": "24",
+                "xmin": 1389,
+                "ymin": 1830,
+                "xmax": 1436,
+                "ymax": 1863
+            }
+        },
+        {
+            "name": "Vishnuites pralambha",
+            "unet_box": {
+                "xmin": 1135,
+                "ymin": 1392,
+                "xmax": 1330,
+                "ymax": 1804
+            },
+            "ocr_box": {
+                "text": "23",
+                "xmin": 1231,
+                "ymin": 1830,
+                "xmax": 1278,
+                "ymax": 1863
+            }
+        },
+        {
+            "name": "Ophiceratidae gen. indet.",
+            "unet_box": {
+                "xmin": 857,
+                "ymin": 926,
+                "xmax": 1078,
+                "ymax": 1898
+            },
+            "ocr_box": {
+                "text": "20",
+                "xmin": 1171,
+                "ymin": 1303,
+                "xmax": 1220,
+                "ymax": 1340
+            }
+        },
+        {
+            "name": "Vishnuites pralambha",
+            "unet_box": {
+                "xmin": 18,
+                "ymin": 926,
+                "xmax": 837,
+                "ymax": 1896
+            },
+            "ocr_box": {
+                "text": "21",
+                "xmin": 373,
+                "ymin": 1916,
+                "xmax": 418,
+                "ymax": 1950
+            }
+        },
+        {
+            "name": "Ophiceratidae gen. indet.",
+            "unet_box": {
+                "xmin": 1110,
+                "ymin": 664,
+                "xmax": 1494,
+                "ymax": 1116
+            },
+            "ocr_box": {
+                "text": "19",
+                "xmin": 1127,
+                "ymin": 1078,
+                "xmax": 1171,
+                "ymax": 1111
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 909,
+                "ymin": 658,
+                "xmax": 965,
+                "ymax": 850
+            },
+            "ocr_box": {
+                "text": "17",
+                "xmin": 920,
+                "ymin": 863,
+                "xmax": 965,
+                "ymax": 896
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 682,
+                "ymin": 629,
+                "xmax": 880,
+                "ymax": 850
+            },
+            "ocr_box": {
+                "text": "16",
+                "xmin": 747,
+                "ymin": 863,
+                "xmax": 793,
+                "ymax": 896
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 997,
+                "ymin": 617,
+                "xmax": 1058,
+                "ymax": 850
+            },
+            "ocr_box": {
+                "text": "18",
+                "xmin": 1012,
+                "ymin": 863,
+                "xmax": 1058,
+                "ymax": 896
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 453,
+                "ymin": 617,
+                "xmax": 511,
+                "ymax": 824
+            },
+            "ocr_box": {
+                "text": "14",
+                "xmin": 466,
+                "ymin": 840,
+                "xmax": 512,
+                "ymax": 872
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 542,
+                "ymin": 605,
+                "xmax": 603,
+                "ymax": 824
+            },
+            "ocr_box": {
+                "text": "15",
+                "xmin": 559,
+                "ymin": 840,
+                "xmax": 603,
+                "ymax": 873
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 14,
+                "ymin": 596,
+                "xmax": 217,
+                "ymax": 824
+            },
+            "ocr_box": {
+                "text": "12",
+                "xmin": 102,
+                "ymin": 840,
+                "xmax": 147,
+                "ymax": 873
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 235,
+                "ymin": 594,
+                "xmax": 438,
+                "ymax": 824
+            },
+            "ocr_box": {
+                "text": "13",
+                "xmin": 314,
+                "ymin": 840,
+                "xmax": 359,
+                "ymax": 873
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 665,
+                "ymin": 330,
+                "xmax": 723,
+                "ymax": 521
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 689,
+                "ymin": 539,
+                "xmax": 710,
+                "ymax": 567
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 533,
+                "ymin": 306,
+                "xmax": 645,
+                "ymax": 523
+            },
+            "ocr_box": {
+                "text": "7",
+                "xmin": 555,
+                "ymin": 537,
+                "xmax": 581,
+                "ymax": 569
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 383,
+                "ymin": 306,
+                "xmax": 505,
+                "ymax": 525
+            },
+            "ocr_box": {
+                "text": "6",
+                "xmin": 467,
+                "ymin": 539,
+                "xmax": 489,
+                "ymax": 567
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 749,
+                "ymin": 302,
+                "xmax": 808,
+                "ymax": 523
+            },
+            "ocr_box": {
+                "text": "9",
+                "xmin": 769,
+                "ymin": 539,
+                "xmax": 790,
+                "ymax": 567
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 7,
+                "ymin": 34,
+                "xmax": 379,
+                "ymax": 508
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 479,
+                "ymin": 253,
+                "xmax": 504,
+                "ymax": 284
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 965,
+                "ymin": 23,
+                "xmax": 1524,
+                "ymax": 615
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 891,
+                "ymin": 248,
+                "xmax": 916,
+                "ymax": 279
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 869,
+                "ymin": 23,
+                "xmax": 929,
+                "ymax": 218
+            },
+            "ocr_box": {
+                "text": "4",
+                "xmin": 808,
+                "ymin": 249,
+                "xmax": 832,
+                "ymax": 279
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 783,
+                "ymin": 21,
+                "xmax": 847,
+                "ymax": 238
+            },
+            "ocr_box": {
+                "text": "3",
+                "xmin": 662,
+                "ymin": 248,
+                "xmax": 686,
+                "ymax": 280
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 395,
+                "ymin": 19,
+                "xmax": 575,
+                "ymax": 240
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 820,
+                "ymin": 560,
+                "xmax": 858,
+                "ymax": 590
+            }
+        },
+        {
+            "name": "Vishnuites pralambha",
+            "unet_box": {
+                "xmin": 591,
+                "ymin": 17,
+                "xmax": 764,
+                "ymax": 238
+            },
+            "ocr_box": {
+                "text": "22",
+                "xmin": 971,
+                "ymin": 1917,
+                "xmax": 1018,
+                "ymax": 1950
+            }
+        }
+    ],
+    "km": [
+        {
+            "name": "Vishnuites pralambha",
+            "unet_box": {
+                "xmin": 1366,
+                "ymin": 1394,
+                "xmax": 1453,
+                "ymax": 1804
+            },
+            "ocr_box": {
+                "text": "24",
+                "xmin": 1389,
+                "ymin": 1830,
+                "xmax": 1436,
+                "ymax": 1863
+            }
+        },
+        {
+            "name": "Vishnuites pralambha",
+            "unet_box": {
+                "xmin": 1135,
+                "ymin": 1392,
+                "xmax": 1330,
+                "ymax": 1804
+            },
+            "ocr_box": {
+                "text": "23",
+                "xmin": 1231,
+                "ymin": 1830,
+                "xmax": 1278,
+                "ymax": 1863
+            }
+        },
+        {
+            "name": "Vishnuites pralambha",
+            "unet_box": {
+                "xmin": 857,
+                "ymin": 926,
+                "xmax": 1078,
+                "ymax": 1898
+            },
+            "ocr_box": {
+                "text": "22",
+                "xmin": 971,
+                "ymin": 1917,
+                "xmax": 1018,
+                "ymax": 1950
+            }
+        },
+        {
+            "name": "Vishnuites pralambha",
+            "unet_box": {
+                "xmin": 18,
+                "ymin": 926,
+                "xmax": 837,
+                "ymax": 1896
+            },
+            "ocr_box": {
+                "text": "21",
+                "xmin": 373,
+                "ymin": 1916,
+                "xmax": 418,
+                "ymax": 1950
+            }
+        },
+        {
+            "name": "Ophiceratidae gen. indet.",
+            "unet_box": {
+                "xmin": 1110,
+                "ymin": 664,
+                "xmax": 1494,
+                "ymax": 1116
+            },
+            "ocr_box": {
+                "text": "20",
+                "xmin": 1171,
+                "ymin": 1303,
+                "xmax": 1220,
+                "ymax": 1340
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 909,
+                "ymin": 658,
+                "xmax": 965,
+                "ymax": 850
+            },
+            "ocr_box": {
+                "text": "17",
+                "xmin": 920,
+                "ymin": 863,
+                "xmax": 965,
+                "ymax": 896
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 682,
+                "ymin": 629,
+                "xmax": 880,
+                "ymax": 850
+            },
+            "ocr_box": {
+                "text": "16",
+                "xmin": 747,
+                "ymin": 863,
+                "xmax": 793,
+                "ymax": 896
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 997,
+                "ymin": 617,
+                "xmax": 1058,
+                "ymax": 850
+            },
+            "ocr_box": {
+                "text": "18",
+                "xmin": 1012,
+                "ymin": 863,
+                "xmax": 1058,
+                "ymax": 896
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 453,
+                "ymin": 617,
+                "xmax": 511,
+                "ymax": 824
+            },
+            "ocr_box": {
+                "text": "14",
+                "xmin": 466,
+                "ymin": 840,
+                "xmax": 512,
+                "ymax": 872
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 542,
+                "ymin": 605,
+                "xmax": 603,
+                "ymax": 824
+            },
+            "ocr_box": {
+                "text": "15",
+                "xmin": 559,
+                "ymin": 840,
+                "xmax": 603,
+                "ymax": 873
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 14,
+                "ymin": 596,
+                "xmax": 217,
+                "ymax": 824
+            },
+            "ocr_box": {
+                "text": "12",
+                "xmin": 102,
+                "ymin": 840,
+                "xmax": 147,
+                "ymax": 873
+            }
+        },
+        {
+            "name": "Ophiceras sp. indet",
+            "unet_box": {
+                "xmin": 235,
+                "ymin": 594,
+                "xmax": 438,
+                "ymax": 824
+            },
+            "ocr_box": {
+                "text": "13",
+                "xmin": 314,
+                "ymin": 840,
+                "xmax": 359,
+                "ymax": 873
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 665,
+                "ymin": 330,
+                "xmax": 723,
+                "ymax": 521
+            },
+            "ocr_box": {
+                "text": "9",
+                "xmin": 769,
+                "ymin": 539,
+                "xmax": 790,
+                "ymax": 567
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 533,
+                "ymin": 306,
+                "xmax": 645,
+                "ymax": 523
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 689,
+                "ymin": 539,
+                "xmax": 710,
+                "ymax": 567
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 383,
+                "ymin": 306,
+                "xmax": 505,
+                "ymax": 525
+            },
+            "ocr_box": {
+                "text": "7",
+                "xmin": 555,
+                "ymin": 537,
+                "xmax": 581,
+                "ymax": 569
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 749,
+                "ymin": 302,
+                "xmax": 808,
+                "ymax": 523
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 820,
+                "ymin": 560,
+                "xmax": 858,
+                "ymax": 590
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 7,
+                "ymin": 34,
+                "xmax": 379,
+                "ymax": 508
+            },
+            "ocr_box": {
+                "text": "6",
+                "xmin": 467,
+                "ymin": 539,
+                "xmax": 489,
+                "ymax": 567
+            }
+        },
+        {
+            "name": "Ophiceratidae gen. indet.",
+            "unet_box": {
+                "xmin": 965,
+                "ymin": 23,
+                "xmax": 1524,
+                "ymax": 615
+            },
+            "ocr_box": {
+                "text": "19",
+                "xmin": 1127,
+                "ymin": 1078,
+                "xmax": 1171,
+                "ymax": 1111
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 869,
+                "ymin": 23,
+                "xmax": 929,
+                "ymax": 218
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 891,
+                "ymin": 248,
+                "xmax": 916,
+                "ymax": 279
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 783,
+                "ymin": 21,
+                "xmax": 847,
+                "ymax": 238
+            },
+            "ocr_box": {
+                "text": "4",
+                "xmin": 808,
+                "ymin": 249,
+                "xmax": 832,
+                "ymax": 279
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 395,
+                "ymin": 19,
+                "xmax": 575,
+                "ymax": 240
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 479,
+                "ymin": 253,
+                "xmax": 504,
+                "ymax": 284
+            }
+        },
+        {
+            "name": "Ophiceras medium",
+            "unet_box": {
+                "xmin": 591,
+                "ymin": 17,
+                "xmax": 764,
+                "ymax": 238
+            },
+            "ocr_box": {
+                "text": "3",
+                "xmin": 662,
+                "ymin": 248,
+                "xmax": 686,
+                "ymax": 280
+            }
+        }
+    ],
+    "cap": "Figure 4. (1-11) Ophiceras medium Griesbach, 1880, (1) YFMCUG 00001, from GJ-15; (2-5) YFMCUG 00002, from GJ-15; (6-10) YFMCUG 00003, from GJ-15,suturelineat H=6.2mm : (11) YFMCUG 00008, from GJ-28. (12-18) Ophiceras sp. indet, (12-15) YFMCUG 00066, from GJ-33; (16-18) YFMCUG 00071, from GJ-33. (19-20) Ophiceratidae gen. indet., YFMCUG 00010, from GJ-23, suture line at H=13.0mm (21-24)Vishnuites pralambhaDiener,1897, (21,22)YFMCUG 00007,from GJ-25; (23,24)YFMCUG 00051,from GJ-33."
+}

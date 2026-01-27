@@ -1,0 +1,777 @@
+{
+    "static": [
+        {
+            "name": "?Mullericeratidae gen. indet.",
+            "unet_box": {
+                "xmin": 1164,
+                "ymin": 1164,
+                "xmax": 1482,
+                "ymax": 1506
+            },
+            "ocr_box": {
+                "text": "19",
+                "xmin": 1309,
+                "ymin": 1506,
+                "xmax": 1360,
+                "ymax": 1545
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 502,
+                "ymin": 1139,
+                "xmax": 1084,
+                "ymax": 1526
+            },
+            "ocr_box": {
+                "text": "18",
+                "xmin": 928,
+                "ymin": 1537,
+                "xmax": 973,
+                "ymax": 1562
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 39,
+                "ymin": 1070,
+                "xmax": 434,
+                "ymax": 1540
+            },
+            "ocr_box": {
+                "text": "16",
+                "xmin": 50,
+                "ymin": 1485,
+                "xmax": 99,
+                "ymax": 1522
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 999,
+                "ymin": 704,
+                "xmax": 1317,
+                "ymax": 1056
+            },
+            "ocr_box": {
+                "text": "13",
+                "xmin": 1141,
+                "ymin": 1066,
+                "xmax": 1191,
+                "ymax": 1102
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 1416,
+                "ymin": 703,
+                "xmax": 1498,
+                "ymax": 1056
+            },
+            "ocr_box": {
+                "text": "15",
+                "xmin": 1439,
+                "ymin": 1068,
+                "xmax": 1485,
+                "ymax": 1101
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 1337,
+                "ymin": 703,
+                "xmax": 1404,
+                "ymax": 1057
+            },
+            "ocr_box": {
+                "text": "14",
+                "xmin": 1344,
+                "ymin": 1068,
+                "xmax": 1389,
+                "ymax": 1100
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 55,
+                "ymin": 520,
+                "xmax": 884,
+                "ymax": 1035
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 510,
+                "ymin": 445,
+                "xmax": 538,
+                "ymax": 481
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 1078,
+                "ymin": 340,
+                "xmax": 1322,
+                "ymax": 632
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 1165,
+                "ymin": 643,
+                "xmax": 1212,
+                "ymax": 677
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 1342,
+                "ymin": 338,
+                "xmax": 1405,
+                "ymax": 629
+            },
+            "ocr_box": {
+                "text": "11",
+                "xmin": 1355,
+                "ymin": 643,
+                "xmax": 1396,
+                "ymax": 678
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 1435,
+                "ymin": 337,
+                "xmax": 1501,
+                "ymax": 629
+            },
+            "ocr_box": {
+                "text": "12",
+                "xmin": 1448,
+                "ymin": 644,
+                "xmax": 1493,
+                "ymax": 677
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 1298,
+                "ymin": 20,
+                "xmax": 1515,
+                "ymax": 274
+            },
+            "ocr_box": {
+                "text": "6",
+                "xmin": 1453,
+                "ymin": 246,
+                "xmax": 1478,
+                "ymax": 279
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 990,
+                "ymin": 20,
+                "xmax": 1285,
+                "ymax": 285
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 1106,
+                "ymin": 285,
+                "xmax": 1130,
+                "ymax": 317
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 4,
+                "ymin": 20,
+                "xmax": 343,
+                "ymax": 431
+            },
+            "ocr_box": {
+                "text": "1",
+                "xmin": 170,
+                "ymin": 448,
+                "xmax": 189,
+                "ymax": 476
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 361,
+                "ymin": 18,
+                "xmax": 705,
+                "ymax": 429
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 510,
+                "ymin": 445,
+                "xmax": 538,
+                "ymax": 481
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 870,
+                "ymin": 16,
+                "xmax": 957,
+                "ymax": 429
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 1106,
+                "ymin": 285,
+                "xmax": 1130,
+                "ymax": 317
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 736,
+                "ymin": 16,
+                "xmax": 826,
+                "ymax": 429
+            },
+            "ocr_box": {
+                "text": "3",
+                "xmin": 773,
+                "ymin": 447,
+                "xmax": 797,
+                "ymax": 478
+            }
+        }
+    ],
+    "dynamic": [
+        {
+            "name": "?Mullericeratidae gen. indet.",
+            "unet_box": {
+                "xmin": 1164,
+                "ymin": 1164,
+                "xmax": 1482,
+                "ymax": 1506
+            },
+            "ocr_box": {
+                "text": "19",
+                "xmin": 1309,
+                "ymin": 1506,
+                "xmax": 1360,
+                "ymax": 1545
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 502,
+                "ymin": 1139,
+                "xmax": 1084,
+                "ymax": 1526
+            },
+            "ocr_box": {
+                "text": "18",
+                "xmin": 928,
+                "ymin": 1537,
+                "xmax": 973,
+                "ymax": 1562
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 39,
+                "ymin": 1070,
+                "xmax": 434,
+                "ymax": 1540
+            },
+            "ocr_box": {
+                "text": "16",
+                "xmin": 50,
+                "ymin": 1485,
+                "xmax": 99,
+                "ymax": 1522
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 999,
+                "ymin": 704,
+                "xmax": 1317,
+                "ymax": 1056
+            },
+            "ocr_box": {
+                "text": "13",
+                "xmin": 1141,
+                "ymin": 1066,
+                "xmax": 1191,
+                "ymax": 1102
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 1416,
+                "ymin": 703,
+                "xmax": 1498,
+                "ymax": 1056
+            },
+            "ocr_box": {
+                "text": "15",
+                "xmin": 1439,
+                "ymin": 1068,
+                "xmax": 1485,
+                "ymax": 1101
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 1337,
+                "ymin": 703,
+                "xmax": 1404,
+                "ymax": 1057
+            },
+            "ocr_box": {
+                "text": "14",
+                "xmin": 1344,
+                "ymin": 1068,
+                "xmax": 1389,
+                "ymax": 1100
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 55,
+                "ymin": 520,
+                "xmax": 884,
+                "ymax": 1035
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 510,
+                "ymin": 445,
+                "xmax": 538,
+                "ymax": 481
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 1078,
+                "ymin": 340,
+                "xmax": 1322,
+                "ymax": 632
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 1165,
+                "ymin": 643,
+                "xmax": 1212,
+                "ymax": 677
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 1342,
+                "ymin": 338,
+                "xmax": 1405,
+                "ymax": 629
+            },
+            "ocr_box": {
+                "text": "11",
+                "xmin": 1355,
+                "ymin": 643,
+                "xmax": 1396,
+                "ymax": 678
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 1435,
+                "ymin": 337,
+                "xmax": 1501,
+                "ymax": 629
+            },
+            "ocr_box": {
+                "text": "12",
+                "xmin": 1448,
+                "ymin": 644,
+                "xmax": 1493,
+                "ymax": 677
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 1298,
+                "ymin": 20,
+                "xmax": 1515,
+                "ymax": 274
+            },
+            "ocr_box": {
+                "text": "6",
+                "xmin": 1453,
+                "ymin": 246,
+                "xmax": 1478,
+                "ymax": 279
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 990,
+                "ymin": 20,
+                "xmax": 1285,
+                "ymax": 285
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 1106,
+                "ymin": 285,
+                "xmax": 1130,
+                "ymax": 317
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 4,
+                "ymin": 20,
+                "xmax": 343,
+                "ymax": 431
+            },
+            "ocr_box": {
+                "text": "1",
+                "xmin": 170,
+                "ymin": 448,
+                "xmax": 189,
+                "ymax": 476
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 361,
+                "ymin": 18,
+                "xmax": 705,
+                "ymax": 429
+            },
+            "ocr_box": {
+                "text": "3",
+                "xmin": 773,
+                "ymin": 447,
+                "xmax": 797,
+                "ymax": 478
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 870,
+                "ymin": 16,
+                "xmax": 957,
+                "ymax": 429
+            },
+            "ocr_box": {
+                "text": "4",
+                "xmin": 910,
+                "ymin": 449,
+                "xmax": 931,
+                "ymax": 476
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 736,
+                "ymin": 16,
+                "xmax": 826,
+                "ymax": 429
+            },
+            "ocr_box": {
+                "text": "9",
+                "xmin": 750,
+                "ymin": 977,
+                "xmax": 775,
+                "ymax": 1010
+            }
+        }
+    ],
+    "km": [
+        {
+            "name": "?Mullericeratidae gen. indet.",
+            "unet_box": {
+                "xmin": 1164,
+                "ymin": 1164,
+                "xmax": 1482,
+                "ymax": 1506
+            },
+            "ocr_box": {
+                "text": "19",
+                "xmin": 1309,
+                "ymin": 1506,
+                "xmax": 1360,
+                "ymax": 1545
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 502,
+                "ymin": 1139,
+                "xmax": 1084,
+                "ymax": 1526
+            },
+            "ocr_box": {
+                "text": "18",
+                "xmin": 928,
+                "ymin": 1537,
+                "xmax": 973,
+                "ymax": 1562
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 39,
+                "ymin": 1070,
+                "xmax": 434,
+                "ymax": 1540
+            },
+            "ocr_box": {
+                "text": "16",
+                "xmin": 50,
+                "ymin": 1485,
+                "xmax": 99,
+                "ymax": 1522
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 999,
+                "ymin": 704,
+                "xmax": 1317,
+                "ymax": 1056
+            },
+            "ocr_box": {
+                "text": "13",
+                "xmin": 1141,
+                "ymin": 1066,
+                "xmax": 1191,
+                "ymax": 1102
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 1416,
+                "ymin": 703,
+                "xmax": 1498,
+                "ymax": 1056
+            },
+            "ocr_box": {
+                "text": "15",
+                "xmin": 1439,
+                "ymin": 1068,
+                "xmax": 1485,
+                "ymax": 1101
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 1337,
+                "ymin": 703,
+                "xmax": 1404,
+                "ymax": 1057
+            },
+            "ocr_box": {
+                "text": "14",
+                "xmin": 1344,
+                "ymin": 1068,
+                "xmax": 1389,
+                "ymax": 1100
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 55,
+                "ymin": 520,
+                "xmax": 884,
+                "ymax": 1035
+            },
+            "ocr_box": {
+                "text": "9",
+                "xmin": 750,
+                "ymin": 977,
+                "xmax": 775,
+                "ymax": 1010
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 1078,
+                "ymin": 340,
+                "xmax": 1322,
+                "ymax": 632
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 1165,
+                "ymin": 643,
+                "xmax": 1212,
+                "ymax": 677
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 1342,
+                "ymin": 338,
+                "xmax": 1405,
+                "ymax": 629
+            },
+            "ocr_box": {
+                "text": "11",
+                "xmin": 1355,
+                "ymin": 643,
+                "xmax": 1396,
+                "ymax": 678
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 1435,
+                "ymin": 337,
+                "xmax": 1501,
+                "ymax": 629
+            },
+            "ocr_box": {
+                "text": "12",
+                "xmin": 1448,
+                "ymin": 644,
+                "xmax": 1493,
+                "ymax": 677
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 1298,
+                "ymin": 20,
+                "xmax": 1515,
+                "ymax": 274
+            },
+            "ocr_box": {
+                "text": "6",
+                "xmin": 1453,
+                "ymin": 246,
+                "xmax": 1478,
+                "ymax": 279
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 990,
+                "ymin": 20,
+                "xmax": 1285,
+                "ymax": 285
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 1106,
+                "ymin": 285,
+                "xmax": 1130,
+                "ymax": 317
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 4,
+                "ymin": 20,
+                "xmax": 343,
+                "ymax": 431
+            },
+            "ocr_box": {
+                "text": "1",
+                "xmin": 170,
+                "ymin": 448,
+                "xmax": 189,
+                "ymax": 476
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 361,
+                "ymin": 18,
+                "xmax": 705,
+                "ymax": 429
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 510,
+                "ymin": 445,
+                "xmax": 538,
+                "ymax": 481
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 870,
+                "ymin": 16,
+                "xmax": 957,
+                "ymax": 429
+            },
+            "ocr_box": {
+                "text": "4",
+                "xmin": 910,
+                "ymin": 449,
+                "xmax": 931,
+                "ymax": 476
+            }
+        },
+        {
+            "name": "Ussuridiscus cf. varaha",
+            "unet_box": {
+                "xmin": 736,
+                "ymin": 16,
+                "xmax": 826,
+                "ymax": 429
+            },
+            "ocr_box": {
+                "text": "3",
+                "xmin": 773,
+                "ymin": 447,
+                "xmax": 797,
+                "ymax": 478
+            }
+        }
+    ],
+    "cap": "Figure 15.(1-5, 8-18) Ussuridiscus cf. varaha,(1-4) YFMCUG 00100, from GJ-40; (5) YFMCUG 00123-2, from GJ-40; (8) YFMCUG 00118-3, from GJ-40; (9) YFMCUG 00118-2, from GJ-40; (10-12) YFMCUG 00101, from GJ-40; (13-15) YFMCUG 00102, from GJ-40; (16) YFMCUG 00109, from GJ-40; (17, 18) YFMCUG 00125, from GJ-40. (6) Ambites radiatus (Brihwiler et al., 2008), YFMCUG 00123-1, from GJ-40. (7) ?Gyronitidae gen. indet. sp. indet., YFMCUG 00118-1, from GJ-40. (19) ?Mullericeratidae gen. indet., YFMCUG 00004, from GJ-15."
+}

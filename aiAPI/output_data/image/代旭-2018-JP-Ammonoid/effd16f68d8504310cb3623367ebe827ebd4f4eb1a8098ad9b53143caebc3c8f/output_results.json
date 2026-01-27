@@ -1,0 +1,1337 @@
+{
+    "static": [
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 859,
+                "ymin": 1341,
+                "xmax": 1265,
+                "ymax": 1821
+            },
+            "ocr_box": {
+                "text": "28",
+                "xmin": 1089,
+                "ymin": 1283,
+                "xmax": 1134,
+                "ymax": 1315
+            }
+        },
+        {
+            "name": "?Gyronitidae gen",
+            "unet_box": {
+                "xmin": 1275,
+                "ymin": 1335,
+                "xmax": 1409,
+                "ymax": 1817
+            },
+            "ocr_box": {
+                "text": "29",
+                "xmin": 1272,
+                "ymin": 1283,
+                "xmax": 1316,
+                "ymax": 1315
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 568,
+                "ymin": 1228,
+                "xmax": 712,
+                "ymax": 1836
+            },
+            "ocr_box": {
+                "text": "27",
+                "xmin": 886,
+                "ymin": 1283,
+                "xmax": 931,
+                "ymax": 1316
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 30,
+                "ymin": 1216,
+                "xmax": 526,
+                "ymax": 1840
+            },
+            "ocr_box": {
+                "text": "22",
+                "xmin": 234,
+                "ymin": 1174,
+                "xmax": 280,
+                "ymax": 1207
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 1353,
+                "ymin": 999,
+                "xmax": 1426,
+                "ymax": 1260
+            },
+            "ocr_box": {
+                "text": "26",
+                "xmin": 1376,
+                "ymin": 948,
+                "xmax": 1421,
+                "ymax": 981
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 1251,
+                "ymin": 999,
+                "xmax": 1328,
+                "ymax": 1260
+            },
+            "ocr_box": {
+                "text": "25",
+                "xmin": 1240,
+                "ymin": 948,
+                "xmax": 1286,
+                "ymax": 981
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 1017,
+                "ymin": 999,
+                "xmax": 1228,
+                "ymax": 1260
+            },
+            "ocr_box": {
+                "text": "28",
+                "xmin": 1089,
+                "ymin": 1283,
+                "xmax": 1134,
+                "ymax": 1315
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 787,
+                "ymin": 999,
+                "xmax": 999,
+                "ymax": 1260
+            },
+            "ocr_box": {
+                "text": "27",
+                "xmin": 886,
+                "ymin": 1283,
+                "xmax": 931,
+                "ymax": 1316
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 1206,
+                "ymin": 555,
+                "xmax": 1308,
+                "ymax": 929
+            },
+            "ocr_box": {
+                "text": "25",
+                "xmin": 1240,
+                "ymin": 948,
+                "xmax": 1286,
+                "ymax": 981
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 552,
+                "ymin": 555,
+                "xmax": 845,
+                "ymax": 925
+            },
+            "ocr_box": {
+                "text": "23",
+                "xmin": 692,
+                "ymin": 948,
+                "xmax": 738,
+                "ymax": 981
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 1341,
+                "ymin": 553,
+                "xmax": 1440,
+                "ymax": 929
+            },
+            "ocr_box": {
+                "text": "26",
+                "xmin": 1376,
+                "ymin": 948,
+                "xmax": 1421,
+                "ymax": 981
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 876,
+                "ymin": 553,
+                "xmax": 1176,
+                "ymax": 929
+            },
+            "ocr_box": {
+                "text": "24",
+                "xmin": 990,
+                "ymin": 948,
+                "xmax": 1036,
+                "ymax": 981
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 8,
+                "ymin": 538,
+                "xmax": 512,
+                "ymax": 1158
+            },
+            "ocr_box": {
+                "text": "22",
+                "xmin": 234,
+                "ymin": 1174,
+                "xmax": 280,
+                "ymax": 1207
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 846,
+                "ymin": 383,
+                "xmax": 879,
+                "ymax": 439
+            },
+            "ocr_box": {
+                "text": "15",
+                "xmin": 846,
+                "ymin": 482,
+                "xmax": 890,
+                "ymax": 514
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 359,
+                "ymin": 379,
+                "xmax": 391,
+                "ymax": 447
+            },
+            "ocr_box": {
+                "text": "4",
+                "xmin": 399,
+                "ymin": 249,
+                "xmax": 421,
+                "ymax": 275
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 148,
+                "ymin": 371,
+                "xmax": 201,
+                "ymax": 436
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 181,
+                "ymin": 481,
+                "xmax": 224,
+                "ymax": 514
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 220,
+                "ymin": 345,
+                "xmax": 271,
+                "ymax": 447
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 181,
+                "ymin": 481,
+                "xmax": 224,
+                "ymax": 514
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 914,
+                "ymin": 322,
+                "xmax": 948,
+                "ymax": 411
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 896,
+                "ymin": 249,
+                "xmax": 918,
+                "ymax": 277
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 15,
+                "ymin": 318,
+                "xmax": 139,
+                "ymax": 455
+            },
+            "ocr_box": {
+                "text": "9",
+                "xmin": 76,
+                "ymin": 483,
+                "xmax": 96,
+                "ymax": 512
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 644,
+                "ymin": 313,
+                "xmax": 807,
+                "ymax": 460
+            },
+            "ocr_box": {
+                "text": "14",
+                "xmin": 710,
+                "ymin": 481,
+                "xmax": 754,
+                "ymax": 513
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 462,
+                "ymin": 300,
+                "xmax": 603,
+                "ymax": 464
+            },
+            "ocr_box": {
+                "text": "13",
+                "xmin": 517,
+                "ymin": 481,
+                "xmax": 561,
+                "ymax": 514
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 889,
+                "ymin": 145,
+                "xmax": 924,
+                "ymax": 207
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 896,
+                "ymin": 249,
+                "xmax": 918,
+                "ymax": 277
+            }
+        },
+        {
+            "name": "Gyronitidae gen. indet.",
+            "unet_box": {
+                "xmin": 1298,
+                "ymin": 143,
+                "xmax": 1336,
+                "ymax": 237
+            },
+            "ocr_box": {
+                "text": "19",
+                "xmin": 1301,
+                "ymin": 275,
+                "xmax": 1343,
+                "ymax": 304
+            }
+        },
+        {
+            "name": "Gyronitidae gen. indet.",
+            "unet_box": {
+                "xmin": 1127,
+                "ymin": 90,
+                "xmax": 1254,
+                "ymax": 250
+            },
+            "ocr_box": {
+                "text": "18",
+                "xmin": 1174,
+                "ymin": 273,
+                "xmax": 1217,
+                "ymax": 306
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 165,
+                "ymin": 75,
+                "xmax": 294,
+                "ymax": 237
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 207,
+                "ymin": 246,
+                "xmax": 232,
+                "ymax": 278
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 18,
+                "ymin": 75,
+                "xmax": 150,
+                "ymax": 237
+            },
+            "ocr_box": {
+                "text": "1",
+                "xmin": 76,
+                "ymin": 247,
+                "xmax": 96,
+                "ymax": 275
+            }
+        },
+        {
+            "name": "Gyronitidae gen. indet.",
+            "unet_box": {
+                "xmin": 967,
+                "ymin": 69,
+                "xmax": 1115,
+                "ymax": 258
+            },
+            "ocr_box": {
+                "text": "17",
+                "xmin": 1029,
+                "ymin": 273,
+                "xmax": 1071,
+                "ymax": 306
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 644,
+                "ymin": 69,
+                "xmax": 784,
+                "ymax": 235
+            },
+            "ocr_box": {
+                "text": "6",
+                "xmin": 705,
+                "ymin": 249,
+                "xmax": 727,
+                "ymax": 276
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 496,
+                "ymin": 69,
+                "xmax": 636,
+                "ymax": 235
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 563,
+                "ymin": 248,
+                "xmax": 584,
+                "ymax": 276
+            }
+        }
+    ],
+    "dynamic": [
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 859,
+                "ymin": 1341,
+                "xmax": 1265,
+                "ymax": 1821
+            },
+            "ocr_box": {
+                "text": "28",
+                "xmin": 1089,
+                "ymin": 1283,
+                "xmax": 1134,
+                "ymax": 1315
+            }
+        },
+        {
+            "name": "?Gyronitidae gen",
+            "unet_box": {
+                "xmin": 1275,
+                "ymin": 1335,
+                "xmax": 1409,
+                "ymax": 1817
+            },
+            "ocr_box": {
+                "text": "29",
+                "xmin": 1272,
+                "ymin": 1283,
+                "xmax": 1316,
+                "ymax": 1315
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 568,
+                "ymin": 1228,
+                "xmax": 712,
+                "ymax": 1836
+            },
+            "ocr_box": {
+                "text": "27",
+                "xmin": 886,
+                "ymin": 1283,
+                "xmax": 931,
+                "ymax": 1316
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 30,
+                "ymin": 1216,
+                "xmax": 526,
+                "ymax": 1840
+            },
+            "ocr_box": {
+                "text": "22",
+                "xmin": 234,
+                "ymin": 1174,
+                "xmax": 280,
+                "ymax": 1207
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 1353,
+                "ymin": 999,
+                "xmax": 1426,
+                "ymax": 1260
+            },
+            "ocr_box": {
+                "text": "26",
+                "xmin": 1376,
+                "ymin": 948,
+                "xmax": 1421,
+                "ymax": 981
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 1251,
+                "ymin": 999,
+                "xmax": 1328,
+                "ymax": 1260
+            },
+            "ocr_box": {
+                "text": "25",
+                "xmin": 1240,
+                "ymin": 948,
+                "xmax": 1286,
+                "ymax": 981
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 1017,
+                "ymin": 999,
+                "xmax": 1228,
+                "ymax": 1260
+            },
+            "ocr_box": {
+                "text": "24",
+                "xmin": 990,
+                "ymin": 948,
+                "xmax": 1036,
+                "ymax": 981
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 787,
+                "ymin": 999,
+                "xmax": 999,
+                "ymax": 1260
+            },
+            "ocr_box": {
+                "text": "23",
+                "xmin": 692,
+                "ymin": 948,
+                "xmax": 738,
+                "ymax": 981
+            }
+        },
+        {
+            "name": "Gyronitidae gen. indet.",
+            "unet_box": {
+                "xmin": 1206,
+                "ymin": 555,
+                "xmax": 1308,
+                "ymax": 929
+            },
+            "ocr_box": {
+                "text": "21",
+                "xmin": 1092,
+                "ymin": 463,
+                "xmax": 1136,
+                "ymax": 498
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 552,
+                "ymin": 555,
+                "xmax": 845,
+                "ymax": 925
+            },
+            "ocr_box": {
+                "text": "14",
+                "xmin": 710,
+                "ymin": 481,
+                "xmax": 754,
+                "ymax": 513
+            }
+        },
+        {
+            "name": "Gyronitidae gen. indet.",
+            "unet_box": {
+                "xmin": 1341,
+                "ymin": 553,
+                "xmax": 1440,
+                "ymax": 929
+            },
+            "ocr_box": {
+                "text": "20",
+                "xmin": 1377,
+                "ymin": 275,
+                "xmax": 1420,
+                "ymax": 304
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 876,
+                "ymin": 553,
+                "xmax": 1176,
+                "ymax": 929
+            },
+            "ocr_box": {
+                "text": "16",
+                "xmin": 924,
+                "ymin": 483,
+                "xmax": 967,
+                "ymax": 512
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 8,
+                "ymin": 538,
+                "xmax": 512,
+                "ymax": 1158
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 181,
+                "ymin": 481,
+                "xmax": 224,
+                "ymax": 514
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 846,
+                "ymin": 383,
+                "xmax": 879,
+                "ymax": 439
+            },
+            "ocr_box": {
+                "text": "15",
+                "xmin": 846,
+                "ymin": 482,
+                "xmax": 890,
+                "ymax": 514
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 359,
+                "ymin": 379,
+                "xmax": 391,
+                "ymax": 447
+            },
+            "ocr_box": {
+                "text": "4",
+                "xmin": 399,
+                "ymin": 249,
+                "xmax": 421,
+                "ymax": 275
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 148,
+                "ymin": 371,
+                "xmax": 201,
+                "ymax": 436
+            },
+            "ocr_box": {
+                "text": "9",
+                "xmin": 76,
+                "ymin": 483,
+                "xmax": 96,
+                "ymax": 512
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 220,
+                "ymin": 345,
+                "xmax": 271,
+                "ymax": 447
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 207,
+                "ymin": 246,
+                "xmax": 232,
+                "ymax": 278
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 914,
+                "ymin": 322,
+                "xmax": 948,
+                "ymax": 411
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 896,
+                "ymin": 249,
+                "xmax": 918,
+                "ymax": 277
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 15,
+                "ymin": 318,
+                "xmax": 139,
+                "ymax": 455
+            },
+            "ocr_box": {
+                "text": "1",
+                "xmin": 76,
+                "ymin": 247,
+                "xmax": 96,
+                "ymax": 275
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 644,
+                "ymin": 313,
+                "xmax": 807,
+                "ymax": 460
+            },
+            "ocr_box": {
+                "text": "6",
+                "xmin": 705,
+                "ymin": 249,
+                "xmax": 727,
+                "ymax": 276
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 462,
+                "ymin": 300,
+                "xmax": 603,
+                "ymax": 464
+            },
+            "ocr_box": {
+                "text": "13",
+                "xmin": 517,
+                "ymin": 481,
+                "xmax": 561,
+                "ymax": 514
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 889,
+                "ymin": 145,
+                "xmax": 924,
+                "ymax": 207
+            },
+            "ocr_box": {
+                "text": "7",
+                "xmin": 818,
+                "ymin": 249,
+                "xmax": 843,
+                "ymax": 278
+            }
+        },
+        {
+            "name": "Gyronitidae gen. indet.",
+            "unet_box": {
+                "xmin": 1298,
+                "ymin": 143,
+                "xmax": 1336,
+                "ymax": 237
+            },
+            "ocr_box": {
+                "text": "19",
+                "xmin": 1301,
+                "ymin": 275,
+                "xmax": 1343,
+                "ymax": 304
+            }
+        },
+        {
+            "name": "Gyronitidae gen. indet.",
+            "unet_box": {
+                "xmin": 1127,
+                "ymin": 90,
+                "xmax": 1254,
+                "ymax": 250
+            },
+            "ocr_box": {
+                "text": "18",
+                "xmin": 1174,
+                "ymin": 273,
+                "xmax": 1217,
+                "ymax": 306
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 165,
+                "ymin": 75,
+                "xmax": 294,
+                "ymax": 237
+            },
+            "ocr_box": {
+                "text": "3",
+                "xmin": 323,
+                "ymin": 248,
+                "xmax": 345,
+                "ymax": 275
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 18,
+                "ymin": 75,
+                "xmax": 150,
+                "ymax": 237
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 563,
+                "ymin": 248,
+                "xmax": 584,
+                "ymax": 276
+            }
+        },
+        {
+            "name": "Gyronitidae gen. indet.",
+            "unet_box": {
+                "xmin": 967,
+                "ymin": 69,
+                "xmax": 1115,
+                "ymax": 258
+            },
+            "ocr_box": {
+                "text": "17",
+                "xmin": 1029,
+                "ymin": 273,
+                "xmax": 1071,
+                "ymax": 306
+            }
+        }
+    ],
+    "km": [
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 859,
+                "ymin": 1341,
+                "xmax": 1265,
+                "ymax": 1821
+            },
+            "ocr_box": {
+                "text": "28",
+                "xmin": 1089,
+                "ymin": 1283,
+                "xmax": 1134,
+                "ymax": 1315
+            }
+        },
+        {
+            "name": "?Gyronitidae gen",
+            "unet_box": {
+                "xmin": 1275,
+                "ymin": 1335,
+                "xmax": 1409,
+                "ymax": 1817
+            },
+            "ocr_box": {
+                "text": "29",
+                "xmin": 1272,
+                "ymin": 1283,
+                "xmax": 1316,
+                "ymax": 1315
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 30,
+                "ymin": 1216,
+                "xmax": 526,
+                "ymax": 1840
+            },
+            "ocr_box": {
+                "text": "22",
+                "xmin": 234,
+                "ymin": 1174,
+                "xmax": 280,
+                "ymax": 1207
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 1353,
+                "ymin": 999,
+                "xmax": 1426,
+                "ymax": 1260
+            },
+            "ocr_box": {
+                "text": "26",
+                "xmin": 1376,
+                "ymin": 948,
+                "xmax": 1421,
+                "ymax": 981
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 1251,
+                "ymin": 999,
+                "xmax": 1328,
+                "ymax": 1260
+            },
+            "ocr_box": {
+                "text": "25",
+                "xmin": 1240,
+                "ymin": 948,
+                "xmax": 1286,
+                "ymax": 981
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 1017,
+                "ymin": 999,
+                "xmax": 1228,
+                "ymax": 1260
+            },
+            "ocr_box": {
+                "text": "24",
+                "xmin": 990,
+                "ymin": 948,
+                "xmax": 1036,
+                "ymax": 981
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 787,
+                "ymin": 999,
+                "xmax": 999,
+                "ymax": 1260
+            },
+            "ocr_box": {
+                "text": "27",
+                "xmin": 886,
+                "ymin": 1283,
+                "xmax": 931,
+                "ymax": 1316
+            }
+        },
+        {
+            "name": "Gyronitidae gen. indet.",
+            "unet_box": {
+                "xmin": 1206,
+                "ymin": 555,
+                "xmax": 1308,
+                "ymax": 929
+            },
+            "ocr_box": {
+                "text": "21",
+                "xmin": 1092,
+                "ymin": 463,
+                "xmax": 1136,
+                "ymax": 498
+            }
+        },
+        {
+            "name": "?Gyronitidae gen. indet. sp. indet.",
+            "unet_box": {
+                "xmin": 552,
+                "ymin": 555,
+                "xmax": 845,
+                "ymax": 925
+            },
+            "ocr_box": {
+                "text": "23",
+                "xmin": 692,
+                "ymin": 948,
+                "xmax": 738,
+                "ymax": 981
+            }
+        },
+        {
+            "name": "Gyronitidae gen. indet.",
+            "unet_box": {
+                "xmin": 1341,
+                "ymin": 553,
+                "xmax": 1440,
+                "ymax": 929
+            },
+            "ocr_box": {
+                "text": "20",
+                "xmin": 1377,
+                "ymin": 275,
+                "xmax": 1420,
+                "ymax": 304
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 876,
+                "ymin": 553,
+                "xmax": 1176,
+                "ymax": 929
+            },
+            "ocr_box": {
+                "text": "16",
+                "xmin": 924,
+                "ymin": 483,
+                "xmax": 967,
+                "ymax": 512
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 846,
+                "ymin": 383,
+                "xmax": 879,
+                "ymax": 439
+            },
+            "ocr_box": {
+                "text": "15",
+                "xmin": 846,
+                "ymin": 482,
+                "xmax": 890,
+                "ymax": 514
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 359,
+                "ymin": 379,
+                "xmax": 391,
+                "ymax": 447
+            },
+            "ocr_box": {
+                "text": "4",
+                "xmin": 399,
+                "ymin": 249,
+                "xmax": 421,
+                "ymax": 275
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 148,
+                "ymin": 371,
+                "xmax": 201,
+                "ymax": 436
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 181,
+                "ymin": 481,
+                "xmax": 224,
+                "ymax": 514
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 220,
+                "ymin": 345,
+                "xmax": 271,
+                "ymax": 447
+            },
+            "ocr_box": {
+                "text": "3",
+                "xmin": 323,
+                "ymin": 248,
+                "xmax": 345,
+                "ymax": 275
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 914,
+                "ymin": 322,
+                "xmax": 948,
+                "ymax": 411
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 896,
+                "ymin": 249,
+                "xmax": 918,
+                "ymax": 277
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 15,
+                "ymin": 318,
+                "xmax": 139,
+                "ymax": 455
+            },
+            "ocr_box": {
+                "text": "9",
+                "xmin": 76,
+                "ymin": 483,
+                "xmax": 96,
+                "ymax": 512
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 644,
+                "ymin": 313,
+                "xmax": 807,
+                "ymax": 460
+            },
+            "ocr_box": {
+                "text": "14",
+                "xmin": 710,
+                "ymin": 481,
+                "xmax": 754,
+                "ymax": 513
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 462,
+                "ymin": 300,
+                "xmax": 603,
+                "ymax": 464
+            },
+            "ocr_box": {
+                "text": "13",
+                "xmin": 517,
+                "ymin": 481,
+                "xmax": 561,
+                "ymax": 514
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 889,
+                "ymin": 145,
+                "xmax": 924,
+                "ymax": 207
+            },
+            "ocr_box": {
+                "text": "7",
+                "xmin": 818,
+                "ymin": 249,
+                "xmax": 843,
+                "ymax": 278
+            }
+        },
+        {
+            "name": "Gyronitidae gen. indet.",
+            "unet_box": {
+                "xmin": 1298,
+                "ymin": 143,
+                "xmax": 1336,
+                "ymax": 237
+            },
+            "ocr_box": {
+                "text": "19",
+                "xmin": 1301,
+                "ymin": 275,
+                "xmax": 1343,
+                "ymax": 304
+            }
+        },
+        {
+            "name": "Gyronitidae gen. indet.",
+            "unet_box": {
+                "xmin": 1127,
+                "ymin": 90,
+                "xmax": 1254,
+                "ymax": 250
+            },
+            "ocr_box": {
+                "text": "18",
+                "xmin": 1174,
+                "ymin": 273,
+                "xmax": 1217,
+                "ymax": 306
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 165,
+                "ymin": 75,
+                "xmax": 294,
+                "ymax": 237
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 207,
+                "ymin": 246,
+                "xmax": 232,
+                "ymax": 278
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 18,
+                "ymin": 75,
+                "xmax": 150,
+                "ymax": 237
+            },
+            "ocr_box": {
+                "text": "1",
+                "xmin": 76,
+                "ymin": 247,
+                "xmax": 96,
+                "ymax": 275
+            }
+        },
+        {
+            "name": "Gyronitidae gen. indet.",
+            "unet_box": {
+                "xmin": 967,
+                "ymin": 69,
+                "xmax": 1115,
+                "ymax": 258
+            },
+            "ocr_box": {
+                "text": "17",
+                "xmin": 1029,
+                "ymin": 273,
+                "xmax": 1071,
+                "ymax": 306
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 644,
+                "ymin": 69,
+                "xmax": 784,
+                "ymax": 235
+            },
+            "ocr_box": {
+                "text": "6",
+                "xmin": 705,
+                "ymin": 249,
+                "xmax": 727,
+                "ymax": 276
+            }
+        },
+        {
+            "name": "Ambites radiatus",
+            "unet_box": {
+                "xmin": 496,
+                "ymin": 69,
+                "xmax": 636,
+                "ymax": 235
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 563,
+                "ymin": 248,
+                "xmax": 584,
+                "ymax": 276
+            }
+        }
+    ],
+    "cap": "Figure 7.(1-16) Ambites radiatus (Brihwiler et al., 2008), (1-4) YFMCUG 00088, from GJ-40; (5-8) YFMCUG 00087, from GJ-40; (9-12) YFMCUG 00086, from GJ-40; (13-16) YFMCUG 00089, from GJ-40. (17-21) Gyronitidae gen. indet., YFMCUG 00005, from GJ-15, suture line at H=5.0mm (22-34)? Gyronitidae gen. indet. sp. indet., (22) YFMCUG 00095, from GJ-40; (23-26) YFMCUG 00097, from GJ-40; (27-30) YFMCUG 00098, from GJ-40; (31, 32) YFMCUG 00094,from GJ-40; (33,34)YFMCUG 00096,from GJ-40."
+}

@@ -1,0 +1,648 @@
+Journal of Paleontology, page 1 of 24 Copyright © 2018, The Paleontological Society 0022-3360/18/0088-0906 doi: 10.1017/jpa.2018.46  A new Griesbachian–Dienerian (Induan, Early Triassic) ammonoid fauna from Gujiao, South China  Xu Dai,1 Haijun Song,1 Arnaud Brayard,2 and David Ware3  1State Key Laboratory of Biogeology and Environmental Geology, School of Earth Sciences, China University of Geosciences, Wuhan 430074, China 〈haijunsong@cug.edu.cn〉, 〈xudai@cug.edu.cn〉 2Biogeosciences, UMR 6282, CNRS, Universite Bourgogne Franche-Comte, 6 Boulevard Gabriel, 21000 Dijon, France 〈arnaud.brayard@u-bourgogne.fr〉 3Museum fur Naturkunde, Leibniz Institute for Evolution and Biodiversity Science, Invalidenstrasse 43, 10115 Berlin, Germany 〈david.ware@mfn.berlin〉  Abstract.—Bed-by-bed sampling of the lower portion of the Daye Formation at Gujiao, Guizhou Province, South China, yielded new Griesbachian–Dienerian (Induan, Early Triassic) ammonoid faunas showing a new regional Induan ammonoid succession. 
+This biostratigraphic scheme includes in chronological order the late Griesbachian Ophiceras medium and Jieshaniceras guizhouense beds, and the middle Dienerian Ambites radiatus bed. 
+The latter is recognized for the ﬁrst time as a separate biozone in South China. 
+Eight genera and 13 species are identiﬁed, including one new species, Mullericeras gujiaoense n. sp. 
+The new data show that a relatively high level of ammonoid taxonomic richness occurred rather rapidly after the Permian/Triassic mass extinction in the late Griesbachian, echoing similar observations in other basins, such as in the Northern Indian Margin.  
+UUID: http://zoobank.org/a24a3387-f3dd-4da4-a134-84372352a63d  Introduction  The Permian/Triassic (PT) boundary witnessed the largest biotic crisis among all Phanerozoic mass extinctions, resulting in the disappearance of 80% to 90% of marine species (Raup, 1979; Song et al., 2013; Stanley, 2016). 
+This major event coincided with high temperatures (Joachimski et al., 2012; Sun et al., 2012; Romano et al., 2013), potential anoxia (Wignall and Twitchett, 1996; Song et al., 2012), and acidiﬁcation (Clarkson et al., 2015) in the oceans, as well as pronounced perturbations in the carbon cycle (Payne et al., 2004; Galfetti et al., 2007) and intensiﬁed continental weathering (Algeo and Twitchett, 2010; Song et al., 2015a). 
+A delayed recovery has often been proposed to have followed the PT mass extinction (Hallam, 1991; Tong et al., 2007; Chen and Benton, 2012). 
+However, studies of some groups, such as conodonts, ammonoids and foraminifers, show that the recovery was well under way by at least the Smithian (Orchard, 2007; Brayard et al., 2009a; Song et al., 2011), less than 1 million years after the PT mass extinction (Galfetti et al., 2007; Baresel et al., 2017). 
+Some assemblages documenting relatively high taxonomic richness during the late Griesbachian–early Dienerian also challenge previous claims of a globally delayed recovery (Twitchett et al., 2004; Ware et al., 2015; Foster et al., 2017; Wang et al., 2017).  
+To decipher the causes of the PT crisis and associated recovery patterns and processes, a high-resolution biostratigraphic frame is a prerequisite. 
+With coupled high origination and extinction rates, the ammonoid turnover was extremely fast in the  Early Triassic (Brayard et al., 2006, 2009a; Bruhwiler et al., 2010a; Ware et al., 2015). 
+Ammonoids are, therefore, one of the most useful index fossils for biostratigraphy in this interval (Jenks et al., 2015). 
+For example, on the Northern Indian Margin, a total of 12 and 14 regional ammonoid unitary associations have been recognized for the Dienerian and Smithian, respectively (Bruhwiler et al., 2010a, 2011; Ware et al., 2015); this represents an unprecedented high-resolved biostratigraphic scale compared with coeval records from other regions, such as the western USA basin, which has six Smithian ammonoid unitary associations (Jattiot et al., 2017; Jenks and Brayard, 2018).  
+South China is renowned for its PT marine and terrestrial records, and the Global Stratotype Section and Point (GSSP) of the PT boundary is located at Meishan, Zhejiang Province (Yin et al., 2001). 
+In the past 50 years, approximately 100 geological sections spanning the PT boundary and the Early Triassic and representing various shallow to deep-marine environments (e.g., Brayard and Bucher, 2008; Galfetti et al., 2008; Song et al., 2011; Bai et al., 2017; Wang et al., 2017) have been documented in South China. 
+From these rather exhaustive environmental records, many clades and geochemical proxies were studied to decipher the regional biotic recovery signal. 
+The diversity of both benthic and nektonic organisms was analyzed mainly from foraminifers (Song et al., 2011, 2015b), brachiopods (Chen et al., 2015; Wang et al., 2017), bivalves (Yin, 1985; Huang et al., 2014), gastropods (Pan et al., 2003; Kaim et al., 2010), conodonts (Zhang et al., 2007; Zhao et al., 2007; Jiang et al., 2014; Brosse et al., 2015, 2016; Liang et al., 2016; Bai et al.,  https://doi.org/10.1017/jpa.2018.46  1  2  Journal of Paleontology  2017), and ammonoids (Chao, 1959; Xu, 1988; Mu et al., 2007; Brayard and Bucher, 2008; Bruhwiler et al., 2008). 
+Paleoenvironmental and paleoclimatic signals were also intensively studied from numerous South Chinese sections (Payne et al., 2004; Galfetti et al., 2007, 2008; Song et al., 2012, 2017). 
+Regarding these studies, the biostratigraphic framework used is crucial for correlation among different biotic and environmental signals and between distant areas. 
+Nevertheless, only a limited number of ammonoid biostratigraphic schemes have been proposed for the Early Triassic of South China (e.g., Tong et al., 2004; Galfetti et al., 2007; Brayard and Bucher, 2008; Bruhwiler et al., 2008).  
+Early Triassic ammonoid faunas in South China have been sporadically studied over the past 80 years. 
+Tien (1933) initially described some ammonoid specimens from Hubei and Guizhou provinces. 
+Then Hsu (1937) reported a few ammonoid taxa based on deformed specimens from Jiangsu, Zhejiang, and Hubei provinces. 
+In 1959, Chao illustrated a diverse, wellpreserved ammonoid fauna from Guangxi, but with only rare Griesbachian and Dienerian specimens. 
+Following the work of Chao (1959), a few Early Triassic ammonoid faunas were described (Xu, 1988; Tong and Wu, 2004; Mu et al., 2007). 
+Due to their relatively poor preservation and spatiotemporally the taxonomy, biostratigraphy, and restricted occurrences, diversity patterns of ammonoids from South China remained largely imperfectly known until recently. 
+New ammonoid material from Guangxi and Guizhou provinces provided a biostratigraphic framework for small parts of the Griesbachian and Dienerian (Bruhwiler et al., 2008) and for the Smithian– Spathian interval (Galfetti et al., 2007; Brayard and Bucher, 2008). 
+However, due to mistakes in the taxonomy and to scattered occurrences of ammonoids in different sections with very little superposition information, the preliminary Griesbachian– Dienerian (Induan) zonation remained poorly resolved with many uncertainties for large-scale correlation among distant basins. 
+So overall, our knowledge of the Griesbachian–Dienerian ammonoid taxonomy and biostratigraphy based on South Chinese data remains very incomplete.  
+Here, we document a new Griesbachian-Dienerian ammonoid succession based on bed-by-bed sampling of the Gujiao section, which can complement previous regional biostratigraphic schemes and can help correlation with other worldwide zonations.  
+Geologic setting  The Gujiao section is located ~ 20 km southeast of Guiyang, the capital of the Guizhou Province, South China. 
+During the Early Triassic, it was located in the transitional zone between the Yangtze Platform and the Nanpanjiang Basin (Fig. 1). 
+A new and well-exposed outcrop excavated along a new road in 2015 exposed Permian and Triassic strata (Fig. 2). 
+These exposures include the upper Permian Changxing and Dalong formations and the Lower Triassic Daye Formation.  
+The Changxing Formation consists of massive bioclastic and cherty limestones (Zhao et al., 1978) yielding abundant and diverse typical Permian organisms, such as brachiopods, gastropods, corals, dasycladacean algae, ammonoids (Zhao et al., 1978; Zheng, 1981), and foraminifers, indicating a welldeveloped carbonate platform environment.  
+At Gujiao, the Dalong Formation is ~ 10 m in thickness and is dominated by cherty limestones, siliceous mudstones alternating with black or gray shales, and volcanic ash beds, representing a deeper basinal environment. 
+At the bottom of the Dalong Formation, a limestone bed ~30 cm thick contains abundant and well-preserved ammonoids with, for example, Pseudotirolites and Pseudogastrioceras, indicating a late Changhsingian age (Zhao et al., 1978).  
+The lower part of the Triassic Daye Formation is ~ 50 m thick and consists of marlstones interbedded with shales. 
+It directly overlies the Dalong Formation without apparent unconformity, although earliest Griesbachian ammonoids are missing. 
+Abundant ammonoid and bivalve specimens as well as some gastropods were collected in the lowermost 6 m. Trace fossils also occasionally occur. 
+Ammonoids from the shales are deformed and cannot be identiﬁed. 
+Although generally difﬁcult to extract from the argillaceous limestones, a few specimens could be extracted from some beds. 
+Recrystallized ammonoid specimens were abundantly sampled from bed GJ-40. 
+Judging from observed facies, the lower Daye Formation corresponds to a basin or basin-margin environment.  
+Materials  A total of 749 ammonoid specimens were collected. 
+Although often not well preserved, they represent eight genera and 13 species (Fig. 3), including Ophiceras medium Griesbach, 1880, indet., Vishnuites pralambha Diener, 1897, Ophiceras sp. 
+Ophiceratidae gen. indet., Ambites radiatus (Bruhwiler et al., 2008), Gyronitidae gen. indet. sp. indet.
+Gyronitidae gen. indet. sp. indet., Proptychites sp. indet., Pseudoproptychites cf. 
+P. hiemalis (Diener, 1895), Jieshaniceras guizhouense (Zakharov and Mu in Mu et al., 2007), Mullericeras gujiaoense n. sp., Ussuridiscus cf. 
+U. varaha, and ?
+Mullericeratidae gen. indet.  
+Repository and institutional abbreviation.—YFMCUG: Yifu Museum of China University of Geosciences, Wuhan.  
+Systematic paleontology  Systematic descriptions mainly follow the classiﬁcation established by Tozer (1994) and reﬁned by Bruhwiler et al. (2008) and Ware et al. (2011, 2018). 
+Synonymy lists and taxa in open nomenclature are annotated following the recommendations of Matthews (1973) and Bengtson (1988); ‘v’ implies that the authors have checked the original material of the reference; ‘p’ indicates that the reference applies only in part to the species under discussion. 
+The morphological range of each taxon has been quantiﬁed using the four classic geometrical parameters of the ammonoid shell: diameter (D), whorl height (H), whorl width (W), and umbilical diameter (U).  
+Order Ceratitida Hyatt, 1884 Family Ophiceratidae Arthaber, 1911 Genus Ophiceras Griesbach, 1880  Type species.—Ophiceras tibeticum Griesbach, 1880 from Shalshal Cliff, Painkhanda, Niti region, Himalayas, India.  https://doi.org/10.1017/jpa.2018.46  Dai et al.—A new Induan ammonoid fauna from South China  3  (1) Early Triassic paleogeographic map of South China, modiﬁed from Feng et al. (1997), Lehrmann et al. (1998), and Bagherpour et al. (2017). 
+Figure 1. NPJB = Nanpanjiang Basin. 
+Note that the exact paleogeography of the southern part of the NPJB is controversial (see Bagherpour et al., 2017). (2) Early Triassic paleogeographic reconstruction of Tethys, Pangea, and Panthalassa, modiﬁed from Scotese (2001).  
+Remarks.—Ophiceras is the most abundant and widely distributed genus among the Ophiceratidae. 
+It differs from Vishnuites, Wordieoceras, and Shangganites by a distinct rounded venter and from Discophiceras, Ghazalaites, and Kyoktites by a more evolute conch. 
+It has a broad paleogeographic distribution with numerous species described from both the Tethys area (South China, Spiti, Kashmir, Salt Range, and South Tibet) and high-latitude regions such as Greenland and Arctic Canada. 
+Ophiceras was ﬁrst documented by Griesbach (1880) from the Otoceras beds at Shalshal Cliff in Himalaya. 
+Diener (1897) then described 10 species of Ophiceras from the Himalayas (mostly from Shalshal Cliff) and divided them into two groups, the O. tibeticum and the O. sakuntala groups, essentially based on their different shell ornamentation. 
+The O. tibeticum group displays some relatively low folds, sometimes becoming nodes near the umbilical shoulder, whereas  the O. sakuntala group usually exhibits a smooth shell, with only ﬁne growth lines. 
+In addition, species of the O. tibeticum group are usually more evolute than those of the O. sakuntala group. 
+As noticed by Diener (1897), there is no distinct boundary between the two groups, and some species might be variants of other ones. 
+Kummel (1972) took intraspeciﬁc variability into account and proposed only three valid species: O. tibeticum, O. serpentinum, and O. medium. 
+His discussion was short, but he provided illustrations of Diener’s (1897) type material and of additional unpublished material. 
+However, Kummel’s (1972) revision is based on specimens in old collections lacking detailed stratigraphic context (i.e., without bed-by-bed collecting), and given the stratigraphic uncertainty must be considered with caution. 
+Here, in the absence of a proper revision of these faunas, the opinion of Kummel (1972) is followed.  https://doi.org/10.1017/jpa.2018.46  4  Journal of Paleontology  Figure 2. View of the Gujiao section.  
+Spath (1930, 1935) described several new species of Ophiceras from East Greenland. 
+He proposed several subgenera such as Lytophiceras, Discophiceras, Metophiceras, and Acanthophiceras. 
+Trumpy (1969) included Metophiceras in Xenodiscidae, erected Discophiceras as a full genus, and considered Lytophiceras and Acantophiceras as synonyms of Ophiceras, rejecting the subgeneric subdivision of Ophiceras. 
+Tozer (1994) illustrated several forms of Ophiceras from Arctic Canada, which are identical to those from East Greenland. 
+Ophiceras specimens from South China are usually poorly for a proper juvenile specimens too small preserved or identiﬁcation, thus making comparison with other regions difﬁcult. 
+The relationships of Ophiceras faunas among Himalayas, Arctic Canada, East Greenland, and South China remain unclear.  
+Ophiceras medium Griesbach, 1880 Figure 4.1–4.11  1880 Ophiceras medium Griesbach, p. 111, pl. 3, ﬁg. 
+9. 1880 Trachyceras (?) gibbosum Griesbach, p. 111, pl. 3,  ﬁg. 
+10.  1897 Ophiceras gibbosum; Diener, p. 108, pl. 9, ﬁg. 
+1897 Ophiceras platyspira Diener, p. 113, pl. 12, ﬁgs. 
+5, 6.  1897  1897 1897  Ophiceras sakuntala Diener, p. 114, pl. 10, ﬁgs. 
+1–7; pl. 11, ﬁgs. 
+1, 2, 4. Ophiceras medium; Diener, p. 118, pl. 9, ﬁgs. 
+1, 2. Ophiceras ptychodes Diener, p. 120, pl. 11, ﬁgs. 
+3, 5, 6. Ophiceras demissum; Diener, p. 121, pl. 14, ﬁgs. 
+1897 Ophiceras chamunda Diener, p. 123, pl. 12, ﬁgs. 
+1913 Ophiceras sakuntala; Diener, p. 15, pl. 1, ﬁgs. 
+1933 Ophiceras tingi Tien, p. 9, pl. 1, ﬁg. 
+4a–c. 
+1937 Ophiceras sp.; Hsu, p. 319, pl. 2, ﬁgs. 
+4, 5. 1972  Ophiceras medium; Kummel, pl. 7, ﬁgs. 
+1–13; pl. 8, ﬁgs. 
+1–16; pl. 9, ﬁgs. 
+1–14; pl. 10, ﬁgs. 
+Ophiceras (Lytophiceras) sakuntala; Wang and He, p. 272, pl. 2, ﬁgs. 
+4–6; p. 270, text-ﬁg. e. 
+Ophiceras cf. 
+O. sakuntula; Krystyn et al., p. 336, ﬁg. 
+4D.  
+2004 Ophiceras sp.; Tong et al., p. 196, pl. 1, ﬁgs. 
+2004 Lytophiceras sp.; Tong et al., p. 196, pl. 1, ﬁg. 
+2006 Lytophiceras cf. 
+L. chamunda; Bu et al., ﬁg. 
+3c. 
+2006 Ophiceras tingi; Bu et al., ﬁg. 
+3h, i. 
+2006 Ophiceras sp.; Bu et al., ﬁg. 
+3g, j, k. 
+2009 Ophiceras sp.; Zhang et al., ﬁg. 
+5j. 
+2009 Hypophiceras sp.; Zhang et al., ﬁg. 
+5k. 
+2009 Lytophiceras sp.; Zhang et al., ﬁg. 
+5l.  https://doi.org/10.1017/jpa.2018.46  Dai et al.—A new Induan ammonoid fauna from South China  5  Figure 3. Distribution of ammonoid taxa in the Gujiao section. 
+Open dots indicate occurrences based on fragmentary or poorly preserved specimens.  
+Lectotype.—GSI 5973 (Griesbach, 1880, pl. 3, ﬁg. 9; Diener, 1897, pl. 9, ﬁg. 2; Kummel, 1972, pl. 8, ﬁgs. 15, 16), from the Otoceras beds at Rimkin Paiar encamping ground, Shalshal Cliff, Painkhanda, Niti region, Himalayas, India.  
+Occurrence.—Late Griesbachian. 
+Himalayas (Griesbach, 1880; Diener, 1897; Wang and He, 1976), South China (this work).  
+Description.—Discoidal, relatively involute, and compressed (W/H ~0.58, W/D ~0.26) shell displaying a growth allometry with coiling becoming more evolute during ontogeny. 
+The largest specimen sampled at Gujiao displays a U/D ~0.36, while the smallest displays a ratio of ~0.25 (Fig. 5). 
+The venter is narrow and rounded, without distinct ventrolateral shoulders. 
+Flanks slightly convex with maximum whorl width near the inner third of the ﬂanks. 
+The umbilical wall is moderately deep  https://doi.org/10.1017/jpa.2018.46  6  Journal of Paleontology  (1–11) Ophiceras medium Griesbach, 1880, (1) YFMCUG 00001, from GJ-15; (2–5) YFMCUG 00002, from GJ-15; (6–10) YFMCUG 00003, from Figure 4. GJ-15, suture line at H = 6.2 mm; (11) YFMCUG 00008, from GJ-28. 
+Ophiceras sp. indet., (12–15) YFMCUG 00066, from GJ-33; (16–18) YFMCUG 00071, from GJ-33. 
+Ophiceratidae gen. indet., YFMCUG 00010, from GJ-23, suture line at H = 13.0 mm. (21–24) Vishnuites pralambha Diener, 1897, (21, 22) YFMCUG 00007, from GJ-25; (23, 24) YFMCUG 00051, from GJ-33.  https://doi.org/10.1017/jpa.2018.46  Dai et al.—A new Induan ammonoid fauna from South China  7  with a rounded shoulder. 
+The ﬂanks only exhibit ﬁne slightly curved growth lines. 
+Suture line ceratitic. 
+The ventral lobe is shallow with two pointed branches. 
+The ﬁrst lateral lobe is twice as deep as the second lateral lobe. 
+Both of them show ﬁne indentations at their base. 
+Saddles are rounded, and the second lateral saddle is slightly asymmetric.  
+Materials.—Three specimens from bed GJ-15, one specimen from bed GJ-28, and several questionable specimens from beds GJ-13, GJ-14, GJ-20, GJ-22, GJ-23, and GJ-27 (Fig. 3). 
+Registered specimens: YFMCUG 00001, YFMCUG 00002, YFMCUG 00003, and YFMCUG 00008.  
+Remarks.—Our specimens differ from O. tibeticum by their more involute coiling and smooth ﬂanks and from O. serpentinum by a more compressed and involute shell. 
+Previous descriptions of Ophiceras from South China are based on very poorly preserved specimens, so their assignment is often questionable, preventing their use for further discussion. 
+Described specimens are typically severely distorted, without suture lines and visible venter (e.g., Zhang et al., 2009, ﬁg. 5j) and may be confused with smooth gyronitids, for example. 
+Thus, these deformed specimens were not included in our taxonomic discussion. 
+In South China, O. tingi was ﬁrst described by Tien (1933) and is morphologically close to O. medium. 
+O. tingi is characterized by an unusual ‘V’-shaped second lateral lobe, which is most probably the result of intense weathering or degradation during preparation of the suture line. 
+O. sinense documented from Guiyang (Tien, 1933) shows some ﬁne folds and nodules near the umbilical shoulder, which correspond to some forms of O. tibeticum from Himalayas. 
+No well-preserved specimens of this species were retrieved, and its validity is questioned. 
+Bruhwiler et al. (2008) reported several wellpreserved juvenile specimens of Ophiceras with some ribs from Guangxi Province, which might be juvenile individuals of O. sinense. 
+However, due to their small size and in the absence of study concerning their ontogeny, this remains an open question. 
+An in-depth review of Ophiceras from South China with better-preserved specimens would be necessary to decipher its taxonomy.  
+Ophiceras sp. indet. 
+Figure 4.12–4.18  ?
+1988 Gyrophiceras plicatum; Xu, p. 446, pl. 2, ﬁg. 
+2007 Gyrophiceras subplicatum; Zakharov and Mu in Mu  et al., p. 866, ﬁgs. 
+Occurrence.—Late Griesbachian of South China.  
+Description.—Subevolute (U/D ~ 0.38), serpenticonic (W/D ~ 0.3) shell with a subcircular (W/H ~ 0.8) whorl section (Fig. 6) and an arched venter with rounded ventrolateral shoulders. 
+Flanks convex with maximum whorl width near mid-ﬂanks. 
+Umbilicus is broad and moderately deep with a low vertical umbilical wall and a rounded umbilical shoulder. 
+No ornamentation visible on our specimens, but this might be due to their poor preservation. 
+Suture line not sufﬁciently preserved to be drawn and described.  https://doi.org/10.1017/jpa.2018.46  Materials.—Very abundant in bed GJ-33. 
+Registered specimens: YFMCUG 00052-00084.  
+Remarks.—Similar specimens have been reported from South China and assigned to Gyrophiceras plicatum and G. subplicatum (Xu, 1988; Mu et al., 2007). 
+Gyrophiceras was erected by Spath (1934) based on the species Lecanites gangeticus Waagen, 1895 (holotype on pl. 39, ﬁg. 4a–c.) and assigned to Gyronitidae. 
+However, according to the taxonomic revision of Gyronitidae by Ware et al. (2018), the holotype is a pathological specimen that most probably belongs to Gyronites, so Gyrophiceras is considered invalid. 
+Specimens from South China assigned to Gyrophiceras by Xu (1988) and by Zakharov and Mu (in Mu et al., 2007) belong to different genera and families. 
+Xu (1988) reported three species of Gyrophiceras: G. hubeiense, G. orientale, and G. plicatum, but only the latter is similar to our specimens. 
+G. hubeiense and G. orientale are more involute and thicker than our specimens. 
+G. subplicatum (Zakharov and Mu in Mu et al., 2007) does not exhibit any marked difference from our specimens and thus may be considered synonymous. 
+G. plicatum was initially described by Chao (1959) from Smithian specimens, which likely belong to Dieneroceras. 
+The Induan specimens assigned by Xu (1988) and Zakharov and Mu (in Mu et al., to G. plicatum were thus likely misidentiﬁed and 2007) actually correspond to an undetermined Ophiceras species. 
+As our specimens and Xu’s material are too poorly preserved and small to establish whether they are a new species, or juveniles of another Ophiceras species, whose ontogeny is unknown (e.g., O. serpentinum), we prefer to keep this taxon in open nomenclature.  
+Genus Vishnuites Diener, 1897  Type species.—Vishnuites pralambha Diener, 1897.  
+Remarks.—This ophiceratid genus is characterized by an acute venter. 
+A detailed discussion of this genus is available in Bruhwiler et al. (2008).  
+Vishnuites pralambha Diener, 1897 Figure 4.21–4.23  1897  Xenaspis (Vishnuites) pralambha Diener, p. 88, pl. 7, ﬁgs. 
+1959 Vishnuites marginalis Chao, p. 190, pl. 11. Figs. 
+1988 Vishnuites huazhongensis Xu, p. 441, pl. 1, ﬁg. 
+8, textVishnuites pralambha; Kummel, pl. 12, ﬁgs. 
+1988 Vishnuites lichuanensis Xu, p. 441, pl. 1, ﬁg. 
+3, pl. 2,  ?
+1988 Vishnuites marginalis Xu, p. 443, pl. 2, ﬁg. 
+1, textﬁg. 
+6.  ﬁg. 
+8.  ﬁg. 
+10, text-ﬁg. 
+1988 Vishnuites orientalis Xu, p. 443, pl. 2, ﬁg. 
+6, text-ﬁg. 
+9. Vishnuites yangziensis Xu, p. 444, pl. 1, ﬁg. 
+9, pl. 2, 1988 ﬁg. 
+3, text-ﬁg. 
+10. Vishnuites wenjiangsiensis Zakharov and Mu in Mu et al., p. 860, ﬁgs. 
+2007  8  Journal of Paleontology  Figure 5. Himalayas are from Diener (1897) (n = 16). 
+White symbols indicate specimens from Gujiao section (n = 4).  
+Scatter diagrams of (1) height/diameter (H/D), (2) width/diameter (W/D), and (3) umbilic/diameter (U/D) for Ophiceras medium. 
+Data from the  Figure 6.  Scatter diagrams of (1) height/diameter (H/D), (2) width/diameter (W/D), and (3) umbilic/diameter (U/D) for Ophiceras sp. indet. (n = 33).  
+2007  Vishnuites cf. 
+V. yangziensis; Zakharov and Mu in Mu et al., p. 860, ﬁgs. v 2008 Vishnuites pralambha; Bruhwiler et al., p. 1161, pl. 1,  ﬁgs. 
+Lectotype.—GSI5950 (Diener, 1897, pl. 7, ﬁg. 4; Kummel, 1972, pl. 12, ﬁg. 1) from the Otoceras beds at Rimkin Paiar encamping ground, Shalshal Cliff, Painkhanda, Niti region, Himalayas, India.  
+Occurrence.—Otoceras beds of the Himalayas (Diener, 1897); late Griesbachian of South China (Xu, 1988; Mu et al., 2007; Bruhwiler et al., 2008; this work).  
+Description.—Moderately evolute (U/D ~ 0.41) compressed shell with an acute venter. 
+Convex ﬂanks with maximum whorl width at the middle of ﬂanks. 
+Umbilicus broad and shallow,  with a low wall and a rounded umbilical margin. 
+Ornamentation not preserved. 
+Suture line very poorly preserved, but remains of a developed auxiliary series are visible (see Fig. 4.21).  
+Materials.—Several specimens from beds GJ-24, GJ-25, and GJ-33, with only a single measurable specimen. 
+Registered specimens: YFMCUG 00007 and YFMCUG 00051.  
+Remarks.—Vishnuites species erected by Chao (1959), Xu (1988), and Zakharov and Mu (in Mu et al., 2007) based on rather poorly preserved specimens from South China have been considered synonyms of V. pralambha Diener, 1897 by Bruhwiler et al. (2008). 
+However, this genus and its species are poorly known. 
+It has been erected from two fragmentary specimens, which lack detailed stratigraphic context. 
+Diener (1897) mentioned that they come from the “Otoceras beds” in Shalshal Cliff. 
+These so-called “Otoceras beds” correspond to a ~1 m  https://doi.org/10.1017/jpa.2018.46  Dai et al.—A new Induan ammonoid fauna from South China  9  thick interval encompassing the Griesbachian up to at least the middle Dienerian, and Shalshal Cliff is situated at the border between India and China in the central Himalayas and has never been reinvestigated. 
+The ontogeny, intraspeciﬁc variability, and exact stratigraphic position of this species thus remain unknown. 
+We here decided to keep the name Vishnuites pralambha for specimens from South China despite minor differences from the holotype (e.g., slightly thicker whorl section, higher umbilical wall, longer auxiliary series) for continuity with previous works on South Chinese ammonoids. 
+However, it is awaiting a proper revision to conﬁrm or reject the synonymy between the material from South China and that from central Himalaya. 
+Pseudovishnuites Zakharov and Mu (in Mu et al. 2007) exhibits a wider and deeper ventral lobe with distinct adventitious elements but was considered a synonym of Vishnuites by Bruhwiler et al. (2008). 
+More material with well-preserved suture lines is needed to conﬁrm the validity of Pseudovishnuites. 
+V. (‘Paravishnuites’) oxynotus and V. (‘P’) striatus described by Spath (1935) from East Greenland are relatively more involute and display ﬁne radial folds on their ﬂanks.  
+Ophiceratidae gen. indet. 
+Figure 4.19, 4.20  Occurrence.—Lower Daye Formation, Guizhou, South China. 
+Ophiceras medium beds, late Griesbachian.  
+Description.—Moderately involute, compressed shell with rounded venter, ﬂanks slightly convex, and maximum whorl width near the umbilical margin. 
+Umbilicus small with an oblique wall and a rounded umbilical shoulder. 
+Ornamentation not preserved. 
+Suture line ceratitic. 
+The ventral lobe is not visible. 
+The ﬁrst lateral lobe is rather deep, with small, regular denticulations at its base. 
+First and second lateral saddles are elongated and slightly asymmetric. 
+The third lateral saddle is short with a broad rounded tip. 
+Auxiliary series is quite short with ﬁne indentations.  
+Material.—A single specimen from bed GJ-23. 
+Registered specimen: YFMCUG 00006.  
+Remarks.—This specimen is close to involute forms of Ophiceratidae, such as Discophiceras, Ghazalaites, and Kyoktites. 
+However, the poor preservation prevents further identiﬁcation.  
+Family Gyronitidae Waagen, 1895 Genus Ambites Waagen, 1895  Type species.—Ambites discus Waagen, 1895 from Salt Range, Pakistan.  
+Remarks.—Ambites can be distinguished from Gyronites by its typical bottlenecked venter. 
+A detailed discussion of this genus can be found in Ware et al. (2018).  
+Ambites radiatus (Bruhwiler et al., 2008) Figure 7.1–7.16  v 2008 Pleurambites radiatus Bruhwiler et al., p. 1168, pl. 5,  ﬁgs 1 (holotype), 2, 3.  v 2018 Ambites radiatus; Ware et al., pl. 9, ﬁgs. 
+Holotype.—PIMUZ 26766 (Bruhwiler et al., 2008, pl. 5, ﬁg. 1) from Jinya, Guangxi, South China.  
+Occurrence.—Middle Dienerian of the Northern Indian Margin (Ware et al., 2015) and South China (Bruhwiler et al., 2008; this work).  
+Description.—Small, subevolute (U/D ~0.31, Fig. 8) shell with a weakly compressed whorl section (W/H ~0.62, Fig. 8). 
+The venter is tabulate with angular shoulders and shows a bottleneck shape at the beginning of the ﬂanks. 
+Flanks are longitudinally divided into two parts by a low spiral ridge, which is not apparent on juvenile specimens, and located near the outer third of the ﬂanks. 
+The inner part is ﬂat while the outer part slightly inclined toward the ventrolateral shoulder. 
+Umbilicus displays a low vertical wall. 
+Umbilical shoulder is rounded. 
+The ornamentation consists of a ﬁne biconcave growth line and weak folds on the ﬂanks. 
+Suture line not preserved.  is  Materials.—Eight specimens from bed GJ-40. 
+Registered specimens: YFMCUG 00085–00089, YFMCUG 00122, YFMCUG 00123-1, and YFMCUG 00127-6.  
+Remarks.—Ware et al. (2018) provided a detailed review and deﬁnition of this species. 
+The rather wide, tabulate venter of our specimens and their evolute shape clearly allow identifying them as A. radiatus. 
+Comparisons with measurements of specimens of Ware et al. (2018) highlight this congruence (Fig. 8).  
+Gyronitidae gen. indet. sp. indet. 
+Figure 7.17–7.21  Occurrence.—Lower Daye Formation., Guizhou, South China. 
+Ophiceras medium beds, late Griesbachian.  
+Description.—Small subinvolute (U/D ~0.25), compressed (W/H~0.46, W/D ~0.26) shell with a tabulate venter and sharp ventrolateral shoulders. 
+Flanks slightly convex with maximum whorl width near the inner third of the whorl height. 
+Umbilicus moderately deep with a vertical wall and a rounded umbilical shoulder. 
+Shell surface smooth. 
+The ventral lobe is subdivided into two branches without any indentations visible at their base. 
+The ﬁrst lateral saddle is broad and shows a rounded tip. 
+The third lateral saddle is relatively small. 
+Only obscure indentations can be seen at the base of the ﬁrst and second lateral lobes. 
+Auxiliary series not preserved.  
+Material.—One specimen from bed GJ-15. 
+Registered specimen: YFMCUG 00005.  
+Remarks.—The tabulate venter and suture lines similar to Gyronites allow its inclusion in Gyronitidae, and it might correspond to an involute form of the genus. 
+However, only one poorly preserved juvenile specimen is available, so we prefer to keep it in open nomenclature.  https://doi.org/10.1017/jpa.2018.46  10  Journal of Paleontology  (1–16) Ambites radiatus (Bruhwiler et al., 2008), (1–4) YFMCUG 00088, from GJ-40; (5–8) YFMCUG 00087, from GJ-40; (9–12) YFMCUG Figure 7. 00086, from GJ-40; (13–16) YFMCUG 00089, from GJ-40. 
+Gyronitidae gen. indet., YFMCUG 00005, from GJ-15, suture line at H = 5.0 mm. (22–34) ? 
+Gyronitidae gen. indet. sp. indet., (22) YFMCUG 00095, from GJ-40; (23–26) YFMCUG 00097, from GJ-40; (27–30) YFMCUG 00098, from GJ-40; (31, 32) YFMCUG 00094, from GJ-40; (33, 34) YFMCUG 00096, from GJ-40.  https://doi.org/10.1017/jpa.2018.46  Dai et al.—A new Induan ammonoid fauna from South China  11  Figure 8. 2008). 
+White symbols indicate specimens from Gujiao section (n = 7), and gray symbols indicate data from Ware et al. (2018) (n = 55).  
+Scatter diagrams of (1) height/diameter (H/D), (2) width/diameter (W/D), and (3) umbilic/diameter (U/D) for Ambites radiatus (Bruhwiler et al.,  Figure 9. (n = 7).  
+Scatter diagrams of (1) height/diameter (H/D), (2) width/diameter (W/D), and (3) umbilic/diameter (U/D) for ?
+Gyronitidae gen. indet. sp. indet.  
+Gyronitidae gen. indet. sp. indet. 
+Figure 7.22–7.34  Occurrence.—Lower Daye Formation, Guizhou, South China. 
+Ambites radiatus bed, middle Dienerian.  
+Description.—Subinvolute (U/D ~0.23) platyconic shell with a moderately compressed (W/H ~0.54) whorl section (Fig. 9). 
+Subtabulate venter with a distinct rounded ventrolateral shoulder. 
+Flanks subparallel, very slightly convex, with maximum whorl width at mid-ﬂank. 
+Umbilicus deep with a vertical wall and a rounded shoulder. 
+Shell with thin, slightly biconcave growth lines crossing the venter. 
+Suture line not preserved.  
+Remarks.—This species differs from Mullericeratidae by a broad subtabulate venter and a more evolute and thicker shell. 
+It differs from Proptychitidae by a more compressed shell and subtabulate venter. 
+In proptychitids, the venter is always rounded. 
+According to the emended description of Gyronitidae (Ware et al., 2018), this species ﬁts within this family. 
+It is quite close to Ambites bojeseni Ware and Bucher in Ware et al., 2018 (which co-occurs with Ambites radiatus in the Northern Indian Margin), differing only by its venter, which is not bottleneckshaped. 
+This difference, however, excludes it from Ambites, so it probably represents a new genus and species within Gyronitidae. 
+However, in the absence of a well-preserved suture line, it is not possible to provide a complete diagnosis, so we prefer to keep it in open nomenclature.  
+Materials.—Seven specimens from bed GJ-40. 
+Registered specimens: YFMCUG 00094–00098, YFMCUG 00121.  
+Family Proptychitidae Waagen, 1895 Genus Jieshaniceras Bruhwiler et al., 2008  https://doi.org/10.1017/jpa.2018.46  12  Journal of Paleontology  Type species.—Wordieoceras guizhouensis Zakharov and Mu in Mu et al., 2007 from Guiding, Guizhou, South China.  
+Diagnosis.—Compressed and evolute Proptychitidae. 
+Venter rounded without ventrolateral shoulders. 
+Flanks convex. 
+Suture line with elongated saddles. 
+Lobes with numerous irregular indentations both at the base and along the sides of lobes.  
+Remarks.—This genus was included in Flemingitidae by Bruhwiler et al. (2008) based on its phylloid saddles. 
+However, Flemingitidae are known to abundantly occur only in the early Smithian (e.g., Brayard and Bucher, 2008; Bruhwiler et al., 2012a) and are usually distinctly ornamented with ribs and strigation, which is not the case in Jieshaniceras. 
+Bruhwiler et al. (2008) stated this family assignment remains uncertain. 
+Phylloid saddles also exist in proptychitids (e.g., Proptychites ammonoides Waagen in Ware et al., 2018). 
+Our new material with better-preserved suture lines shows that lobe indentations are often not restricted to their base, but also run along the lower part of their sides, particularly on the ﬁrst lateral lobe (e.g., Fig. 10.17). 
+This last trait, together with the rounded venter without ventrolateral shoulders, is typical of Proptychitidae (Ware et al., 2018). 
+We therefore consider here this genus a compressed and evolute form of Proptychitidae.  
+Jieshaniceras guizhouense (Zakharov and Mu in Mu et al., 2007) Figures 10, 11.1–11.6  ?
+1933 Meekoceras kweichowense Tien, p. 16, pl. 2, ﬁg. 
+1a–e. 
+2007  Paranorites elegans Xu, p. 448, pl. 4, ﬁgs. 
+4, 5. Proptychites aff. 
+P. candidus; Zakharov and Mu in Mu et al., p. 864, ﬁgs. 
+Wordieoceras aff. 
+W. wordiei; Zakharov and Mu in Mu et al., p. 862, ﬁgs. 
+6.7, 6.9, 6.11, 7.1, 7.2, 8. Wordieoceras guizhouensis Zakharov and Mu in Mu et al., p. 862, ﬁgs. 
+2007  2007  v 2008 Proptychites candidus; Bruhwiler et al., p. 1162, pl. 2,  v 2008  ﬁgs. 
+1, 2. Jieshaniceras guizhouensis; Bruhwiler et al., p. 1174, pl. 6, ﬁgs. 
+Holotype.—NIGP 140012 (Mu et al., 2007, ﬁg. 9.1, 9.2) from the Wenjiangsi section, Guiding, Guizhou, South China.  
+Occurrence.—Late Griesbachian of South China.  
+Description.—Large, moderately evolute (U/D ~0.3) shell with a strongly compressed (W/H ~0.49) whorl section (Fig. 12). 
+Rounded venter lacking ventrolateral shoulders and convex ﬂanks with maximum whorl width near mid-ﬂanks. 
+Umbilicus with a low vertical wall and rounded shoulders. 
+Ornamentation not preserved on our specimens. 
+Suture line with high rounded and slightly asymmetric saddles, the ﬁrst lateral saddle sometimes being phylloid. 
+The third lateral saddle is low and occasionally square (Fig. 11.5). 
+Lobes with numerous deep and irregular indentations. 
+Auxiliary series relatively short with numerous small indentations.  https://doi.org/10.1017/jpa.2018.46  Materials.—One specimen from bed GJ-32, one specimen from bed GJ-33, and six specimens from GJ-35. 
+Registered specimens: YFMCUG 00042–00048.  
+Remarks.—Our specimens ﬁt within the description of the species by Zakharov and Mu (in Mu et al., 2007) and Bruhwiler et al. (2008). 
+Our specimens are slightly more involute than the holotype (Mu et al., 2007, ﬁg. 9.1, 9.2) and have a wider second lateral saddle and more indentations on the lobes, a difference that is interpreted as part of the species’ intraspeciﬁc variability.  
+Genus Proptychites Waagen, 1895  Type species.—Ceratites lawrencianus de Koninck, 1863.  
+Proptychites sp. indet. 
+Figure 11.7–11.11  Occurrence.—Late Griesbachian of South China.  
+Description.—Subinvolute (U/D ~0.22) shell with a weakly compressed (W/H ~0.70) whorl section and a broadly rounded venter. 
+Flanks are convex with maximum whorl width near the umbilical shoulder. 
+Umbilicus is deep with an apparently vertical wall and rounded shoulders. 
+The ornamentation is quite obscured on our specimens. 
+Suture line ceratitic, with a broad ventral lobe divided by a high ventral saddle into two branches with serrated base. 
+The ﬁrst and second lateral saddles are high and narrow, gently bent toward the umbilicus. 
+The ﬁrst lateral lobe is larger than the others, with marked denticulations at its base and a couple ﬁne ones on the base of its ﬂanks. 
+Auxiliary series is potentially present but barely visible on our specimens.  
+Materials.—Two specimens from bed GJ-35. 
+Registered specimens: YFMCUG 00049 and YFMCUG 00050.  
+Remarks.—Our specimens are quite close to Proptychites lawrencianus (de Koninck, 1863), but their suture line is distinct with a broader ﬁrst lateral lobe. 
+Saddles of our specimens lawrencianus. 
+Compared to are also narrower than in P. P. candidus, these specimens show a thicker shell and a broader ﬁrst lateral lobe. 
+More material is needed to make an unequivocal species assignment.  
+Genus Pseudoproptychites Bando, 1981 Type species.—Proptychites scheibleri Diener, 1897.  
+Pseudoproptychites cf. 
+P. hiemalis (Diener, 1895) Figure 13.1–13.11  ?
+1968  Proptychites hiemalis Diener, p. 34, pl. 2, ﬁgs. 
+2, 4, pl. 5, ﬁg. 
+4. Proptychites hiemalis; Zakharov, p. 93, pl. 17, ﬁgs. 
+6, 7, text-ﬁgure 20c.  v 2008 Proptychitid gen. indet. sp. indet.; Bruhwiler et al., p.  
+2009  1164, pl. 2, ﬁgs. 
+Pseudoproptychites hiemalis; Shigeta and Zakharov, p. 106, ﬁgs. 
+Dai et al.—A new Induan ammonoid fauna from South China  13  Jieshaniceras guizhouense (Zakharov and Mu in Mu et al., 2007), (1–4, 16) YFMCUG 00009, from GJ-33, suture line at H = 22.3 mm; (5–7) Figure 10. YFMCUG 00013, from GJ-33; (8, 9) YFMCUG 00010, from GJ-33; (10–12) YFMCUG 00014, from GJ-35; (13–15) YFMCUG 00012, from GJ-33, suture line at H = 12.1 mm; (17–19) YFMCUG 00015, from GJ-35, suture line at H = 30.4 mm.  https://doi.org/10.1017/jpa.2018.46  14  Journal of Paleontology  Occurrence.—Middle Dienerian of South China.  
+Description.—Subinvolute (U/D ~0.25) shell showing a growth allometry. 
+Small individuals display a rounded (W/H ~1.00) whorl section, whereas larger specimens exhibit a moderately compressed (W/H ~0.74) whorl section. 
+The venter is broadly arched without ventrolateral shoulders. 
+Flanks highly convex with maximum whorl width at mid-ﬂanks. 
+Umbilicus deep with a vertical wall and a rounded umbilical shoulder. 
+Shell with thin, dense growth lines and a weak strigation. 
+Suture line not visible on our specimens.  
+Materials.—Four specimens from bed GJ-40. 
+Registered specimens: YFMCUG 00090–00093.  
+Remarks.—These specimens are similar to Pseudoproptychites hiemalis from South Primorye (Shigeta and Zakharov, 2009). 
+However, this species is poorly known, especially concerning its ontogeny; our specimens are much smaller than the holotype and their suture line is not preserved, preventing any ﬁrm species assignment. 
+Bruhwiler et al. (2008) assigned two specimens to Proptychitidae in open nomenclature. 
+They show a similar subrounded whorl section and a high expansion rate; these are clearly synonymous with our specimens.  
+Family Mullericeratidae Ware et al., 2011 Genus Mullericeras Ware et al., 2011  Type species.—Aspidites spitiensis Krafft in Krafft and Diener, 1909.  
+Mullericeras gujiaoense new species Figure 13.12–13.27  vp 2008 Koninckites cf. 
+K. timorense; Bruhwiler et al., p.  
+1165, pl. 3, ﬁgs. 
+1, 3, 4.  Holotype.—YFMCUG 00018, from bed GJ-33, Guojiao section, Guizhou Province, South China. 
+Jieshaniceras guizhouense beds, late Griesbachian.  
+Diagnosis.—Involute compressed Mullericeras with a narrow tabulate venter and slightly convex ﬂanks converging toward the venter. 
+Umbilicus is very small but never occluded. 
+Suture line is typical for Mullericeras, with a wide ventral lobe with many denticulations at its base and a long auxiliary series characterized by numerous irregular indentations.  
+Occurrence.—Jieshaniceras guizhouense beds, late Griesbachian of Guizhou, South China.  
+Description.—Very involute (U/D ~0.13) shell with a strongly compressed (W/H ~0.42) whorl section (Fig. 14). 
+Venter is narrow and tabulate. 
+Flanks convex, converging toward venter. 
+Umbilicus is small and deep with a vertical wall and a rounded umbilical margin. 
+No ornamentation visible on our specimens. 
+Suture line with a broad ventral lobe with numerous irregular indentations, which become larger toward the ﬁrst lateral saddle. 
+The indentations sometimes go along the side of ﬁrst lateral saddle. 
+The ﬁrst and second saddles are narrow and quite high  with a narrow, rounded tip, the second one being asymmetric. 
+The ﬁrst lateral lobe is wide with many rather regularly spaced denticulations at its base. 
+The third lateral saddle is small and sometimes with a ﬂattened tip. 
+Auxiliary series very long with numerous irregularly spaced indentations.  
+Etymology.—Named after Gujiao County.  
+Materials.—Very abundant from bed GJ-33. 
+Registered specimens: YFMCUG 00016–00041.  
+Remarks.—Mullericeras mostly differs from Ussuridiscus by a broad ventral lobe bearing numerous small indentations (Ware et al., 2018). 
+As our specimens have this feature, we assign them to Mullericeras. 
+Our specimens differ from M. spitiense (Krafft in Krafft and Diener, 1909) and M. fergusoni Ware et al., 2011 by their small but never occluded umbilicus and narrow tabulate venter, and from M. shigetai Ware and Bucher in Ware et al., 2018 and M. indusense Ware and Bucher in Ware et al., 2018 by their narrower venter and deeper indentations at the base of the lobes. 
+M. gujiaoense n. sp. is also more involute than M. indusense. 
+It differs from M. niazii Ware and Bucher in Ware et al., 2018 by a thicker whorl section. 
+M. gujiaoense n. sp. occurs in the Jieshaniceras guizhouense beds and are thus older than the Mullericeras from Candelaria Hills (Ware et al., 2011) and Salt Range (Ware et al., 2018), which are all middle Dienerian. 
+Some specimens identiﬁed by Bruhwiler et al. (2008) as Koninckites cf. 
+K. timorense from Jieshan Lake, found together with Jieshaniceras guizhouense and thus of the same age as the present species, are clearly identical to our specimens. 
+The other illustrated specimens they attribute to the same species from Shanggan are younger, from the middle Dienerian (co-occuring with a species synonymized with Ambites bjerageri, see Ware et al., 2018). 
+They are not well preserved, and their suture line is not visible, so it is not possible to decipher whether they are conspeciﬁc with our specimens; considering the age difference, they likely represent a different species. 
+These smooth, involute, compressed, and tabulate Early Triassic forms are very difﬁcult to classify without large populations and good preservation due the similarities to frequent homoplasy (see, for example, between Mullericeratidae, some involute Ambites, involute Paranoritidae, some Hedenstroemiidae such as Clypites and Hedenstroemia, and some Prionitidae such as Meekoceras, which are difﬁcult if not impossible to differentiate without large populations and well-preserved suture lines). 
+The different Chinese species from Xu (1988) and Mu et al. (2007), which Bruhwiler et al. (2008) synonymized with Koninckites cf. 
+K. timorensis, are too poorly preserved for a precise taxonomic assignment.  
+Genus Ussuridiscus Shigeta and Zakharov, 2009 Type species.—Meekoceras (Kingites) varaha Diener, 1895.  
+Ussuridiscus cf. 
+U. varaha Shigeta and Zakharov, 2009 Figure 15.1–15.5, 15.8–15.18  ?
+2009 Ussuridiscus varaha; Shigeta and Zakharov, p. 69, ﬁgs.  https://doi.org/10.1017/jpa.2018.46  Dai et al.—A new Induan ammonoid fauna from South China  15  (1–6) Jieshaniceras guizhouense (Zakharov and Mu in Mu et al., 2007), (1–3) YFMCUG 00045, from GJ-35; (4) YFMCUG 00046, from GJ-35, Figure 11. suture line at H = 24.8 mm; (5) YFMCUG 00047, from GJ-35, suture line at H = 24.3 mm; (6) YFMCUG 00043, from GJ-35, suture line at H = 24.0 mm. (7–11) Proptychites sp. indet., (7–9) YFMCUG 00049, from GJ-35, suture line at H = 23.8 mm; (10, 11) YFMCUG 00050, from GJ-40.  
+Occurrence.—Middle Dienerian of South China.  
+Description.—Involute (U/D ~0.15) shell with a strongly compressed (W/H ~0.43) whorl section (Fig. 16). 
+Tabulate to subtabulate venter with a narrowly rounded ventrolateral shoulder. 
+Flanks are ﬂat from the umbilical shoulder to the mid-ﬂank and then progressively converge toward ventrolateral shoulder. 
+Umbilicus very small, with a deep vertical wall and a rounded  umbilical shoulder. 
+Fine, dense growth lines are visible, as well as low folds on the outer part of ﬂanks, especially on lager specimens. 
+Suture line poorly preserved in our specimens. 
+Only an auxiliary series is visible and shows a distinct auxiliary lobe and saddle.  
+Materials.—Abundant in bed GJ-40. 
+Registered specimens: YFMCUG 00099–00120, YFMCUG 00123-2, YFMCUG  https://doi.org/10.1017/jpa.2018.46  16  Journal of Paleontology  Figure 12. Scatter diagrams of (1) height/diameter (H/D), (2) width/diameter (W/D), and (3) umbilic/diameter (U/D) for Jieshaniceras guizhouense (Zakharov and Mu in Mu et al., 2007). 
+Data from Mu et al. 2007 (n = 21), Bruhwiler et al. 2008 (n = 9), and this work (n = 6). 
+White symbols indicate specimens from Gujiao section.  00124, YFMCUG 00125-1, YFMCUG 00125-2, YFMCUG 00126, YFMCUG 00127-1–00127-5.  
+Material.—Only one poorly preserved specimen from sample GJ-15. 
+Registered specimen: YFMCUG 00004.  
+Remarks.—Compared with Ussuridiscus varaha from South Primorye (Shigeta and Zakharov, 2009) and the Salt Range (Ware et al., 2018), our specimens exhibit a tabulate to subtabulate venter, which is only visible on larger specimens from South Primorye (see Shigeta and Zakharov, 2009, p. 70, ﬁg. 55.20–55.23). 
+In addition, U. varaha typically displays an overhanging umbilical wall, whereas our specimens display a vertical one. ‘Koninckites’ cf. 
+K. timorense described by Bruhwiler et al. (2008), reassigned to Ussuridiscus varaha by Shigeta and Zakharov (2009) and Ware et al. (2018), is more depressed than our specimens and shows converging ﬂanks toward the ventrolateral shoulders. 
+By contrast, our specimens display relatively ﬂattened ﬂanks. 
+Some specimens of Bruhwi(2008) are clearly synonyms of Mullericeras ler et al. gujiaoense (see the preceding). 
+The suture line is nearly completely obscured on our specimens but, where visible, exhibits an auxiliary series with a small saddle (Fig. 17). 
+This small saddle was not observed on Shigeta and Zakharov’s (2009) specimens. 
+Overall, our specimens superﬁcially resemble U. varaha from South Primorye but exhibit slight differences that may indicate they pertain to another new taxa; specimens with better-preserved suture lines would be necessary to conﬁrm this.  
+Mullericeratidae gen. indet. 
+Figure 15.19  Occurrence.—Lower Daye Formation, Guizhou, South China. 
+Ophiceras medium beds, late Griesbachian.  
+Description.—Involute (U/D ~0.14) shell with a strongly compressed (W/H ~0.42) whorl section and a tabulate venter with an angular ventrolateral shoulder. 
+Slightly convex ﬂanks with the maximum whorl width near mid-ﬂank. 
+Umbilicus deep and small with a vertical wall and a rounded shoulder. 
+Shell with very ﬁne growth lines. 
+Suture line not visible.  
+Remarks.—The involute shell and tabulate venter of this specimen resemble some Mullericeratidae. 
+This specimen may represent the oldest known occurrence for this family. 
+However, this assignment remains to be conﬁrmed.  
+Biostratigraphy  Induan ammonoid faunas and their correlations are still poorly known when compared with Smithian ammonoid faunas (Jenks et al., 2015). 
+The Dienerian ammonoid biostratigraphy has been recently reﬁned by Ware et al. (2015), based on ammonoid data from the Salt Range (Pakistan) and Spiti (India). 
+Ware et al. (2015) especially proposed to subdivide the Dienerian into three parts: the early Dienerian corresponding to the ﬁrst occurrence of the genus Gyronites and including three UA-zones (DI-1 to DI-3); the middle Dienerian being based on the occurrence of the genus Ambites and comprising ﬁve UA-zones (DI-4 to DI-8); the late Dienerian representing the ﬁrst occurrences of Paranoritidae and Hedenstroemiidae and containing four UAzones (DI-9 to DI-12). 
+However, detailed correlation of this high-resolution ammonoid zonation with other regions shows many uncertainties (Fig. 18; Jenks et al. 2015). 
+The Griesbachian ammonoid zonation is generally less detailed than for the Dienerian and often shows the successive Otoceras and Ophiceras Zones (Jenks et al., 2015). 
+Otoceras has been found mainly in middle- and high-latitude regions, thus preventing ﬁrm correlation with low-latitude regions. 
+Ophiceras is much more cosmopolitan and can be considered a good index of the late Griesbachian (Fig. 18).  
+Intensive sampling of the lower part of the Daye Formation, which spans the late Griesbachian–middle Dienerian transition, led to the deﬁnition of three successive ammonoid beds. 
+In ascending order, these consist of the late Griesbachian Ophiceras medium and Jieshaniceras guizhouense beds followed by the middle Dienerian Ambites radiatus bed (Figs. 
+3,  https://doi.org/10.1017/jpa.2018.46  Dai et al.—A new Induan ammonoid fauna from South China  17  (1–11) Pseudoproptychites cf. hiemalis, (1–3) YFMCUG 00090, from GJ-40; (4, 5) YFMCUG 00091, from GJ-40; (6, 7) YFMCUG 00092, from Figure 13. GJ-40; (8–11) YFMCUG 00093, from GJ-40; (12–27) Mullericeras gujiaoense n. sp., (12–14) holotype, YFMCUG 00018, from GJ-33; (15–17) YFMCUG 00021, from GJ-33; (18–21) YFMCUG 00024, from GJ-33; (22–24) YFMCUG 00026, from GJ-33; (25) YFMCUG 00017, from GJ-33, suture line at H = 25.3 mm; (26) YFMCUG 00019, from GJ-33, suture line at H = 24.8 mm; (27) YFMCUG 00016, from GJ-33, suture line at H = 24.4 mm.  https://doi.org/10.1017/jpa.2018.46  18  Journal of Paleontology  Figure 14. (n = 25).  
+Scatter diagrams of (1) height/diameter (H/D), (2) width/diameter (W/D), and (3) umbilic/diameter (U/D) for Mullericeras gujiaoense n. sp.  
+Typical early Dienerian faunas are thus absent from the Gujiao section. 
+Owing to a preservation gap, no ammonoid specimen was found between Jieshaniceras guizhouense beds and Ambites radiatus bed. 
+Abundant bivalves (e.g., Claraia radialis [Leonardi, 1935], C. stachei [Patte, 1935], and C. aurita [von Hauer, 1850]) were found in Jieshaniceras guizhouense beds and Ambites radiatus bed, also indicating a Griesbachian– Dienerian age for these beds.  
+Ophiceras medium beds.—These beds are characterized by the occurrence of Ophiceras medium. 
+Other co-occurring taxa are ? 
+Mullericeratidae gen. indet., Gyronitidae gen. indet., Vishnuites pralambha, and Ophiceratidae gen. indet. 
+This assemblage indicates a late Griesbachian age. 
+Ophiceras or OphicerasLytophiceras zones have been reported from many areas of South China, for example the Meishan section in Zhejiang Province (Wang, 1984; Yin et al., 2001), the Qinglongshan section in Jiangsu Province (Wang, 1984), and the Chaohu section in Anhui Province (Tong et al., 2004). 
+However, most illustrated specimens from these sections are poorly preserved, preventing any ﬁrm taxonomic assignment and correlation among sections. 
+Bruhwiler et al. (2008) also recognized Ophiceras sp. indet. from the Laren and Shanggan sections in Guangxi. 
+Ophiceras is a widely distributed Griesbachian genus and has been documented in the Himalayas (e.g., Diener, 1897; Wang and He, 1976; Krystyn and Orchard, 1996), in East Greenland (Spath, 1930, 1935; Trumpy, 1969), in Arctic Canada (Tozer, 1994), in Oman (Krystyn et al., 2003), in the Salt Range (Schindewolf, 1954; Kummel, 1966; Ware et al., 2018), and in South China (Tien, 1933; Tong et al., 2004; Bruhwiler et al., 2008), permitting worldwide correlation among ‘Ophiceras beds,’ but their temporal resolution and potential subdivisions remain to be analyzed in depth.  beds.—These beds contain Jieshaniceras guizhouense Jieshaniceras guizhouense, Proptychites sp. indet., Mullericeras gujiaoense n. sp., Ophiceras sp. indet., and Vishnuites pralambha. 
+Jieshaniceras guizhouense is associated with  Ussuridiscus varaha in some sections (e.g., Jieshan Lake and Jianzishan, Bruhwiler et al., 2008; Bai et al., 2017). 
+The age assignment of these beds, if based exclusively on ammonoids, remains problematic. 
+U. varaha was found restricted to the ﬁrst Dienerian zone of the Northern Indian Margin (Ware et al., 2015, 2018), but its occurrence in South Primorye is less effectively constrained and assigned to the late Griesbachian through to the middle Dienerian (Shigeta and Zakharov, 2009). 
+Use of this taxon for biostratigraphic correlation thus does not bring much clarity. 
+Proptychitids occur from the latest Griesbachian to the Smithian and do not provide any useful biostratigraphic information. 
+Ophiceras together with Otoceras represent iconic Griesbachian genera and have yet to be found in younger strata, suggesting a Griesbachian age. 
+However, Mullericeras is only known in the middle Dienerian of South Primorye (Shigeta and Zakharov, 2009), Nevada (Ware et al., 2011), and Northern Indian Margin (Ware et al., 2015, 2018), so its occurrence in these beds suggests a Dienerian age instead. 
+This assemblage was found in Jieshan Lake by Bruhwiler et al. (2008), who considered it as a direct correlative of the Dienerian Proptychites candidus beds of Tozer (1994), but Mu et al. (2007) considered the same assemblage in Wenjiangsi as late Griesbachian in age. 
+Overall, the ammonoid assemblage found in the J. guizhouense beds at Gujiao shows that our knowledge on the temporal distribution of several Induan ammonoid taxa, especially around the Griesbachian/Dienerian boundary, remains unclear, making the Griesbachian/Dienerian boundary hard to determine based on ammonoid faunas only.  
+Conodonts show an important turnover at this boundary, with the replacement of anchignathodids by neospathodids and other segminate conodonts (Orchard, 2007; Brosse et al., 2017). 
+Mu et al. (2007) reported some typically Griesbachian conodonts such as Neogondolella krystyni Orchard and Krystyn, 1998 and N. carinata (Clark, 1959) in Wenjiangsi. 
+Samples from the same beds where Bruhwiler et al. (2008) found Jieshaniceras guizhouense also contain some neogondolellids and Hindeodus parvus Kozur and Pjatakova, 1976 (N. Goudemand, personal communication, 2017). 
+In addition, Bai et al. (2017)  https://doi.org/10.1017/jpa.2018.46  Dai et al.—A new Induan ammonoid fauna from South China  19  (1–5, 8–18) Ussuridiscus cf. varaha, (1–4) YFMCUG 00100, from GJ-40; (5) YFMCUG 00123-2, from GJ-40; (8) YFMCUG 00118-3, from Figure 15. GJ-40; (9) YFMCUG 00118-2, from GJ-40; (10–12) YFMCUG 00101, from GJ-40; (13–15) YFMCUG 00102, from GJ-40; (16) YFMCUG 00109, from GJ-40; (17, 18) YFMCUG 00125, from GJ-40. (6) Ambites radiatus (Bruhwiler et al., 2008), YFMCUG 00123-1, from GJ-40. 
+Gyronitidae gen. indet. sp. indet., YFMCUG 00118-1, from GJ-40. 
+Mullericeratidae gen. indet., YFMCUG 00004, from GJ-15.  reported several species of Hindeodus in the Jieshaniceras guizhouense beds and slightly higher in the Jianzishan section. 
+Using this conodont turnover as a proxy for the Griesbachian/ Dienerian boundary, the Jieshaniceras guizhouense beds are therefore clearly late Griesbachian in age and represent the oldest occurrence of the genus Mullericeras.  
+Ambites radiatus bed.—This bed yields Ambites radiatus, Ussuridiscus cf. 
+U. varaha, ?
+Gyronitidae gen. indet. sp. indet.,  and Pseudoproptychites cf. 
+P. hiemalis. 
+This assemblage is middle Dienerian in age and can be directly correlated with the UA-zone DI-5 from Salt Range and Spiti (Ware et al., 2015). 
+It also roughly corresponds to the Ambitoides fuliginatus Zone in South Primorye (Shigeta and Zakharov, 2009), based on the occurrence of Ussuridiscus. 
+However, Ussuridiscus is a long-ranging genus, and the assignment of our specimens to Ussuridiscus varaha remains to be ﬁrmly conﬁrmed. 
+Additional is therefore needed to verify this well-preserved material  https://doi.org/10.1017/jpa.2018.46  20  Journal of Paleontology  Figure 16.  Scatter diagrams of (1) height/diameter (H/D), (2) width/diameter (W/D), and (3) umbilic/diameter (U/D) for Ussuridiscus cf. varaha (n = 33).  cosmopolitan distribution (e.g., Brayard et al., 2007a, 2009b), suggesting that they were rather generalist organisms at that time. 
+This may agree with hypotheses of Harries et al. (1996), Kauffman and Harries (1996), and Bambach (2002) suggesting that some surviving organisms were favored after mass extincthis conﬁguration tions if generalist and motile. 
+However, rapidly shifted from the Dienerian up to the Spathian toward more and more-endemic genera; this was possibly related to successive changes in ocean temperature and chemistry and highlight that Early Triassic ammonoids became highly sensitive to environmental ﬂuctuations during this time interval (e.g., Brosse et al., 2013; Romano et al., 2013; Ware et al., 2015; Jattiot et al., 2016).  
+Only three different surviving ammonoid lineages survived the PT mass extinction: Episageceratidae, Xenodiscaceae, and Otocerataceae (e.g., Brayard et al., 2007b; Brayard and Bucher, 2015). 
+Early Triassic Episageceratidae are represented by a single genus: Episageceras. 
+This taxon is rare and documented mainly from Himalaya and Russia (Diener, 1897; Zakharov, 1978). 
+Only two genera, Otoceras and Proharpoceras, derived from Otocerataceae have been documented from the Griesbachian and Smithian, respectively (e.g., Brayard et al., 2007b; Bruhwiler et al., 2012b; Jenks and Brayard, 2018). 
+It is thus commonly accepted that all other Triassic Ceratitids root in Xenodiscaceae (e.g., Brayard et al., 2006; Zakharov and Popov, 2014). 
+However, many uncertainties remain about the exact phylogeny of Early Triassic ammonoids. 
+For example, whether Proptychitidae are derived from Ophiceratidae or Otoceratidae remains an open question (Zakharov, 2002; Ware et al., 2018).  
+In total, 13 ammonoid species have been recognized in the Induan of Gujiao (Fig. 3). 
+Five species are identiﬁed in the Ophiceras medium beds, ﬁve species in the Jieshaniceras guizhouense beds, and four species in the Ambites radiatus bed. 
+The apparent absence of typical early Dienerian ammonoids may result from local environmental change or taphonomic conditions, while no distinct unconformity or facies change was observed in the ﬁeld from upper Griesbachian to middle Dienerian.  
+Figure 17. an auxiliary saddle (white arrow).  
+Partly preserved suture lines of Ussuridiscus cf. varaha showing  correlation. 
+The Proptychites candidus Zone in Arctic Canada contains several forms of Ambites, which is the index of middle Dienerian (Tozer, 1994; Ware et al., 2015), thus it can be roughly correlated with the Ambites radiatus bed at Gujiao.  
+Diversity pattern  Ammonoids almost went extinct during the Permian-Triassic mass extinction, but their rediversiﬁcation during the Early Triassic was extremely rapid, reaching in less than 1 myr (i.e., during the Smithian) diversity levels higher than during the Permian (Brayard et al., 2009a). 
+This nondelayed recovery after the PT mass extinction probably results from intrinsic ammonoid parameters related, for example, to their high evolutionary rates (e.g., Brayard et al., 2009a; Stanley, 2009; Bruhwiler et al., 2010a), dispersal abilities (e.g., Brayard et al., 2006, 2007a), and positions in trophic webs (e.g., Brayard et al., 2009a). 
+The ﬁrst ammonoids found in the Griesbachian often show a rather  https://doi.org/10.1017/jpa.2018.46  Dai et al.—A new Induan ammonoid fauna from South China  21  Figure 18.  Induan ammonoid zonation of South China and global correlation.  
+Although our data are scarcer than in the Northern Indian Margin (NIM), ammonoid diversity patterns appear relatively congruent, especially when combined with data from previous publications on Early Triassic Chinese ammonoids (e.g., Brayard and Bucher, 2008; Bruhwiler et al., 2008). 
+NIM diversity pattern shows a maximum species richness during the early Dienerian, followed by low values during the middle–late Dienerian and a marked diversiﬁcation after the Dienerian/Smithian boundary (Bruhwiler et al., 2010a, b; Ware et al., 2015). 
+The Chinese ammonoid diversity ﬂuctuations resemble those observed for the NIM. 
+However, the sampled species richness in South China is apparently lower than in the NIM, which shows 47 species for the Dienerian (Ware et al., 2015). 
+Therefore, some uncertainties on regional diversity patterns remain and potentially result from preservational and sample biases in South China. 
+The Griesbachian–Dienerian ammonoid fauna remains quite scattered and rare.  
+In addition, the Induan (Griesbachian and Dienerian) and early Smithian ammonoid diversity ﬂuctuations may be closely related to local oceanic redox conditions. 
+Recent analysis of the size distribution of pyrite framboids at Gujiao indicates that the late Griesbachian Ophiceras medium beds and Jieshaniceras guizhouense beds were probably oxic (Dai et al., 2018). 
+This hypothesis is also supported by the relatively high abundance of ichnofossils (e.g., Arenicolites). 
+Using the same indicators, the Ambites radiatus bed and overlying beds were probably dysoxic or anoxic. 
+Therefore, the observed low taxonomic richness is concomitant with the potentially more dysoxic/anoxic conditions. 
+A similar trend has been observed on the Northern Indian Margin (Hermann et al., 2011; Ware et al., 2015).  
+Similar relatively high diversity levels in ameliorated environments occur in other locations of South China during the late Griesbachian–early Dienerian (Xu, 1988; Song et al., 2012; Tian et al., 2014; Wang et al., 2017). 
+Relatively high taxonomic richness for the same time interval is also reported from other regions, such as the western United States (Hofmann et al., 2013) and Oman (Krystyn et al., 2003). 
+This supports the hypothesis of a ﬁrst diversiﬁcation phase during the late Griesbachian–early Dienerian when deleterious environmental conditions potentially decreased or ceased after the Permian– Triassic mass extinction. 
+However, the accurate spatiotemporal extent of such diversity pattern, as well as its underlying processes, remains to be determined.  
+Conclusions  Three different Induan ammonoid faunas occur at Gujiao, consisting of eight identiﬁed genera and 13 species, including one new species: Mullericeras gujiaoense n. sp.  
+Three successive ammonoid zones were identiﬁed: the late Griesbachian Ophiceras medium beds and Jieshaniceras guizhouense beds and the middle Dienerian Ambites radiatus bed.  
+Integrated with data from previous publications on Early Triassic Chinese ammonoids, our data suggest that the regional Induan taxonomic richness trend rather resembles the one identiﬁed from the extensively sampled Northern Indian Margin, indicating that this signal is probably global. 
+High and low ammonoid richness levels, respectively, in the late Griesbachian and in the middle Dienerian, can be identiﬁed at Gujiao.  https://doi.org/10.1017/jpa.2018.46  22  Journal of Paleontology  Acknowledgments  We thank J. Chen, X. Xiong, Y. Zhao, X. Sun, S. Jiang, E. Jia, J. Yan, F. Wang, X. Liu, K. Wang, and R. Bai for their help in the ﬁeld. 
+This study is supported by the National Natural Science Foundation of China (41622207, 41530104, 41661134047) and the 111 Project (B08030). 
+This is a contribution to the ANR project AFTER (ANR-13-JS06-0001-01; to A.B.) and to the IGCP-630.  
+Accessibility of supplemental data  Data available from the Dryad Digital Repository: https://doi. org/10.5061/dryad.9hh49g6.  
+References  Algeo, T.J., and Twitchett, R.J, 2010, Anomalous Early Triassic sediment ﬂuxes due to elevated weathering rates and their biological consequences: Geology, v. 38, p. 102–1026.  
+Arthaber, G., 1911, Die Trias von Albanien: Beitrage zur Palaontologie und  Geologie Osterreich-Ungarns und des Orients, v. 24, p. 169–277.  
+Bagherpour, B., Bucher, H., Baud, A., Brosse, M., Vennemann, T., Martini, R., and Guodun, K., 2017, Onset, development, and cessation of basal Early Triassic microbialites (BETM) in the Nanpanjiang pull-apart Basin, South China Block: Gondwana Research, v. 44, p. 178–204.  
+Bai, R., Dai, X., and Song, H., 2017, Conodont and ammonoid biostratigraphies around Permian-Triassic boundary from Jianzishan of Hubei, South China: Journal of Earth Science, v. 28, p. 595–613.  
+Bambach, R.K., Knoll, A.H., and Sepkoski, J.J., 2002, Anatomical and ecological constraints on Phanerozoic animal diversity in the marine realm: Proceedings of the National Academy of Sciences, v. 99, no. 10, p. 6854–6859. doi:10.1073/pnas.092150999.  
+Bando, Y., 1981, Lower Triassic ammonoids from Guryul Ravine and the Spur three kilometers north of Burus, in Nakazawa, K., and Kapoor, H.M., eds., The Upper Permian and Lower Triassic fossils of Kashmir: Palaeontologia Indica, New Series, v. 46, p. 137–171.  
+Baresel, B., Bucher, H., Brosse, M., Cordey, F., Guodun, K., and Schaltegger, U., 2017, Precise age for the Permian-Triassic boundary in South China from high-precision U-Pb geochronology and Bayesian age-depth modeling: Solid Earth v. 8, p. 361–378.  
+Bengtson, P., 1988, Open nomenclature: Palaeontology, v. 31, p. 223–227. 
+Brayard, A., and Bucher, H., 2008, Smithian (Early Triassic) ammonoid faunas from northwestern Guangxi (South China): Taxonomy and biochronology: Fossils and Strata, v. 55, p. 1–184.  
+Brayard, A., and Bucher, H., 2015, Permian-Triassic Extincitons and Rediversiﬁcations, in Klug, C., et al., eds., Ammonoid Paleobiology: From Macroevolution to Paleogeography: Topics in Geobiology, 44: New York, Springer, p. 465–473.  
+Brayard, A., Bucher, H., Escarguel, G., Fluteau, F., Bourquin, S., and Galfetti, T., 2006, The Early Triassic ammonoid recovery: Paleoclimatic signiﬁcance of diversity gradients: Palaeogeography, Palaeoclimatology, Palaeoecology, v. 239, p. 374–395.  
+Brayard, A., Escarguel, G., and Bucher, H., 2007a, The biogeography of Early Triassic ammonoid faunas: Clusters, gradients, and networks: Geobios, v. 40, p. 749–765.  
+Brayard, A., Bucher, H., Bruhwiler, T., Galfetti, T., Goudemand, N., Guodun, K., Escarguel, G., and Jenks, J.F., 2007b, Proharpoceras Chao: A new ammonoid lineage surviving the end‐Permian mass extinction: Lethaia, v. 40, p. 175–181.  
+Brayard, A., Escarguel, G., Bucher, H., Monnet, C., Bruhwiler, T., Goudemand, N., Galfetti, T., and Guex, J., 2009a, Good genes and good luck: Ammonoid diversity and the end-Permian mass extinction: Science, v. 325, p. 1118–1121.  
+Brayard, A., Escarguel, G., Bucher, H., and Bruhwiler, T., 2009b, Smithian and Spathian (Early Triassic) ammonoid assemblages from terranes: Paleoceanographic and paleogeographic implications: Journal of Asian Earth Science, v. 36, p. 420–433.  
+Brosse, M., Brayard, A., Fara, E., and Neige, P., 2013, Ammonoid recovery after the Permian–Triassic mass extinction: A re-exploration of morphological and phylogenetic diversity patterns: Journal of the Geological Society, v. 170, p. 225–236. doi: 10.1144/jgs2012-084.  
+Brosse, M., Bucher, H., Bagherpour, B., Baud, A., Frisk, A.M., Guodun, K., and Goudemand, N., 2015, Conodonts from the Early Triassic microbialite of  Guangxi (South China): Implications for the deﬁnition of the base of the Triassic System: Palaeontology, v. 58, p. 563–584.  
+Brosse, M., Bucher, H., and Goudemand, N., 2016, Quantitative biochronology of the Permian–Triassic boundary in South China based on conodont unitary associations: Earth-Science Reviews, v. 155, p. 153–171.  
+Brosse, M., Baud, A., Bhat, G.M., Bucher, B., Leu, M., Vennemann, T., and Goudemand, N., 2017, Conodont-based Griesbachian biochronology of the Guryul Ravine section (basal Triassic, Kashmir, India): Geobios, v. 50, p. 359–387.  
+Bruhwiler, T., Brayard, A., Bucher, H., and Guodun, K., 2008, Griesbachian and Dienerian (Early Triassic) ammonoid faunas from Northwestern Guangxi and Southern Guizhou (South China): Palaeontology, v. 51, p. 1151–1180.  
+Bruhwiler, T., Bucher, H., Brayard, A., and Goudemand, N., 2010a, Highresolution biochronology and diversity dynamics of the Early Triassic ammonoid recovery: The Smithian faunas from the North Indian Margin: Palaeogeography, Palaeoclimatology, Palaeoecology, v. 297, p. 491–501. 
+Bruhwiler, T., Ware, D., Bucher, H., Krystyn, L., and Goudemand, N., 2010b, New Early Triassic ammonoid faunas from the Dienerian/Smithian boundary beds at the Induan/Olenekian GSSP candidate at Mud (Spiti, Northern India): Journal of Asian Earth Sciences, v. 39, p. 724–739. 
+Bruhwiler, T., Bucher, H., Roohi, G., Yaseen, A., and Rehman, K., 2011, A new early Smithian ammonoid fauna from the Salt Range (Pakistan): Swiss Journal of Palaeontology, v. 130, p. 187–201.  
+Bruhwiler, T., Bucher, H., Ware, D., Hermann, E., Hochuli, P. A., Roohi, G., Rehman, K., and Yaseen, A., 2012a, Smithian (Early Triassic) ammonoids from the Salt Range, Pakistan: Special papers in Palaeontology, v. 88, p. 1–114.  
+Bruhwiler, T., Bucher, H., Goudemand, N., and Galfetti, T., 2012b, Smithian (Early Triassic) ammonoids faunas from exotic blocks from Oman: Taxonomy and biochronology: Palaeontographica, Abteilung A, v. 296, p. 3–107.  
+Bu, J., Wu, S., Zhang, H., Meng, Y., Zhang, F., and Zhang, L., 2006, PermianTriassic cephalopods from Dongpan Section, Guangxi, and its geological signiﬁcance: Geological Science and Technology Information, v. 25, p. 47–51.  
+Chao, K., 1959, Lower Triassic ammonoids from Western Kwangsi, China:  Palaeontologia Sinica New Series B, v. 9, p. 1–355.  
+Chen, J., Tong, J., Song, H., Luo, M., Huang, Y., and Xiang, Y., 2015, Recovery pattern of brachiopods after the Permian-Triassic crisis in South China: Palaeogeography, Palaeoclimatology, Palaeoecology, v. 433, p. 91–105. 
+Chen, Z.Q., and Benton, M.J., 2012, The timing and pattern of biotic recovery following the end-Permian mass extinction: Nature Geoscience, v. 5, p. 375–383.  
+Clark, D.L., 1959, Conodonts from the Triassic of Nevada and Utah: Journal of  Paleontology, v. 33, no. 2, p. 305–312.  
+Clarkson, M., Kasemann, S., Wood, R., Lenton, T., Daines, S., Richoz, S., Ohnemueller, F., Meixner, A., Poulton, S., and Tipper, E., 2015, Ocean acidiﬁcation and the Permo-Triassic mass extinction: Science, v. 348, p. 229–232.  
+Dai, X., Song, H., Wignall, P.B., Jia, E., Bai, R., Wang, F., Chen, J., and Tian, L., 2018, Rapid biotic rebound during the late Griesbachian indicates heterogeneous recovery patterns after the Permian-Triassic mass extinction: Geological Society of America Bulletin, doi: 10.1130/B31969.1.  de Koninck, L.G., 1863, Description of some fossils from India, discovered by Dr. A. Fleming, of Edingburgh: Quarterly Journal of the Geological Society of London, v. 19, p. 1–19.  
+Diener, C., 1895, Triadische Cephalopodenfaunen der ostsibirischen Kustenprovinz: Memoires du Comite Geologique St Petersburg, v. 14, 59 p. 
+Diener, C., 1897, The Cephalopoda of the Lower Trias: Palaeontologia Indica,  v. 15, 181 p.  
+Diener, C., 1913, Triassic faunae of Kashmir: Palaeontologia Indica, v. 5, 133 p. 
+Feng, Z., Bao, Z., and Liu, S., 1997, Lithofacies Palaeogeography of Early and Middle Triassic of South China: Beijing, Petroleum Industry Press, 222 p. 
+Foster, W.J., Danise, S., Price, G.D., and Twitchett, R.J., 2017, Subsequent biotic crises delayed marine recovery following the late Permian mass extinction event in northern Italy: PLoS One, v. 12, p. e0172321.  
+Galfetti, T., Bucher, H., Ovtcharova, M., Schaltegger, U., Brayard, A., Bruhwiler, T., Goudemand, N., Weissert, H., Hochuli, P. A., Cordey, F., and Guodun, K., 2007, Timing of the Early Triassic carbon cycle perturbations inferred from new U–Pb ages and ammonoid biochronozones: Earth and Planetary Science Letters, v. 25, p. 593–604.  
+Galfetti, T., Bucher, H., Martini, R., Hochuli, P.A., Weissert, H., CrasquinSoleau, S., Brayard, A., Goudemand, N., Bruhwiler, T., and Guodun, K., 2008, Evolution of Early Triassic outer platform paleoenvironments in the Nanpanjiang Basin (South China) and their signiﬁcance for the biotic recovery: Sedimentary Geology, v. 204, p. 36–60.  
+Griesbach, C.L., 1880, Palaeontological notes on the Lower Trias of the Himalayas: Records of the Geological Survey of India, v. 13, no. 2, p. 94–113.  https://doi.org/10.1017/jpa.2018.46  Dai et al.—A new Induan ammonoid fauna from South China  23  Hallam, A., 1991, Why was there a delayed radiation after the end-Palaeozoic  extinctions?: Historical Biology, v. 5, p. 257–262.  
+Harries, P.J., Kauffman, E.G., and Hansen, T.A., 1996, Models for biotic survival following mass extinction: Geological Society, London, Special Publications, v. 102, no. 1, p. 41–60.  
+Hermann, E., Hochuli, P.A., Mehay, S., BuYincher, H., Bruhwiler, T., Ware, D., Hautmann, M., Roohi, G., ur-Rehman, K., and Yaseen, A., 2011, Organic matter and palaeoenvironmental signals during the Early Triassic biotic recovery: The Salt Range and Surghar Range records: Sedimentary Geology, v. 234, p. 19–41.  
+Hofmann, R., Hautmann, M., Wasmer, M., and Bucher, H., 2013, Palaeoecology of the Spathian Virgin Formation (Utah, USA) and its implications for the Early Triassic recovery: Acta Palaeontologica Polonica, v. 58, no. 1, p. 149–173.  
+Hsu, T.Y., 1937, Contribution to the marine Lower Triassic fauna of Southern China: Bulletin of the Geological Society of China, v. 16, p. 303–347. 
+Huang, Y., Tong, J., Fraiser, M.L., and Chen, Z., 2014, Extinction patterns among bivalves in South China during the Permian-Triassic crisis: Palaeogeography, Palaeoclimatology, Palaeoecology, v. 399, p. 78–88.  
+Hyatt, A., 1884, Genera of fossil cephalopods: Proceedings of the Boston  Society of Natural History, v. 22, p. 253–338.  
+Jattiot, R., Bucher, H., Brayard, A., Monnet, C., Jenks, J.F., and Hautmann, M., 2016, Revision of the genus Anasibirites Mojsisovics (Ammonoidea): An iconic and cosmopolitan taxon of the late Smithian (Early Triassic) extinction: Papers in Palaeontology, v. 2, p. 155–188.  
+Jattiot, R., Bucher, H., Brayard, A., Brosse, M., Jenks, J.F., and Bylund, K.G, 2017, Smithian ammonoid faunas from northeastern Nevada: Implications for Early Triassic biostratigraphy and correlation within the western USA basin: Palaeontographica Abteilung A, v. 309, p. 1–89.  
+Jenks, J.F., and Brayard, A., 2018, New Smithian (Early Triassic) ammonoids from Crittenden Springs, Elko County, Nevada: Implications for taxonomy, biostratigraphy and biogeography cover: New Mexico Museum of Natural History and Science, Bulletin, v. 78, p. 1–175.  
+Jenks, J.F., Monnet, C., Balini, M., Brayard, A., and Meier, M., 2015, Biostratigraphy of Triassic ammonoids, in Klug, C., et al., eds., Ammonoid Paleobiology: From Macroevolution to Paleogeography: Topics in Geobiology, 44: New York, Springer, p. 329–388.  
+Jiang, H., Lai, X., Sun, Y., Wignall, P.B., Liu, J., and Yan, C., 2014, Permian-Triassic conodonts from Dajiang (Guizhou, South China) and their implication for the age of microbialite deposition in the aftermath of the end-Permian mass extinction: Journal of Earth Science, v. 25, p. 413– 430.  
+Joachimski, M.M., Lai, X., Shen, S., Jiang, H., Luo, G., Chen, B., Chen, J., and Sun, Y., 2012, Climate warming in the latest Permian and the PermianTriassic mass extinction: Geology, v. 40, p. 195–198.  
+Kaim, A., Nutzel, A., Bucher, H., Bruhwiler, T., and Goudemand, N, 2010, Early Triassic (Late Griesbachian) gastropods from South China (Shanggan, Guangxi): Swiss Journal of Geosciences, v. 103, p. 121–128. 
+Kauffman, E.G., and Harries, P.J., 1996, The importance of crisis progenitors in recovery from mass extinction: Geological Society, London, Special Publications, v. 102, no. 1, p. 15–39.  
+Kozur, H., and Pjatakova, M., 1976, Die Conodontenart Anchignathodus parvus n. sp., eine wichtige Leitform der basalen Trias: Koninklijke Nederlandse Akademie van Wetenschappen, Amsterdam: Proceedings Series B, v. 79, p. 123–128.  
+Krafft, A.V., and Diener, C., 1909, Lower Triassic Cephalopoda from Spiti,  Malla Johar, and Byans: Palaeontologia Indica, v. 15, 186 p.  
+Krystyn, L., and Orchard, M.J., 1996, Lowermost Triassic ammonoid and conodont biostratigraphy of Spiti, India: Albertiana, v. 17, p. 10–21.  
+Krystyn, L., Richoz, S., Baud, A., and Twitchett, R.J., 2003, A unique PermianTriassic boundary section from the Neotethyan Hawasina Basin, Central Oman Mountains: Palaeogeography, Palaeoclimatology, Palaeoecology, v. 191, p. 329–344.  
+Krystyn, L., Balini, M., and Nicora, A., 2004, Lower and Middle Triassic stage  and substage boundaries in Spiti: Albertiana, v. 3, p. 40–53.  
+Krystyn, L., Richoz, S., and Bhargava, O.N., 2007, The Induan-Olenekian Boundary (IOB) in Mud—An update of the candidate GSSP section M04: Albertiana, v. 36, p. 33–45.  
+Kummel, B., 1966, The Lower Triassic Formations of the Salt Range and TransIndus Ranges, West Pakistan: Bulletin of the Museum of Comparative Zoology, Harvard University, v. 134, p. 361–429.  
+Kummel, B., 1972, The Lower Triassic (Scythian) ammonoid Octoceras: Bulletin of the Museum of Comparative Zoology, v. 143, p. 365–393.  
+Lehrmann, D.J., Wei, J., and Enos, P., 1998, Controls on facies architecture of a large Triassic carbonate platform: The Great Bank of Guizhou, Nanpanjiang Basin, South China: Journal of Sedimentary Research, v. 68, p. 311–326.  
+Leonardi, P., 1935, Il trias inferiore delle Venezie: Memorie dell’Istituto Geologico della R: Universita di Padova, v. 11, p. 1–92.  
+Liang, L., Tong, J., Song, H., Song, T., Tian, L., Song, H., and Qiu, H., 2016, Lower-Middle Triassic conodont biostratigraphy of the Mingtang section, Nanpanjiang Basin, South China: Palaeogeography, Palaeoclimatology, Palaeoecology, v. 459, p. 381–393.  
+Matthews, S.C., 1973, Notes on open nomenclature and synonymy lists:  Palaeontology, v. 16, p. 713–719.  
+Mu, L., Zakharov, Y., Li, W., and Shen, S., 2007, Early Induan (Early Triassic) cephalopods from the Daye Formation at Guiding, Guizhou Province, South China: Journal of Paleontology, v. 81, p. 858–872.  
+Orchard, M.J., 2007, Conodont diversity and evolution through the latest Permian and Early Triassic upheavals: Palaeogeography, Palaeoclimatology, Palaeoecology, v. 252, p. 93–117.  
+Orchard, M.J., and Krystyn, L., 1998, Conodonts of the lowermost Triassic of Spiti, and new zonation based on Neogondolella successions: Rivista Italiana di Paleontologia e Stratigraﬁa, v. 104, no. 3, p. 341–368.  
+Pan, H.Z., Erwin, D.H., Nutzel, A., and Zhu, X.S., 2003, Jiangxispira, a new gastropod genus from the Early Triassic of China with remarks on the phylogeny of the Heterostropha at the Permian/Triassic boundary: Journal of Paleontology, v. 77, p. 44–49.  
+Patte, E., 1935, Fossils paleozoiques et Mesozoiques du sud-ouest de la Chine:  Palaeontologia Sinica B, v. 15, p. 1–50.  
+Payne, J.L., Lehrmann, D.J., Wei, J., Orchard, M.J., Schrag, D.P., and Knoll, A.H., 2004, Large perturbations of the carbon cycle during recovery from the endPermian extinction: Science, v. 305, p. 506–509.  
+Raup, D.M., 1979, Size of the Permo-Triassic bottleneck and its evolutionary  implications: Science, v. 206, p. 217–218.  
+Romano, C., Goudemand, N., Vennemann, T.W., Ware, D., SchneebeliHermann, E., Hochuli, P.A., Bruhwiler, T., Brinkmann, W., and Bucher, H., 2013, Climatic and biotic upheavals following the end-Permian mass extinction: Nature Geoscience, v. 6, p. 57–60.  
+Schindewolf, O.H., 1954, Uber die Faunenwende vom Palaozoikum zum Mesozoikum: Zeitschrift der Deutschen Geologischen Gesellschaft, v. 105, p. 153–182. 
+Scotese, C.R., 2001, Atlas of earth history: University of Texas at Arlington,  Department of Geology, PALEOMAP Project.  
+Shigeta, S., and Zakharov, Y.D., 2009, Cephalopods, in Shigeta, Y., Zakharov, Y.D., Maeda, H., and Popov, A.M., eds., The Lower Triassic System in the Abrek Bay Area, South Primorye: Russia, National Museum of Nature and Science Monographs, v. 38, p. 44–140.  
+Song, H., Wignall, P.B., Chen, Z., Tong, J., Bond, D.P., Lai, X., Zhao, X., Jiang, H., Yan, C., and Niu, Z., 2011, Recovery tempo and pattern of marine ecosystems after the end-Permian mass extinction: Geology, v. 39, p. 739–742.  
+Song, H., Wignall, P.B., Tong, J., Bond, D.P., Song, H., Lai, X., Zhang, K., Wang, H., and Chen, Y., 2012, Geochemical evidence from bio-apatite for multiple oceanic anoxic events during Permian-Triassic transition and the link with end-Permian extinction and recovery: Earth and Planetary Science Letters, v. 353, p. 12–21.  
+Song, H., Wignall, P.B., Tong, J., and Yin, H., 2013, Two pulses of extinction during the Permian-Triassic crisis: Nature Geoscience, v. 6, p. 52–56. 
+Song, H., Wignall, P., Tong, J., Song, H., Chen, J., Chu, D., Tian, L., Luo, M., Zong, K., Chen, Y., Lai, X. Zhang, K., and Wang, H., 2015a, Integrated Sr isotope variations and global environmental changes through the Late Permian to early Late Triassic: Earth and Planetary Science Letters, v. 424, p. 140–147.  
+Song, H., Yang, L., Tong, J., Chen, J., Tian, L., Song, H., and Chu, D., 2015b, Recovery dynamics of foraminifers and algae following the PermianTriassic extinction in Qingyan: South China: Geobios, v. 48, p. 71–83. 
+Song, H., Jiang, G., Poulton, S., WIgnall, P., Tong, J., Song, H., An, Z., Chu, D., Tian, L., She, Z., and Wang, C. 2017, The onset of widespread marine red beds and the evolution of ferruginous oceans: Nature Communications, v. 8, p. 399.  
+Spath, L.F., 1930, The Eo-Triassic invertebrate fauna of East Greenland: Meddelelser om Grønland, v. 83, 90 p., 12 pls.  
+Spath, L.F., 1934, Catalogue of the Fossil Cephalopoda in the British Museum (Natural History). 
+The ammonoidea of the Trias: London, The Trustees of the British Museum, 521 p., 18 pls.  
+Spath, L.F., 1935, Additions to the Eo-Triassic invertebrate fauna of East  Greenland: Meddelelser om Grønland, v. 98, 115 p., 23 pls.  
+Stanley, S.M., 2009, Evidence from ammonoids and conodonts for multiple Early Triassic mass extinctions: Proceedings of the National Academy of Sciences, v. 106, no. 36, p. 15264–15267. doi: 10.1073/pnas.0907992106. 
+Stanley, S.M., 2016, Estimates of the magnitudes of major marine mass extinctions in earth history: Proceedings of the National Academy of Sciences, v. 113, no. 42, p. 
+E6325–E6334. doi: 10.1073/pnas.1613094113. 
+Sun, Y., Joachimski, M.M., Wignall, P.B., Yan, C., Chen, Y., Jiang, H., Wang, L., and Lai, X., 2012, Lethally hot temperatures during the Early Triassic greenhouse: Science, v. 338, p. 366–370.  
+Tian, L., Tong, J., Algeo, T.J., Song, H., Song, H., Chu, D., Shi, L., and Bottjer, D.J., 2014, Reconstruction of Early Triassic ocean redox conditions based  https://doi.org/10.1017/jpa.2018.46  24  Journal of Paleontology  on framboidal pyrite from the Nanpanjiang Basin, South China: Palaeogeography, Palaeoclimatology, Palaeoecology, v. 412, p. 68–79.  
+Tien, C.C., 1933, Lower Triassic cephalopods of South China: Palaeontologia  Sinica, Series B, v. 15, 53 p.  
+Tong, J., Zakharov, Y.D., and Wu, S., 2004, Early Triassic ammonoid succession in Chaohu, Anhui Province: Acta Palaeontologica Sinica, v. 43, p. 192–204. 
+Tong, J., Zhang, S., Zuo, J., and Xiong, X., 2007, Events during Early Triassic recovery from the end-Permian extinction: Global and Planetary Change, v. 55, p. 66–80.  
+Wignall, P.B., and Twitchett, R.J., 1996, Oceanic anoxia and the end Permian  mass extinction: Science, v. 227, p. 1155–1158.  
+Xu, G., 1988, Early Triassic cephalopods from Lichuan, Western Hubei: Acta  Palaeontologica Sinica, v. 27, p. 437–456.  
+Yin, H., 1985, Bivalves near the Permian-Triassic Boundary in South China:  Journal of Paleontology, v. 5, p. 572–600.  
+Yin, H., Zhang, K., Tong, J., Yang, Z., and Wu, S., 2001, The global stratotype section and point (GSSP) of the Permian-Triassic boundary: Episodes, v. 24, p. 102–114.  
+Tozer, E.T., 1994, Canadian Triassic ammonoid faunas: Geological Survey of  Zakharov, Y.D, 1968, Lower Triassic Biostratigraphy and Ammonoids of South  Canada, v. 467, 663 p.  
+Trumpy, R., 1969, Lower Triassic ammonites from Jameson Land (East  Greenland): Meddelelser om Grønland, v. 168, p. 77–116.  
+Twitchett, R.J., Krystyn, L., Baud, A., Wheeley, J.R., and Richoz, S., 2004, Rapid marine recovery after the end-Permian mass-extinction event in the absence of marine anoxia: Geology, v. 32, p. 805–808.  von Hauer, F., 1850, Ueber die von Herrn Bergrath W. Fuchs in den Venetianer Alpen gesammelten Fossilien: Denkschriften der Akademie der Wissenschaften: Mathematisch-Naturwissenschaftliche Klasse, v. 2, p. 109–126.  
+Waagen, W.H., 1895, Salt-Range Fossils. 
+Vol. 
+2: Fossils from the Ceratite  Formation: Palaeontologia Indica, v. 13, 323 p., 40 pls.  
+Wang, F., Chen, J., Dai, X., and Song, H., 2017, A new Dienerian (Early Triassic) brachiopod fauna from South China and implications for biotic recovery after the Permian-Triassic extinction: Papers in Palaeontology, v. 3, p. 425–439.  
+Wang, Y., 1984, Earliest Triassic ammonoid faunas from Jiangsu and Zhejiang and their bearing on the deﬁnition of Permo-Triassic boundary: Acta Palaeontologica Sinica, v. 23, p. 257–269.  
+Wang, Y., and He, G., 1976, Triassic ammonoids from the Mount Jolmo Lungma region: A report of scientiﬁc expedition in the Mount JolmoLungma region (1966–1968): Palaeontology, v. 3, p. 223–502.  
+Ware, D., Jenks, J.F., Hautmann, M., and Bucher, H., 2011, Dienerian (Early Triassic) ammonoids from the Candelaria Hills (Nevada, USA) and their signiﬁcance for palaeobiogeography and palaeoceanography: Swiss Journal of Geosciences, v. 104, p. 161–181.  
+Ware, D., Bucher, H., Brayard, A., Schneebeli-Hermann, E., and Bruhwiler, T., 2015, High-resolution biochronology and diversity dynamics of the Early Triassic ammonoid recovery: The Dienerian faunas of the Northern Indian Margin: Palaeogeography, Palaeoclimatology, Palaeoecology, v. 440, p. 363–373.  
+Ware, D., Bucher, H., Bruhwiler, T., Schneebeli-Hermann, E., Hochuli, P.A., Roohi, G., Ur-Rehman, K., and Yaseen, A., 2018, Griesbachian and Dienerian (Early Triassic) ammonoids from the Salt Range: Pakistan, Fossils and Strata, doi: 10.1130/B31969.1.  
+Primorye: Moskva, Nauka, 172 p.  
+Zakharov, Y.D., 1978, Lower Triassic Ammonoids of East USSR: Moskva,  Nauka, 224 p.  
+Zakharov, Y.D, 1997, Recent view on the Induan, Olenekian and Anisian ammonoid taxa and zonal assemblages of South Primorye: Albertiana, v. 19, p. 25–35.  
+Zakharov, Y.D., 2002, Ammonoid succession of  the Setorym River (Verkhoyansk area) and the problem of the Permian–Triassic boundary in Boreal realm: Journal of China University of Geosciences, v. 13, no. 2, p. 107–123.  
+Zakharov, Y.D., and Popov, A.M., 2014, Recovery of brachiopod and ammonoid faunas following the end-Permian crisis: Additional evidence from the Lower Triassic of the Russian Far East and Kazakhstan: Journal of Earth Science, v. 25, no. 1, p. 1–44.  
+Zhang, K., Tong, J., Shi, G., Lai, X., Yu, J., He, W., Peng, Y., and Jin, Y, 2007, Early Triassic conodont-palynological biostratigraphy of the Meishan D Section in Changxing, Zhejiang Province, South China: Palaeogeography, Palaeoclimatology, Palaeoecology, v. 252, p. 4–23.  
+Zhang, Z., He, W., Zhang, Y., Yang, T., and Wu, S., 2009, Late Permian-earliest Triassic ammonoid sequences from the Rencunping section, Sangzhi County, Hunan Province, South China and their regional correlation: Geological Science and Technology Information, v. 28, p. 23–30.  
+Zhao, J., Liang, X., and Zheng, Z., 1978, Late Permian cephalopods from  South China: Palaeontologia Sinica, Series B, 194 p.  
+Zhao, L., Orchard, M.J., Tong, J., Sun, Z., Zuo, J., Zhang, S., and Yun, A., 2007, Lower Triassic conodont sequence in Chaohu, Anhui Province, China and its global correlation: Palaeogeography, Palaeoclimatology, Palaeoecology, v. 252, p. 24–38.  
+Zheng, Z., 1981, Uppermost Permian (Changhsingian) ammonoids from  Western Guizhou: Acta Palaeontologica Sinica, v. 20, p. 107–114.  
+Accepted 22 May 2018  https://doi.org/10.1017/jpa.2018.46
+
+

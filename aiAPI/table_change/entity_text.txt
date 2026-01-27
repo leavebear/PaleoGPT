@@ -1,0 +1,11 @@
+Samples O B-SAMPLE
+averaging-3 O I-SAMPLE
+Myr O I-SAMPLE
+intervals O O
+have O O
+analytically O O
+indistinguishable O O
+238U/235U O B-Time
+throughout O I-Time
+the O I-Time
+Cenozoic. O I-Time

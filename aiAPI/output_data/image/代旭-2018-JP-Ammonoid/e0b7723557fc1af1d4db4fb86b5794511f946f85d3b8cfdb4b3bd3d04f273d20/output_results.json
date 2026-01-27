@@ -1,0 +1,1129 @@
+{
+    "static": [
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 887,
+                "ymin": 1324,
+                "xmax": 1140,
+                "ymax": 1639
+            },
+            "ocr_box": {
+                "text": "22",
+                "xmin": 993,
+                "ymin": 1656,
+                "xmax": 1034,
+                "ymax": 1685
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 1160,
+                "ymin": 1322,
+                "xmax": 1222,
+                "ymax": 1637
+            },
+            "ocr_box": {
+                "text": "23",
+                "xmin": 1169,
+                "ymin": 1656,
+                "xmax": 1211,
+                "ymax": 1685
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 1241,
+                "ymin": 1318,
+                "xmax": 1303,
+                "ymax": 1637
+            },
+            "ocr_box": {
+                "text": "23",
+                "xmin": 1169,
+                "ymin": 1656,
+                "xmax": 1211,
+                "ymax": 1685
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 738,
+                "ymin": 1289,
+                "xmax": 830,
+                "ymax": 1668
+            },
+            "ocr_box": {
+                "text": "21",
+                "xmin": 770,
+                "ymin": 1682,
+                "xmax": 810,
+                "ymax": 1711
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 306,
+                "ymin": 1289,
+                "xmax": 597,
+                "ymax": 1666
+            },
+            "ocr_box": {
+                "text": "19",
+                "xmin": 435,
+                "ymin": 1682,
+                "xmax": 475,
+                "ymax": 1711
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 7,
+                "ymin": 1289,
+                "xmax": 297,
+                "ymax": 1668
+            },
+            "ocr_box": {
+                "text": "18",
+                "xmin": 135,
+                "ymin": 1682,
+                "xmax": 175,
+                "ymax": 1711
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 614,
+                "ymin": 1287,
+                "xmax": 709,
+                "ymax": 1668
+            },
+            "ocr_box": {
+                "text": "20",
+                "xmin": 653,
+                "ymin": 1682,
+                "xmax": 696,
+                "ymax": 1711
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 1211,
+                "ymin": 889,
+                "xmax": 1278,
+                "ymax": 1205
+            },
+            "ocr_box": {
+                "text": "17",
+                "xmin": 1226,
+                "ymin": 1220,
+                "xmax": 1264,
+                "ymax": 1249
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 787,
+                "ymin": 889,
+                "xmax": 1045,
+                "ymax": 1207
+            },
+            "ocr_box": {
+                "text": "15",
+                "xmin": 888,
+                "ymin": 1220,
+                "xmax": 929,
+                "ymax": 1249
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 1075,
+                "ymin": 887,
+                "xmax": 1140,
+                "ymax": 1205
+            },
+            "ocr_box": {
+                "text": "16",
+                "xmin": 1091,
+                "ymin": 1220,
+                "xmax": 1131,
+                "ymax": 1249
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 381,
+                "ymin": 853,
+                "xmax": 473,
+                "ymax": 1207
+            },
+            "ocr_box": {
+                "text": "13",
+                "xmin": 404,
+                "ymin": 1222,
+                "xmax": 444,
+                "ymax": 1251
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 510,
+                "ymin": 851,
+                "xmax": 600,
+                "ymax": 1205
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 579,
+                "ymin": 825,
+                "xmax": 596,
+                "ymax": 847
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 41,
+                "ymin": 851,
+                "xmax": 325,
+                "ymax": 1207
+            },
+            "ocr_box": {
+                "text": "12",
+                "xmin": 148,
+                "ymin": 1222,
+                "xmax": 188,
+                "ymax": 1252
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 970,
+                "ymin": 523,
+                "xmax": 1119,
+                "ymax": 807
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 1025,
+                "ymin": 822,
+                "xmax": 1065,
+                "ymax": 851
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 721,
+                "ymin": 523,
+                "xmax": 942,
+                "ymax": 807
+            },
+            "ocr_box": {
+                "text": "9",
+                "xmin": 815,
+                "ymin": 825,
+                "xmax": 833,
+                "ymax": 847
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 475,
+                "ymin": 523,
+                "xmax": 691,
+                "ymax": 807
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 579,
+                "ymin": 825,
+                "xmax": 596,
+                "ymax": 847
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 1149,
+                "ymin": 522,
+                "xmax": 1295,
+                "ymax": 807
+            },
+            "ocr_box": {
+                "text": "11",
+                "xmin": 1211,
+                "ymin": 822,
+                "xmax": 1247,
+                "ymax": 852
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 34,
+                "ymin": 510,
+                "xmax": 232,
+                "ymax": 774
+            },
+            "ocr_box": {
+                "text": "6",
+                "xmin": 114,
+                "ymin": 790,
+                "xmax": 134,
+                "ymax": 813
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 260,
+                "ymin": 508,
+                "xmax": 404,
+                "ymax": 776
+            },
+            "ocr_box": {
+                "text": "7",
+                "xmin": 323,
+                "ymin": 789,
+                "xmax": 344,
+                "ymax": 814
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 338,
+                "ymin": 24,
+                "xmax": 483,
+                "ymax": 426
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 403,
+                "ymin": 442,
+                "xmax": 424,
+                "ymax": 469
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 0,
+                "ymin": 24,
+                "xmax": 310,
+                "ymax": 426
+            },
+            "ocr_box": {
+                "text": "1",
+                "xmin": 135,
+                "ymin": 443,
+                "xmax": 151,
+                "ymax": 466
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 529,
+                "ymin": 22,
+                "xmax": 683,
+                "ymax": 426
+            },
+            "ocr_box": {
+                "text": "3",
+                "xmin": 598,
+                "ymin": 444,
+                "xmax": 615,
+                "ymax": 466
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 772,
+                "ymin": 16,
+                "xmax": 1078,
+                "ymax": 449
+            },
+            "ocr_box": {
+                "text": "4",
+                "xmin": 885,
+                "ymin": 469,
+                "xmax": 898,
+                "ymax": 482
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 1099,
+                "ymin": 14,
+                "xmax": 1277,
+                "ymax": 451
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 1171,
+                "ymin": 464,
+                "xmax": 1191,
+                "ymax": 487
+            }
+        }
+    ],
+    "dynamic": [
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 887,
+                "ymin": 1324,
+                "xmax": 1140,
+                "ymax": 1639
+            },
+            "ocr_box": {
+                "text": "22",
+                "xmin": 993,
+                "ymin": 1656,
+                "xmax": 1034,
+                "ymax": 1685
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 1160,
+                "ymin": 1322,
+                "xmax": 1222,
+                "ymax": 1637
+            },
+            "ocr_box": {
+                "text": "23",
+                "xmin": 1169,
+                "ymin": 1656,
+                "xmax": 1211,
+                "ymax": 1685
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 1241,
+                "ymin": 1318,
+                "xmax": 1303,
+                "ymax": 1637
+            },
+            "ocr_box": {
+                "text": "17",
+                "xmin": 1226,
+                "ymin": 1220,
+                "xmax": 1264,
+                "ymax": 1249
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 738,
+                "ymin": 1289,
+                "xmax": 830,
+                "ymax": 1668
+            },
+            "ocr_box": {
+                "text": "21",
+                "xmin": 770,
+                "ymin": 1682,
+                "xmax": 810,
+                "ymax": 1711
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 306,
+                "ymin": 1289,
+                "xmax": 597,
+                "ymax": 1666
+            },
+            "ocr_box": {
+                "text": "19",
+                "xmin": 435,
+                "ymin": 1682,
+                "xmax": 475,
+                "ymax": 1711
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 7,
+                "ymin": 1289,
+                "xmax": 297,
+                "ymax": 1668
+            },
+            "ocr_box": {
+                "text": "18",
+                "xmin": 135,
+                "ymin": 1682,
+                "xmax": 175,
+                "ymax": 1711
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 614,
+                "ymin": 1287,
+                "xmax": 709,
+                "ymax": 1668
+            },
+            "ocr_box": {
+                "text": "20",
+                "xmin": 653,
+                "ymin": 1682,
+                "xmax": 696,
+                "ymax": 1711
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 1211,
+                "ymin": 889,
+                "xmax": 1278,
+                "ymax": 1205
+            },
+            "ocr_box": {
+                "text": "11",
+                "xmin": 1211,
+                "ymin": 822,
+                "xmax": 1247,
+                "ymax": 852
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 787,
+                "ymin": 889,
+                "xmax": 1045,
+                "ymax": 1207
+            },
+            "ocr_box": {
+                "text": "15",
+                "xmin": 888,
+                "ymin": 1220,
+                "xmax": 929,
+                "ymax": 1249
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 1075,
+                "ymin": 887,
+                "xmax": 1140,
+                "ymax": 1205
+            },
+            "ocr_box": {
+                "text": "16",
+                "xmin": 1091,
+                "ymin": 1220,
+                "xmax": 1131,
+                "ymax": 1249
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 381,
+                "ymin": 853,
+                "xmax": 473,
+                "ymax": 1207
+            },
+            "ocr_box": {
+                "text": "13",
+                "xmin": 404,
+                "ymin": 1222,
+                "xmax": 444,
+                "ymax": 1251
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 510,
+                "ymin": 851,
+                "xmax": 600,
+                "ymax": 1205
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 579,
+                "ymin": 825,
+                "xmax": 596,
+                "ymax": 847
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 41,
+                "ymin": 851,
+                "xmax": 325,
+                "ymax": 1207
+            },
+            "ocr_box": {
+                "text": "12",
+                "xmin": 148,
+                "ymin": 1222,
+                "xmax": 188,
+                "ymax": 1252
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 970,
+                "ymin": 523,
+                "xmax": 1119,
+                "ymax": 807
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 1025,
+                "ymin": 822,
+                "xmax": 1065,
+                "ymax": 851
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 721,
+                "ymin": 523,
+                "xmax": 942,
+                "ymax": 807
+            },
+            "ocr_box": {
+                "text": "9",
+                "xmin": 815,
+                "ymin": 825,
+                "xmax": 833,
+                "ymax": 847
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 475,
+                "ymin": 523,
+                "xmax": 691,
+                "ymax": 807
+            },
+            "ocr_box": {
+                "text": "3",
+                "xmin": 598,
+                "ymin": 444,
+                "xmax": 615,
+                "ymax": 466
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 1149,
+                "ymin": 522,
+                "xmax": 1295,
+                "ymax": 807
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 1171,
+                "ymin": 464,
+                "xmax": 1191,
+                "ymax": 487
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 34,
+                "ymin": 510,
+                "xmax": 232,
+                "ymax": 774
+            },
+            "ocr_box": {
+                "text": "6",
+                "xmin": 114,
+                "ymin": 790,
+                "xmax": 134,
+                "ymax": 813
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 260,
+                "ymin": 508,
+                "xmax": 404,
+                "ymax": 776
+            },
+            "ocr_box": {
+                "text": "7",
+                "xmin": 323,
+                "ymin": 789,
+                "xmax": 344,
+                "ymax": 814
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 338,
+                "ymin": 24,
+                "xmax": 483,
+                "ymax": 426
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 403,
+                "ymin": 442,
+                "xmax": 424,
+                "ymax": 469
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 0,
+                "ymin": 24,
+                "xmax": 310,
+                "ymax": 426
+            },
+            "ocr_box": {
+                "text": "1",
+                "xmin": 135,
+                "ymin": 443,
+                "xmax": 151,
+                "ymax": 466
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 529,
+                "ymin": 22,
+                "xmax": 683,
+                "ymax": 426
+            },
+            "ocr_box": {
+                "text": "4",
+                "xmin": 885,
+                "ymin": 469,
+                "xmax": 898,
+                "ymax": 482
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 772,
+                "ymin": 16,
+                "xmax": 1078,
+                "ymax": 449
+            },
+            "ocr_box": {
+                "text": "14",
+                "xmin": 538,
+                "ymin": 1223,
+                "xmax": 577,
+                "ymax": 1251
+            }
+        }
+    ],
+    "km": [
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 887,
+                "ymin": 1324,
+                "xmax": 1140,
+                "ymax": 1639
+            },
+            "ocr_box": {
+                "text": "22",
+                "xmin": 993,
+                "ymin": 1656,
+                "xmax": 1034,
+                "ymax": 1685
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 1160,
+                "ymin": 1322,
+                "xmax": 1222,
+                "ymax": 1637
+            },
+            "ocr_box": {
+                "text": "23",
+                "xmin": 1169,
+                "ymin": 1656,
+                "xmax": 1211,
+                "ymax": 1685
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 738,
+                "ymin": 1289,
+                "xmax": 830,
+                "ymax": 1668
+            },
+            "ocr_box": {
+                "text": "21",
+                "xmin": 770,
+                "ymin": 1682,
+                "xmax": 810,
+                "ymax": 1711
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 306,
+                "ymin": 1289,
+                "xmax": 597,
+                "ymax": 1666
+            },
+            "ocr_box": {
+                "text": "19",
+                "xmin": 435,
+                "ymin": 1682,
+                "xmax": 475,
+                "ymax": 1711
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 7,
+                "ymin": 1289,
+                "xmax": 297,
+                "ymax": 1668
+            },
+            "ocr_box": {
+                "text": "18",
+                "xmin": 135,
+                "ymin": 1682,
+                "xmax": 175,
+                "ymax": 1711
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 614,
+                "ymin": 1287,
+                "xmax": 709,
+                "ymax": 1668
+            },
+            "ocr_box": {
+                "text": "20",
+                "xmin": 653,
+                "ymin": 1682,
+                "xmax": 696,
+                "ymax": 1711
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 1211,
+                "ymin": 889,
+                "xmax": 1278,
+                "ymax": 1205
+            },
+            "ocr_box": {
+                "text": "17",
+                "xmin": 1226,
+                "ymin": 1220,
+                "xmax": 1264,
+                "ymax": 1249
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 787,
+                "ymin": 889,
+                "xmax": 1045,
+                "ymax": 1207
+            },
+            "ocr_box": {
+                "text": "15",
+                "xmin": 888,
+                "ymin": 1220,
+                "xmax": 929,
+                "ymax": 1249
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 1075,
+                "ymin": 887,
+                "xmax": 1140,
+                "ymax": 1205
+            },
+            "ocr_box": {
+                "text": "16",
+                "xmin": 1091,
+                "ymin": 1220,
+                "xmax": 1131,
+                "ymax": 1249
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 381,
+                "ymin": 853,
+                "xmax": 473,
+                "ymax": 1207
+            },
+            "ocr_box": {
+                "text": "13",
+                "xmin": 404,
+                "ymin": 1222,
+                "xmax": 444,
+                "ymax": 1251
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 510,
+                "ymin": 851,
+                "xmax": 600,
+                "ymax": 1205
+            },
+            "ocr_box": {
+                "text": "14",
+                "xmin": 538,
+                "ymin": 1223,
+                "xmax": 577,
+                "ymax": 1251
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 41,
+                "ymin": 851,
+                "xmax": 325,
+                "ymax": 1207
+            },
+            "ocr_box": {
+                "text": "12",
+                "xmin": 148,
+                "ymin": 1222,
+                "xmax": 188,
+                "ymax": 1252
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 970,
+                "ymin": 523,
+                "xmax": 1119,
+                "ymax": 807
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 1025,
+                "ymin": 822,
+                "xmax": 1065,
+                "ymax": 851
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 721,
+                "ymin": 523,
+                "xmax": 942,
+                "ymax": 807
+            },
+            "ocr_box": {
+                "text": "9",
+                "xmin": 815,
+                "ymin": 825,
+                "xmax": 833,
+                "ymax": 847
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 475,
+                "ymin": 523,
+                "xmax": 691,
+                "ymax": 807
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 579,
+                "ymin": 825,
+                "xmax": 596,
+                "ymax": 847
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 1149,
+                "ymin": 522,
+                "xmax": 1295,
+                "ymax": 807
+            },
+            "ocr_box": {
+                "text": "11",
+                "xmin": 1211,
+                "ymin": 822,
+                "xmax": 1247,
+                "ymax": 852
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 34,
+                "ymin": 510,
+                "xmax": 232,
+                "ymax": 774
+            },
+            "ocr_box": {
+                "text": "6",
+                "xmin": 114,
+                "ymin": 790,
+                "xmax": 134,
+                "ymax": 813
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 260,
+                "ymin": 508,
+                "xmax": 404,
+                "ymax": 776
+            },
+            "ocr_box": {
+                "text": "7",
+                "xmin": 323,
+                "ymin": 789,
+                "xmax": 344,
+                "ymax": 814
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 338,
+                "ymin": 24,
+                "xmax": 483,
+                "ymax": 426
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 403,
+                "ymin": 442,
+                "xmax": 424,
+                "ymax": 469
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 0,
+                "ymin": 24,
+                "xmax": 310,
+                "ymax": 426
+            },
+            "ocr_box": {
+                "text": "1",
+                "xmin": 135,
+                "ymin": 443,
+                "xmax": 151,
+                "ymax": 466
+            }
+        },
+        {
+            "name": "Pseudoproptychites cf. hiemalis",
+            "unet_box": {
+                "xmin": 529,
+                "ymin": 22,
+                "xmax": 683,
+                "ymax": 426
+            },
+            "ocr_box": {
+                "text": "3",
+                "xmin": 598,
+                "ymin": 444,
+                "xmax": 615,
+                "ymax": 466
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 772,
+                "ymin": 16,
+                "xmax": 1078,
+                "ymax": 449
+            },
+            "ocr_box": {
+                "text": "4",
+                "xmin": 885,
+                "ymin": 469,
+                "xmax": 898,
+                "ymax": 482
+            }
+        },
+        {
+            "name": "Mullericeras gujiaoense n. sp.",
+            "unet_box": {
+                "xmin": 1099,
+                "ymin": 14,
+                "xmax": 1277,
+                "ymax": 451
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 1171,
+                "ymin": 464,
+                "xmax": 1191,
+                "ymax": 487
+            }
+        }
+    ],
+    "cap": "Figure 13. (1-11) Pseudoproptychites cf. hiemalis, (1-3) YFMCUG 00090, from GJ-40; (4, 5) YFMCUG 00091, from GJ-40; (6, 7) YFMCUG 00092, from GJ-40; (8-11) YFMCUG 00093, from GJ-40; (12-27) Mullericeras gujiaoense n. sp., (12-14) holotype, YFMCUG 00018, from GJ-33; (15-17) YFMCUG 00021, from GJ-33; (18-21) YFMCUG 00024, from GJ-33; (22-24) YFMCUG 00026, from GJ-33; (25) YFMCUG 00017, from GJ-33, suture line at H=25.3mm ; (26) YFMCUG 00019, from GJ-33, suture line at H=24.8mm ; (27) YFMCUG 00016, from GJ-33, suture line at H=24.4mm"
+}

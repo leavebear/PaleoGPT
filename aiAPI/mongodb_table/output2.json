@@ -1,0 +1,489 @@
+{
+    "status_code": 0,
+    "status_msg": "Success",
+    "data": {
+        "pdfDownloadUrl": "https://paleodb-1306565154.cos.ap-shanghai.myqcloud.com/123/123.pdf",
+        "tableList": [
+            {
+                "tableImg": "https://paleodb-1306565154.cos.ap-shanghai.myqcloud.com/123/123_101.jpg",
+                "table": [
+                    [
+                        "characteristic",
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    [
+                        "Isolation source",
+                        "Oil- contaminated",
+                        "(Waste water)",
+                        "(Fresh water)"
+                    ],
+                    [
+                        "Growth at 45°C",
+                        "soil +",
+                        "+",
+                        "-"
+                    ],
+                    [
+                        "pH range",
+                        "5.59.0",
+                        "5.08.0",
+                        "5.510.0"
+                    ],
+                    [
+                        "Highest salt tolerance (%, w/v)",
+                        "1",
+                        "4",
+                        "6"
+                    ],
+                    [
+                        "Hydrolysis of",
+                        "null",
+                        "null",
+                        "null"
+                    ],
+                    [
+                        "Casein",
+                        "-",
+                        "-",
+                        "+"
+                    ]
+                ]
+            },
+            {
+                "tableImg": "https://paleodb-1306565154.cos.ap-shanghai.myqcloud.com/123/123_101.jpg",
+                "table": [
+                    [
+                        "null",
+                        "Flux (10mol/yr)",
+                        ": (%)"
+                    ],
+                    [
+                        "[Pelagic cla]",
+                        "null",
+                        "E0.04"
+                    ],
+                    [
+                        "Carbonates",
+                        "null",
+                        "E0.2"
+                    ],
+                    [
+                        "Metalic sed",
+                        "null",
+                        "E0.2"
+                    ],
+                    [
+                        "High T oceanic crustal alteratidn",
+                        "null",
+                        "9"
+                    ],
+                    [
+                        "LowToceanic crustal alteratio",
+                        "null",
+                        "F0.21"
+                    ],
+                    [
+                        "Coastal zoneretention",
+                        "null",
+                        "-0.24"
+                    ],
+                    [
+                        "Weighted averade",
+                        "null",
+                        "E0.005"
+                    ]
+                ]
+            },
+            {
+                "tableImg": "https://paleodb-1306565154.cos.ap-shanghai.myqcloud.com/123/123_101.jpg",
+                "table": [
+                    [
+                        "null",
+                        "null",
+                        "null",
+                        "null",
+                        "Cattuag",
+                        "pngituag",
+                        "Dee",
+                        "water",
+                        "Rer"
+                    ],
+                    [
+                        "null",
+                        "null",
+                        "CuMy(ug",
+                        "[U] g)",
+                        "null",
+                        "null",
+                        "null",
+                        "null",
+                        "null"
+                    ],
+                    [
+                        "四",
+                        "[-",
+                        "日",
+                        "138",
+                        "38.9 0 W Pacific",
+                        "null",
+                        "null",
+                        "1870-109",
+                        "(4)"
+                    ],
+                    [
+                        "null",
+                        "[60-132]",
+                        "四",
+                        "E",
+                        "null",
+                        "null",
+                        "null",
+                        "null",
+                        "null"
+                    ],
+                    [
+                        "null",
+                        "[2-168]",
+                        "null",
+                        "9",
+                        "null",
+                        "null",
+                        "null",
+                        "null",
+                        "null"
+                    ],
+                    [
+                        "[CD29-2]",
+                        "[A",
+                        "null",
+                        "9",
+                        "[6°42168-14 wPacii",
+                        "null",
+                        "null",
+                        "[2390-1979",
+                        "E"
+                    ],
+                    [
+                        "LV539",
+                        "[0-29.3]",
+                        "24",
+                        "E",
+                        "5*36.4N p847.1 w.Atlant",
+                        "null",
+                        "null",
+                        "2665J",
+                        "区"
+                    ],
+                    [
+                        "null",
+                        "3-903",
+                        "I",
+                        "H",
+                        "null",
+                        "null",
+                        "null",
+                        "null",
+                        "null"
+                    ],
+                    [
+                        "ANTPT09D-E]",
+                        "[0-12]",
+                        "0",
+                        "8",
+                        "279 58.4S 60° 47.8* Endian 0c",
+                        "null",
+                        "null",
+                        "689-517",
+                        "[图"
+                    ],
+                    [
+                        "null",
+                        "3",
+                        "I",
+                        "[6.9",
+                        "97° 29 E I Indian 0g]",
+                        "null",
+                        "null",
+                        "null",
+                        "null"
+                    ],
+                    [
+                        "null",
+                        "null",
+                        "null",
+                        "null",
+                        "null",
+                        "null",
+                        "null",
+                        "null",
+                        "null"
+                    ],
+                    [
+                        "DODO3D-3",
+                        "A",
+                        "[",
+                        "(6",
+                        "5° 23",
+                        "null",
+                        "null",
+                        "419",
+                        "国"
+                    ]
+                ]
+            },
+            {
+                "tableImg": "https://paleodb-1306565154.cos.ap-shanghai.myqcloud.com/123/123_101.jpg",
+                "table": [
+                    [
+                        "Parameter",
+                        "Description",
+                        "Value",
+                        "Unit",
+                        "Refs."
+                    ],
+                    [
+                        "E",
+                        "Riverine U fluxes to oceans",
+                        "4.2×10",
+                        "mol/yr",
+                        "(2), (3), (10), (11)"
+                    ],
+                    [
+                        "For",
+                        "Removal flux to oxic sinks",
+                        "2.23×107",
+                        "mol/yr",
+                        "(2), (3), (10), (11)"
+                    ],
+                    [
+                        "Faubor",
+                        "Removal flux to suboxic sinks",
+                        "1.53×107",
+                        "mol/yr",
+                        "(2), (3), (10), (11)"
+                    ],
+                    [
+                        "null",
+                        "Removal flux to anoxic sinks",
+                        "4.45×106",
+                        "mol/yr",
+                        "(2), (3), (10), (11)"
+                    ],
+                    [
+                        "kor",
+                        "Effective burial rate constant for oxic sink",
+                        "0.048",
+                        "1/(dm*yr)",
+                        "*"
+                    ],
+                    [
+                        "kabor",
+                        "Effective burial rate constant for suboxic sink",
+                        "0.469",
+                        "1/(dm*yr)",
+                        "*"
+                    ],
+                    [
+                        "kanor",
+                        "Effective burial rate constant for anoxic 2.534 sink",
+                        "null",
+                        "1/(dm*yr)",
+                        "*"
+                    ],
+                    [
+                        "0,",
+                        "8238U of river waters",
+                        "-0.3",
+                        "%",
+                        "(6) (11)"
+                    ],
+                    [
+                        "[U] modem",
+                        "Modern seawater U concentration",
+                        "1.39×10-8",
+                        "mol/dm3",
+                        "(12),(9)"
+                    ],
+                    [
+                        "Omoden",
+                        "Modern seawater 8238U",
+                        "-0.4",
+                        "%",
+                        "(9), (11)"
+                    ],
+                    [
+                        "4or",
+                        "Fractionation factor between oxic sink and seawater",
+                        "0.005",
+                        "%",
+                        "see text and table 4"
+                    ],
+                    [
+                        "Aubor",
+                        "Fractionation factor between suboxic sink and seawater",
+                        "0.1",
+                        "%",
+                        "(9)"
+                    ],
+                    [
+                        "Aanor",
+                        "Fractionation factor between anoxic",
+                        "0.6",
+                        "%",
+                        "reviewed in (11)"
+                    ],
+                    [
+                        "V",
+                        "sink and seawater Seawater volume",
+                        "1.37×1021",
+                        "dm",
+                        "(4)"
+                    ],
+                    [
+                        "A",
+                        "Total seafloor area",
+                        "3.61×1016",
+                        "dm?",
+                        "(2)"
+                    ],
+                    [
+                        "null",
+                        "Modern anoxic seafloor area",
+                        "0.35",
+                        "%",
+                        "(8)"
+                    ],
+                    [
+                        "null",
+                        "Modern suboxic seafloor area",
+                        "6.00",
+                        "%",
+                        "(3)"
+                    ],
+                    [
+                        "null",
+                        "Modern oxic seafloor area",
+                        "93.65",
+                        "%",
+                        "Balance"
+                    ]
+                ]
+            },
+            {
+                "tableImg": "https://paleodb-1306565154.cos.ap-shanghai.myqcloud.com/123/123_101.jpg",
+                "table": [
+                    [
+                        "Name",
+                        "Depth (mmbs)",
+                        "Age (Myr)",
+                        "8238U (%)",
+                        "Error° (%o)",
+                        "(234u/238u))",
+                        "U (μg/g)"
+                    ],
+                    [
+                        "DODO232D-B",
+                        "2.5",
+                        "0.6",
+                        "-0.60",
+                        "0.07",
+                        "0.951",
+                        "8.0"
+                    ],
+                    [
+                        "null",
+                        "7.5",
+                        "1.7",
+                        "-0.52",
+                        "0.11",
+                        "0.939",
+                        "7.0"
+                    ],
+                    [
+                        "null",
+                        "7.5-dup",
+                        "null",
+                        "-0.59",
+                        "0.07",
+                        "0.953",
+                        "7.0"
+                    ],
+                    [
+                        "null",
+                        "14.5",
+                        "3.4",
+                        "-0.60",
+                        "0.07",
+                        "0.959",
+                        "7.5"
+                    ],
+                    [
+                        "null",
+                        "21.5",
+                        "5.0",
+                        "-0.66",
+                        "0.07",
+                        "0.973",
+                        "7.0"
+                    ],
+                    [
+                        "null",
+                        "28.5",
+                        "6.6",
+                        "-0.67",
+                        "0.07",
+                        "0.975",
+                        "6.6"
+                    ],
+                    [
+                        "null",
+                        "36.5",
+                        "8.5",
+                        "-0.71",
+                        "0.07",
+                        "0.986",
+                        "6.1"
+                    ],
+                    [
+                        "null",
+                        "45",
+                        "10.5",
+                        "-0.71",
+                        "0.07",
+                        "0.996",
+                        "6.2"
+                    ],
+                    [
+                        "null",
+                        "53.5",
+                        "12.4",
+                        "-0.71",
+                        "0.07",
+                        "1.029",
+                        "5.4"
+                    ],
+                    [
+                        "null",
+                        "61.5",
+                        "14.3",
+                        "-0.67",
+                        "0.07",
+                        "1.084",
+                        "5.8"
+                    ],
+                    [
+                        "null",
+                        "68.5",
+                        "15.9",
+                        "-0.57",
+                        "0.07",
+                        "0.951",
+                        "5.2"
+                    ]
+                ]
+            }
+        ]
+    }
+}

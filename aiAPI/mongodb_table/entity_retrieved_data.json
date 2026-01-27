@@ -1,0 +1,70 @@
+{
+    "projcet_id": 1,
+    "fileList": [
+        {
+            "id": 1,
+            "name": "DX-2018-JP-Ammonoid",
+            "pdf_id": 1,
+            "pdf_url": "",
+            "uploader": "User1",
+            "updateTime": "2024-01-01",
+            "imageStatus": "Unready",
+            "tableStatus": "Unready",
+            "entityStatus": "Unready",
+            "correction": "未修正",
+            "approval": "未审批"
+        },
+        {
+            "id": 2,
+            "name": "The dentition",
+            "pdf_id": 2,
+            "pdf_url": "",
+            "uploader": "User2",
+            "updateTime": "2024-09-06",
+            "imageStatus": "Completed",
+            "tableStatus": "Completed",
+            "entityStatus": "Completed",
+            "correction": "已完成修正",
+            "approval": "已完成审批"
+        },
+        {
+            "id": 3,
+            "name": "Waterbird foraging traces from the early Eocene Green River Formation, Utah",
+            "pdf_id": 3,
+            "pdf_url": "",
+            "uploader": "User3",
+            "updateTime": "2024-12-24",
+            "imageStatus": "Completed",
+            "tableStatus": "Completed",
+            "entityStatus": "Completed",
+            "correction": "已完成修正",
+            "approval": "已完成审批"
+        },
+        {
+            "id": 4,
+            "name": "A remarkable spiny arachnid from the Pennsylvanian Mazon Creek Lagerstätte, Illinois",
+            "pdf_id": 4,
+            "pdf_url": "",
+            "uploader": "User4",
+            "updateTime": "2024-11-01",
+            "imageStatus": "Completed",
+            "tableStatus": "Completed",
+            "entityStatus": "Completed",
+            "correction": "已完成修正",
+            "approval": "已完成审批"
+        },
+        {
+            "id": 5,
+            "name": "A GraphRAG-Bench.pdf",
+            "pdf_id": 5,
+            "pdf_url": "https://paleodb-1306565154.cos.ap-shanghai.myqcloud.com/A GraphRAG-Bench/A GraphRAG-Bench.pdf",
+            "uploader": "User1",
+            "updateTime": "2025-07-21",
+            "imageStatus": "Unready",
+            "tableStatus": "Unready",
+            "entityStatus": "Unready",
+            "correction": "未修正",
+            "approval": "未审批"
+        }
+    ]
+}

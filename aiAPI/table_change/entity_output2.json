@@ -1,0 +1,71 @@
+{
+    "textList": [
+        {
+            "text": "Samples averaging-3 Myr intervals have analytically indistinguishable 238U/235U throughout the Cenozoic.",
+            "text_tag": [
+                {
+                    "tag_id": "tag_id0",
+                    "start": 0,
+                    "end": 23,
+                    "mark_content": "Samples averaging-3 Myr"
+                },
+                {
+                    "tag_id": "tag_id1",
+                    "start": 70,
+                    "end": 104,
+                    "mark_content": "238U/235U throughout the Cenozoic."
+                }
+            ]
+        },
+        {
+            "text": "Keywords: Uranium isotopes, redox proxies, Cenozoic marine redox introduction Models predict that warmer surface temperatures will reduce O2 solubility and potentially increase thermal stratiﬁcation in Earth’s oceans (Sarmiento and others, 1998; Shaffer and others, 2009), potentially leading to ocean “deoxygenation” on a broad scale (for examples, Keeling and others, 2010).",
+            "text_tag": [
+                {
+                    "tag_id": "tag_id2",
+                    "start": 43,
+                    "end": 51,
+                    "mark_content": "Cenozoic"
+                },
+                {
+                    "tag_id": "tag_id3",
+                    "start": 202,
+                    "end": 209,
+                    "mark_content": "Earth’s"
+                }
+            ]
+        },
+        {
+            "text": "Here we apply a uranium isotope approach (238U/ 235U, expressed as (cid:3)238U relative to the standard CRM112a) to hydrogenous ferromanganese (Fe-Mn) crusts in order to reconstruct ocean redox state throughout the Cenozoic [65 million years (Myr) ago to the present], a period during which tectonism, weathering, and surface temperatures ﬂuctuated signiﬁcantly (Hansen and others, 2008).",
+            "text_tag": [
+                {
+                    "tag_id": "tag_id4",
+                    "start": 215,
+                    "end": 223,
+                    "mark_content": "Cenozoic"
+                }
+            ]
+        }
+    ],
+    "ttag": [
+        {
+            "tag_id": "tag_id0",
+            "tag_name": "SAMPLE"
+        },
+        {
+            "tag_id": "tag_id1",
+            "tag_name": "Time"
+        },
+        {
+            "tag_id": "tag_id2",
+            "tag_name": "Time"
+        },
+        {
+            "tag_id": "tag_id3",
+            "tag_name": "LOC"
+        },
+        {
+            "tag_id": "tag_id4",
+            "tag_name": "Time"
+        }
+    ]
+}

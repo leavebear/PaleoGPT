@@ -1,0 +1,46 @@
+{
+    "table": [
+        [
+            "characteristic",
+            "1",
+            "2",
+            "3"
+        ],
+        [
+            "Isolation source",
+            "Oil- contaminated",
+            "(Waste water)",
+            "(Fresh water)"
+        ],
+        [
+            "Growth at 45°C",
+            "soil +",
+            "+",
+            "-"
+        ],
+        [
+            "pH range",
+            "5.59.0",
+            "5.08.0",
+            "5.510.0"
+        ],
+        [
+            "Highest salt tolerance (%, w/v)",
+            "1",
+            "4",
+            "6"
+        ],
+        [
+            "Hydrolysis of",
+            "null",
+            "null",
+            "null"
+        ],
+        [
+            "Casein",
+            "-",
+            "-",
+            "+"
+        ]
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "table": [
+        [
+            "Parameter",
+            "Description",
+            "Value",
+            "Unit",
+            "Refs."
+        ],
+        [
+            "E",
+            "Riverine U fluxes to oceans",
+            "4.2×10",
+            "mol/yr",
+            "(2), (3), (10), (11)"
+        ],
+        [
+            "For",
+            "Removal flux to oxic sinks",
+            "2.23×107",
+            "mol/yr",
+            "(2), (3), (10), (11)"
+        ],
+        [
+            "Faubor",
+            "Removal flux to suboxic sinks",
+            "1.53×107",
+            "mol/yr",
+            "(2), (3), (10), (11)"
+        ],
+        [
+            "null",
+            "Removal flux to anoxic sinks",
+            "4.45×106",
+            "mol/yr",
+            "(2), (3), (10), (11)"
+        ],
+        [
+            "kor",
+            "Effective burial rate constant for oxic sink",
+            "0.048",
+            "1/(dm*yr)",
+            "*"
+        ],
+        [
+            "kabor",
+            "Effective burial rate constant for suboxic sink",
+            "0.469",
+            "1/(dm*yr)",
+            "*"
+        ],
+        [
+            "kanor",
+            "Effective burial rate constant for anoxic 2.534 sink",
+            "null",
+            "1/(dm*yr)",
+            "*"
+        ],
+        [
+            "0,",
+            "8238U of river waters",
+            "-0.3",
+            "%",
+            "(6) (11)"
+        ],
+        [
+            "[U] modem",
+            "Modern seawater U concentration",
+            "1.39×10-8",
+            "mol/dm3",
+            "(12),(9)"
+        ],
+        [
+            "Omoden",
+            "Modern seawater 8238U",
+            "-0.4",
+            "%",
+            "(9), (11)"
+        ],
+        [
+            "4or",
+            "Fractionation factor between oxic sink and seawater",
+            "0.005",
+            "%",
+            "see text and table 4"
+        ],
+        [
+            "Aubor",
+            "Fractionation factor between suboxic sink and seawater",
+            "0.1",
+            "%",
+            "(9)"
+        ],
+        [
+            "Aanor",
+            "Fractionation factor between anoxic",
+            "0.6",
+            "%",
+            "reviewed in (11)"
+        ],
+        [
+            "V",
+            "sink and seawater Seawater volume",
+            "1.37×1021",
+            "dm",
+            "(4)"
+        ],
+        [
+            "A",
+            "Total seafloor area",
+            "3.61×1016",
+            "dm?",
+            "(2)"
+        ],
+        [
+            "null",
+            "Modern anoxic seafloor area",
+            "0.35",
+            "%",
+            "(8)"
+        ],
+        [
+            "null",
+            "Modern suboxic seafloor area",
+            "6.00",
+            "%",
+            "(3)"
+        ],
+        [
+            "null",
+            "Modern oxic seafloor area",
+            "93.65",
+            "%",
+            "Balance"
+        ]
+    ]
+}

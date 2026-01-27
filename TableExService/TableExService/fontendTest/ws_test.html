@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PaleoGPT PDF处理</title>
+    <style>
+        body {
+            font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            font-size: 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            display: inline-block;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+        .status-container {
+            margin-top: 30px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: #f9f9f9;
+        }
+        .status-title {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .status-message {
+            margin-bottom: 10px;
+        }
+        .status-log {
+            background-color: #f0f0f0;
+            padding: 10px;
+            border-radius: 4px;
+            max-height: 300px;
+            overflow-y: auto;
+            font-family: monospace;
+            white-space: pre-wrap;
+        }
+        .spinner {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid rgba(0, 0, 0, 0.1);
+            border-radius: 50%;
+            border-top-color: #4CAF50;
+            animation: spin 1s ease-in-out infinite;
+            margin-right: 10px;
+            vertical-align: middle;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        .hidden {
+            display: none;
+        }
+        .success-icon {
+            color: #4CAF50;
+            font-size: 24px;
+            margin-right: 10px;
+            vertical-align: middle;
+        }
+        .error-icon {
+            color: #f44336;
+            font-size: 24px;
+            margin-right: 10px;
+            vertical-align: middle;
+        }
+        .log-entry {
+            margin-bottom: 5px;
+        }
+        .log-entry.processing {
+            color: #2196F3;
+        }
+        .log-entry.success {
+            color: #4CAF50;
+        }
+        .log-entry.error {
+            color: #f44336;
+        }
+        .log-entry.warning {
+            color: #FF9800;
+        }
+    </style>
+</head>
+<body>
+    <h1>PaleoGPT PDF处理</h1>
+    
+    <div class="form-group">
+        <label for="pdf-id">PDF ID:</label>
+        <input type="text" id="pdf-id" placeholder="请输入PDF ID" value="01xybTest">
+    </div>
+    
+    <div class="form-group">
+        <label for="pdf-url">PDF URL:</label>
+        <input type="text" id="pdf-url" placeholder="请输入PDF URL" value="https://paleodb-1306565154.cos.ap-shanghai.myqcloud.com/01xybTest/01xybTest.pdf">
+    </div>
+    
+    <button id="submit-btn" onclick="startProcessing()">开始处理</button>
+    
+    <div id="status-container" class="status-container hidden">
+        <div class="status-title">
+            <span id="status-icon" class="spinner"></span>
+            <span id="status-title-text">处理中...</span>
+        </div>
+        <div id="status-message" class="status-message">正在准备处理PDF文件...</div>
+        
+        <div class="status-log" id="status-log"></div>
+    </div>
+    
+    <script>
+        let ws = null;
+        let logEntries = [];
+        
+        function startProcessing() {
+            const pdfId = document.getElementById('pdf-id').value.trim();
+            const pdfUrl = document.getElementById('pdf-url').value.trim();
+            
+            if (!pdfId || !pdfUrl) {
+                alert('请输入PDF ID和URL');
+                return;
+            }
+            
+            // 禁用输入和按钮
+            document.getElementById('pdf-id').disabled = true;
+            document.getElementById('pdf-url').disabled = true;
+            document.getElementById('submit-btn').disabled = true;
+            
+            // 显示状态容器
+            document.getElementById('status-container').classList.remove('hidden');
+            
+            // 连接WebSocket
+            connectWebSocket(pdfId, pdfUrl);
+        }
+        
+        function connectWebSocket(pdfId, pdfUrl) {
+            // 获取当前的主机和端口
+            const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const host = window.location.hostname || 'localhost';
+            const port = '5000'; // FastAPI的端口
+            
+            const wsUrl = `${protocol}//${host}:${port}/ws`;
+            
+            addLogEntry('正在连接服务器...', 'processing');
+            
+            // 创建WebSocket连接
+            ws = new WebSocket(wsUrl);
+            
+            ws.onopen = function() {
+                // 连接建立后发送参数
+                addLogEntry('已连接到服务器，正在发送参数...', 'processing');
+                
+                const data = {
+                    pdf_id: pdfId,
+                    pdf_url: pdfUrl
+                };
+                
+                ws.send(JSON.stringify(data));
+            };
+            
+            ws.onmessage = function(event) {
+                const response = JSON.parse(event.data);
+                console.log('收到消息:', response);
+                
+                // 根据消息类型更新UI
+                updateStatus(response);
+            };
+            
+            ws.onclose = function() {
+                console.log('WebSocket连接已关闭');
+                // 连接关闭但未收到成功消息时，显示错误
+                if (document.getElementById('status-title-text').innerText === '处理中...') {
+                    updateStatus({
+                        status: 'error',
+                        message: '连接已关闭，处理可能已失败'
+                    });
+                }
+            };
+            
+            ws.onerror = function(error) {
+                console.error('WebSocket错误:', error);
+                updateStatus({
+                    status: 'error',
+                    message: '连接错误，请检查服务器是否正常运行'
+                });
+            };
+        }
+        
+        function updateStatus(response) {
+            const statusIcon = document.getElementById('status-icon');
+            const statusTitleText = document.getElementById('status-title-text');
+            const statusMessage = document.getElementById('status-message');
+            
+            // 添加日志条目
+            addLogEntry(response.message, response.status);
+            
+            // 更新状态图标和文本
+            if (response.status === 'success') {
+                // 成功完成
+                statusIcon.classList.remove('spinner');
+                statusIcon.innerHTML = '✓';
+                statusIcon.classList.add('success-icon');
+                statusTitleText.innerText = '处理成功';
+                statusMessage.innerText = response.message;
+                
+                // 启用重新提交
+                document.getElementById('pdf-id').disabled = false;
+                document.getElementById('pdf-url').disabled = false;
+                document.getElementById('submit-btn').disabled = false;
+            } 
+            else if (response.status === 'error') {
+                // 处理错误
+                statusIcon.classList.remove('spinner');
+                statusIcon.innerHTML = '✗';
+                statusIcon.classList.add('error-icon');
+                statusTitleText.innerText = '处理失败';
+                statusMessage.innerText = response.message;
+                
+                // 启用重新提交
+                document.getElementById('pdf-id').disabled = false;
+                document.getElementById('pdf-url').disabled = false;
+                document.getElementById('submit-btn').disabled = false;
+            } 
+            else {
+                // 处理中
+                statusMessage.innerText = response.message;
+            }
+        }
+        
+        function addLogEntry(message, status) {
+            const timestamp = new Date().toLocaleTimeString();
+            const logEntry = document.createElement('div');
+            logEntry.className = `log-entry ${status}`;
+            logEntry.innerText = `[${timestamp}] ${message}`;
+            
+            const logContainer = document.getElementById('status-log');
+            logContainer.appendChild(logEntry);
+            
+            // 自动滚动到底部
+            logContainer.scrollTop = logContainer.scrollHeight;
+            
+            // 存储日志条目
+            logEntries.push({
+                timestamp,
+                message,
+                status
+            });
+        }
+        
+        // 页面卸载前关闭WebSocket连接
+        window.addEventListener('beforeunload', function() {
+            if (ws && ws.readyState === WebSocket.OPEN) {
+                ws.close();
+            }
+        });
+    </script>
+</body>
+</html> 

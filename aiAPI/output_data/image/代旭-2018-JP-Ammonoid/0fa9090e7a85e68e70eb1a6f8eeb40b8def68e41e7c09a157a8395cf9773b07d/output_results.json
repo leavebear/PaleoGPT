@@ -1,0 +1,777 @@
+{
+    "static": [
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 568,
+                "ymin": 1033,
+                "xmax": 1130,
+                "ymax": 1863
+            },
+            "ocr_box": {
+                "text": "16",
+                "xmin": 428,
+                "ymin": 1540,
+                "xmax": 468,
+                "ymax": 1569
+            }
+        },
+        {
+            "name": "YFMCUG 00014",
+            "unet_box": {
+                "xmin": 1169,
+                "ymin": 1025,
+                "xmax": 1342,
+                "ymax": 1858
+            },
+            "ocr_box": {
+                "text": "12",
+                "xmin": 1263,
+                "ymin": 984,
+                "xmax": 1303,
+                "ymax": 1013
+            }
+        },
+        {
+            "name": "YFMCUG 00012",
+            "unet_box": {
+                "xmin": 357,
+                "ymin": 1017,
+                "xmax": 443,
+                "ymax": 1366
+            },
+            "ocr_box": {
+                "text": "14",
+                "xmin": 366,
+                "ymin": 1379,
+                "xmax": 405,
+                "ymax": 1408
+            }
+        },
+        {
+            "name": "YFMCUG 00010",
+            "unet_box": {
+                "xmin": 49,
+                "ymin": 1015,
+                "xmax": 334,
+                "ymax": 1368
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 189,
+                "ymin": 982,
+                "xmax": 209,
+                "ymax": 1009
+            }
+        },
+        {
+            "name": "YFMCUG 00014",
+            "unet_box": {
+                "xmin": 679,
+                "ymin": 558,
+                "xmax": 1011,
+                "ymax": 968
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 824,
+                "ymin": 982,
+                "xmax": 867,
+                "ymax": 1014
+            }
+        },
+        {
+            "name": "YFMCUG 00014",
+            "unet_box": {
+                "xmin": 1230,
+                "ymin": 554,
+                "xmax": 1338,
+                "ymax": 966
+            },
+            "ocr_box": {
+                "text": "12",
+                "xmin": 1263,
+                "ymin": 984,
+                "xmax": 1303,
+                "ymax": 1013
+            }
+        },
+        {
+            "name": "YFMCUG 00014",
+            "unet_box": {
+                "xmin": 1068,
+                "ymin": 554,
+                "xmax": 1178,
+                "ymax": 962
+            },
+            "ocr_box": {
+                "text": "11",
+                "xmin": 1113,
+                "ymin": 983,
+                "xmax": 1148,
+                "ymax": 1013
+            }
+        },
+        {
+            "name": "YFMCUG 00010",
+            "unet_box": {
+                "xmin": 446,
+                "ymin": 520,
+                "xmax": 576,
+                "ymax": 962
+            },
+            "ocr_box": {
+                "text": "9",
+                "xmin": 503,
+                "ymin": 983,
+                "xmax": 519,
+                "ymax": 1005
+            }
+        },
+        {
+            "name": "YFMCUG 00010",
+            "unet_box": {
+                "xmin": 44,
+                "ymin": 520,
+                "xmax": 408,
+                "ymax": 962
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 189,
+                "ymin": 982,
+                "xmax": 209,
+                "ymax": 1009
+            }
+        },
+        {
+            "name": "YFMCUG 00013",
+            "unet_box": {
+                "xmin": 1248,
+                "ymin": 263,
+                "xmax": 1307,
+                "ymax": 493
+            },
+            "ocr_box": {
+                "text": "7",
+                "xmin": 1267,
+                "ymin": 506,
+                "xmax": 1288,
+                "ymax": 531
+            }
+        },
+        {
+            "name": "YFMCUG 00013",
+            "unet_box": {
+                "xmin": 1167,
+                "ymin": 263,
+                "xmax": 1228,
+                "ymax": 493
+            },
+            "ocr_box": {
+                "text": "6",
+                "xmin": 1189,
+                "ymin": 507,
+                "xmax": 1208,
+                "ymax": 531
+            }
+        },
+        {
+            "name": "YFMCUG 00013",
+            "unet_box": {
+                "xmin": 1146,
+                "ymin": 20,
+                "xmax": 1333,
+                "ymax": 254
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 1164,
+                "ymin": 226,
+                "xmax": 1181,
+                "ymax": 249
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 768,
+                "ymin": 12,
+                "xmax": 900,
+                "ymax": 462
+            },
+            "ocr_box": {
+                "text": "3",
+                "xmin": 838,
+                "ymin": 479,
+                "xmax": 854,
+                "ymax": 499
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 381,
+                "ymin": 12,
+                "xmax": 737,
+                "ymax": 462
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 552,
+                "ymin": 478,
+                "xmax": 571,
+                "ymax": 502
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 2,
+                "ymin": 12,
+                "xmax": 355,
+                "ymax": 460
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 552,
+                "ymin": 478,
+                "xmax": 571,
+                "ymax": 502
+            }
+        },
+        {
+            "name": "YFMCUG 00013",
+            "unet_box": {
+                "xmin": 943,
+                "ymin": 11,
+                "xmax": 1077,
+                "ymax": 462
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 1164,
+                "ymin": 226,
+                "xmax": 1181,
+                "ymax": 249
+            }
+        }
+    ],
+    "dynamic": [
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 568,
+                "ymin": 1033,
+                "xmax": 1130,
+                "ymax": 1863
+            },
+            "ocr_box": {
+                "text": "16",
+                "xmin": 428,
+                "ymin": 1540,
+                "xmax": 468,
+                "ymax": 1569
+            }
+        },
+        {
+            "name": "YFMCUG 00014",
+            "unet_box": {
+                "xmin": 1169,
+                "ymin": 1025,
+                "xmax": 1342,
+                "ymax": 1858
+            },
+            "ocr_box": {
+                "text": "12",
+                "xmin": 1263,
+                "ymin": 984,
+                "xmax": 1303,
+                "ymax": 1013
+            }
+        },
+        {
+            "name": "YFMCUG 00012",
+            "unet_box": {
+                "xmin": 357,
+                "ymin": 1017,
+                "xmax": 443,
+                "ymax": 1366
+            },
+            "ocr_box": {
+                "text": "14",
+                "xmin": 366,
+                "ymin": 1379,
+                "xmax": 405,
+                "ymax": 1408
+            }
+        },
+        {
+            "name": "YFMCUG 00010",
+            "unet_box": {
+                "xmin": 49,
+                "ymin": 1015,
+                "xmax": 334,
+                "ymax": 1368
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 189,
+                "ymin": 982,
+                "xmax": 209,
+                "ymax": 1009
+            }
+        },
+        {
+            "name": "YFMCUG 00014",
+            "unet_box": {
+                "xmin": 679,
+                "ymin": 558,
+                "xmax": 1011,
+                "ymax": 968
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 824,
+                "ymin": 982,
+                "xmax": 867,
+                "ymax": 1014
+            }
+        },
+        {
+            "name": "YFMCUG 00013",
+            "unet_box": {
+                "xmin": 1230,
+                "ymin": 554,
+                "xmax": 1338,
+                "ymax": 966
+            },
+            "ocr_box": {
+                "text": "7",
+                "xmin": 1267,
+                "ymin": 506,
+                "xmax": 1288,
+                "ymax": 531
+            }
+        },
+        {
+            "name": "YFMCUG 00014",
+            "unet_box": {
+                "xmin": 1068,
+                "ymin": 554,
+                "xmax": 1178,
+                "ymax": 962
+            },
+            "ocr_box": {
+                "text": "11",
+                "xmin": 1113,
+                "ymin": 983,
+                "xmax": 1148,
+                "ymax": 1013
+            }
+        },
+        {
+            "name": "YFMCUG 00010",
+            "unet_box": {
+                "xmin": 446,
+                "ymin": 520,
+                "xmax": 576,
+                "ymax": 962
+            },
+            "ocr_box": {
+                "text": "9",
+                "xmin": 503,
+                "ymin": 983,
+                "xmax": 519,
+                "ymax": 1005
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 44,
+                "ymin": 520,
+                "xmax": 408,
+                "ymax": 962
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 552,
+                "ymin": 478,
+                "xmax": 571,
+                "ymax": 502
+            }
+        },
+        {
+            "name": "YFMCUG 00013",
+            "unet_box": {
+                "xmin": 1248,
+                "ymin": 263,
+                "xmax": 1307,
+                "ymax": 493
+            },
+            "ocr_box": {
+                "text": "6",
+                "xmin": 1189,
+                "ymin": 507,
+                "xmax": 1208,
+                "ymax": 531
+            }
+        },
+        {
+            "name": "YFMCUG 00013",
+            "unet_box": {
+                "xmin": 1167,
+                "ymin": 263,
+                "xmax": 1228,
+                "ymax": 493
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 1164,
+                "ymin": 226,
+                "xmax": 1181,
+                "ymax": 249
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 1146,
+                "ymin": 20,
+                "xmax": 1333,
+                "ymax": 254
+            },
+            "ocr_box": {
+                "text": "4",
+                "xmin": 1008,
+                "ymin": 482,
+                "xmax": 1022,
+                "ymax": 498
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 768,
+                "ymin": 12,
+                "xmax": 900,
+                "ymax": 462
+            },
+            "ocr_box": {
+                "text": "3",
+                "xmin": 838,
+                "ymin": 479,
+                "xmax": 854,
+                "ymax": 499
+            }
+        },
+        {
+            "name": "YFMCUG 00012",
+            "unet_box": {
+                "xmin": 381,
+                "ymin": 12,
+                "xmax": 737,
+                "ymax": 462
+            },
+            "ocr_box": {
+                "text": "13",
+                "xmin": 158,
+                "ymin": 1379,
+                "xmax": 198,
+                "ymax": 1409
+            }
+        },
+        {
+            "name": "YFMCUG 00015",
+            "unet_box": {
+                "xmin": 2,
+                "ymin": 12,
+                "xmax": 355,
+                "ymax": 460
+            },
+            "ocr_box": {
+                "text": "17",
+                "xmin": 59,
+                "ymin": 1825,
+                "xmax": 98,
+                "ymax": 1855
+            }
+        },
+        {
+            "name": "YFMCUG 00015",
+            "unet_box": {
+                "xmin": 943,
+                "ymin": 11,
+                "xmax": 1077,
+                "ymax": 462
+            },
+            "ocr_box": {
+                "text": "18",
+                "xmin": 892,
+                "ymin": 1885,
+                "xmax": 933,
+                "ymax": 1913
+            }
+        }
+    ],
+    "km": [
+        {
+            "name": "YFMCUG 00015",
+            "unet_box": {
+                "xmin": 568,
+                "ymin": 1033,
+                "xmax": 1130,
+                "ymax": 1863
+            },
+            "ocr_box": {
+                "text": "18",
+                "xmin": 892,
+                "ymin": 1885,
+                "xmax": 933,
+                "ymax": 1913
+            }
+        },
+        {
+            "name": "YFMCUG 00015",
+            "unet_box": {
+                "xmin": 1169,
+                "ymin": 1025,
+                "xmax": 1342,
+                "ymax": 1858
+            },
+            "ocr_box": {
+                "text": "19",
+                "xmin": 1232,
+                "ymin": 1885,
+                "xmax": 1273,
+                "ymax": 1913
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 357,
+                "ymin": 1017,
+                "xmax": 443,
+                "ymax": 1366
+            },
+            "ocr_box": {
+                "text": "16",
+                "xmin": 428,
+                "ymin": 1540,
+                "xmax": 468,
+                "ymax": 1569
+            }
+        },
+        {
+            "name": "YFMCUG 00012",
+            "unet_box": {
+                "xmin": 49,
+                "ymin": 1015,
+                "xmax": 334,
+                "ymax": 1368
+            },
+            "ocr_box": {
+                "text": "13",
+                "xmin": 158,
+                "ymin": 1379,
+                "xmax": 198,
+                "ymax": 1409
+            }
+        },
+        {
+            "name": "YFMCUG 00014",
+            "unet_box": {
+                "xmin": 679,
+                "ymin": 558,
+                "xmax": 1011,
+                "ymax": 968
+            },
+            "ocr_box": {
+                "text": "10",
+                "xmin": 824,
+                "ymin": 982,
+                "xmax": 867,
+                "ymax": 1014
+            }
+        },
+        {
+            "name": "YFMCUG 00014",
+            "unet_box": {
+                "xmin": 1230,
+                "ymin": 554,
+                "xmax": 1338,
+                "ymax": 966
+            },
+            "ocr_box": {
+                "text": "12",
+                "xmin": 1263,
+                "ymin": 984,
+                "xmax": 1303,
+                "ymax": 1013
+            }
+        },
+        {
+            "name": "YFMCUG 00014",
+            "unet_box": {
+                "xmin": 1068,
+                "ymin": 554,
+                "xmax": 1178,
+                "ymax": 962
+            },
+            "ocr_box": {
+                "text": "11",
+                "xmin": 1113,
+                "ymin": 983,
+                "xmax": 1148,
+                "ymax": 1013
+            }
+        },
+        {
+            "name": "YFMCUG 00010",
+            "unet_box": {
+                "xmin": 446,
+                "ymin": 520,
+                "xmax": 576,
+                "ymax": 962
+            },
+            "ocr_box": {
+                "text": "9",
+                "xmin": 503,
+                "ymin": 983,
+                "xmax": 519,
+                "ymax": 1005
+            }
+        },
+        {
+            "name": "YFMCUG 00012",
+            "unet_box": {
+                "xmin": 44,
+                "ymin": 520,
+                "xmax": 408,
+                "ymax": 962
+            },
+            "ocr_box": {
+                "text": "14",
+                "xmin": 366,
+                "ymin": 1379,
+                "xmax": 405,
+                "ymax": 1408
+            }
+        },
+        {
+            "name": "YFMCUG 00013",
+            "unet_box": {
+                "xmin": 1248,
+                "ymin": 263,
+                "xmax": 1307,
+                "ymax": 493
+            },
+            "ocr_box": {
+                "text": "7",
+                "xmin": 1267,
+                "ymin": 506,
+                "xmax": 1288,
+                "ymax": 531
+            }
+        },
+        {
+            "name": "YFMCUG 00013",
+            "unet_box": {
+                "xmin": 1167,
+                "ymin": 263,
+                "xmax": 1228,
+                "ymax": 493
+            },
+            "ocr_box": {
+                "text": "6",
+                "xmin": 1189,
+                "ymin": 507,
+                "xmax": 1208,
+                "ymax": 531
+            }
+        },
+        {
+            "name": "YFMCUG 00013",
+            "unet_box": {
+                "xmin": 1146,
+                "ymin": 20,
+                "xmax": 1333,
+                "ymax": 254
+            },
+            "ocr_box": {
+                "text": "5",
+                "xmin": 1164,
+                "ymin": 226,
+                "xmax": 1181,
+                "ymax": 249
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 768,
+                "ymin": 12,
+                "xmax": 900,
+                "ymax": 462
+            },
+            "ocr_box": {
+                "text": "3",
+                "xmin": 838,
+                "ymin": 479,
+                "xmax": 854,
+                "ymax": 499
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 381,
+                "ymin": 12,
+                "xmax": 737,
+                "ymax": 462
+            },
+            "ocr_box": {
+                "text": "2",
+                "xmin": 552,
+                "ymin": 478,
+                "xmax": 571,
+                "ymax": 502
+            }
+        },
+        {
+            "name": "YFMCUG 00010",
+            "unet_box": {
+                "xmin": 2,
+                "ymin": 12,
+                "xmax": 355,
+                "ymax": 460
+            },
+            "ocr_box": {
+                "text": "8",
+                "xmin": 189,
+                "ymin": 982,
+                "xmax": 209,
+                "ymax": 1009
+            }
+        },
+        {
+            "name": "Jieshaniceras guizhouense",
+            "unet_box": {
+                "xmin": 943,
+                "ymin": 11,
+                "xmax": 1077,
+                "ymax": 462
+            },
+            "ocr_box": {
+                "text": "4",
+                "xmin": 1008,
+                "ymin": 482,
+                "xmax": 1022,
+                "ymax": 498
+            }
+        }
+    ],
+    "cap": "Figure 10. 0 Jieshaniceras guizhouense (Zakharov and Mu in Mu et al., 2007), (1-4, 16) YFMCUG 00009, from GJ-33, suture line at H=22.3mm (5-7) YFMCUG 00013, from GJ-33; (8, 9) YFMCUG 00010, from GJ-33; (10-12) YFMCUG 00014, from GJ-35; (13-15) YFMCUG 00012, from GJ-33, suture line H=12.1mm ; (17-19) YFMCUG 00015,from GJ-35, suture line at H=30.4mm"
+}
