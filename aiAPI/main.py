@@ -34,8 +34,8 @@ from qcloud_cos import (
 
 COS_CONFIG = {
     "region": "ap-shanghai",
-    "secret_id": "InputYourCloudSecretID",
-    "secret_key": "InputYourCloudSecretKey",
+    "secret_id": "YOUR_TENCENT_SECRET_ID",
+    "secret_key": "YOUR_TENCENT_SECRET_KEY",
     "bucket": "paleodb-1306565154",
     "TOKEN": "",
     "SCHEME": "https"
