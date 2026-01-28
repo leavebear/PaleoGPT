@@ -1,0 +1,441 @@
+[{
+  "_id": {
+    "$oid": "692a86479182f3ca25356a0d"
+  },
+  "name": "古生物学研究默认模板",
+  "description": "用于古生物学文本分析的实体标注默认模板，包含样本、时间、地点等关键实体类型",
+  "ttag": [
+    {
+      "tag_name": "SAMPLE",
+      "tag_color": "#BB01CF",
+      "description": ""
+    },
+    {
+      "tag_name": "Time",
+      "tag_color": "#969F04",
+      "description": ""
+    },
+    {
+      "tag_name": "LOC",
+      "tag_color": "#C68369",
+      "description": ""
+    },
+    {
+      "tag_name": "FACE",
+      "tag_color": "#DB8856",
+      "description": ""
+    },
+    {
+      "tag_name": "Country",
+      "tag_color": "#6F28B1",
+      "description": ""
+    },
+    {
+      "tag_name": "BIO",
+      "tag_color": "#75FA5E",
+      "description": ""
+    },
+    {
+      "tag_name": "SEC",
+      "tag_color": "#EAC7A0",
+      "description": ""
+    },
+    {
+      "tag_name": "STR",
+      "tag_color": "#E1B712",
+      "description": ""
+    }
+  ],
+  "relationList": [
+    {
+      "relation_id": {
+        "$oid": "6944eca08afc3dab28a2e0a7"
+      },
+      "entity1_name": "SAMPLE",
+      "entity1_color": "#BB01CF",
+      "entity2_name": "Time",
+      "entity2_color": "#969F04",
+      "relation_color": "#6C757D"
+    },
+    {
+      "relation_id": {
+        "$oid": "6944eca08afc3dab28a2e0a8"
+      },
+      "entity1_name": "SAMPLE",
+      "entity1_color": "#BB01CF",
+      "entity2_name": "LOC",
+      "entity2_color": "#C68369",
+      "relation_color": "#6C757D"
+    },
+    {
+      "relation_id": {
+        "$oid": "6944eca08afc3dab28a2e0a9"
+      },
+      "entity1_name": "LOC",
+      "entity1_color": "#C68369",
+      "entity2_name": "Country",
+      "entity2_color": "#6F28B1",
+      "relation_color": "#6C757D"
+    },
+    {
+      "relation_id": {
+        "$oid": "6944eca08afc3dab28a2e0aa"
+      },
+      "entity1_name": "BIO",
+      "entity1_color": "#75FA5E",
+      "entity2_name": "Time",
+      "entity2_color": "#969F04",
+      "relation_color": "#6C757D"
+    },
+    {
+      "relation_id": {
+        "$oid": "6944eca08afc3dab28a2e0ab"
+      },
+      "entity1_name": "SEC",
+      "entity1_color": "#EAC7A0",
+      "entity2_name": "STR",
+      "entity2_color": "#E1B712",
+      "relation_color": "#6C757D"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "695a5f3b62eb2d9967d84338"
+  },
+  "name": "测试",
+  "description": "这是一个测试",
+  "ttag": [
+    {
+      "tag_name": "类型4",
+      "tag_color": "#8685dc",
+      "description": ""
+    },
+    {
+      "tag_name": "类型3",
+      "tag_color": "rgba(21, 223, 119, 1)",
+      "description": ""
+    }
+  ],
+  "relationList": []
+},
+{
+  "_id": {
+    "$oid": "69638c2aedafb81c03482dd7"
+  },
+  "name": "这是测试",
+  "description": "",
+  "ttag": [
+    {
+      "tag_name": "实体1",
+      "tag_color": "#5c7253",
+      "description": ""
+    },
+    {
+      "tag_name": "实体2",
+      "tag_color": "#6ab7d7",
+      "description": ""
+    },
+    {
+      "tag_name": "实体3",
+      "tag_color": "#6f593e",
+      "description": ""
+    }
+  ],
+  "relationList": [
+    {
+      "relation_id": {
+        "$oid": "69638c2aedafb81c03482dd6"
+      },
+      "entity1_name": "实体1",
+      "entity1_color": "#5c7253",
+      "entity2_name": "实体2",
+      "entity2_color": "#6ab7d7",
+      "relation_color": "#888888"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "696c87f995aed10e54f6185c"
+  },
+  "name": "测试1",
+  "description": "",
+  "ttag": [
+    {
+      "tag_name": "类型1",
+      "tag_color": "#286327",
+      "description": ""
+    },
+    {
+      "tag_name": "类型2",
+      "tag_color": "#cc3679",
+      "description": ""
+    },
+    {
+      "tag_name": "类型3",
+      "tag_color": "#d5c7af",
+      "description": ""
+    }
+  ],
+  "relationList": [
+    {
+      "relation_id": {
+        "$oid": "696c87f995aed10e54f6185a"
+      },
+      "entity1_name": "类型1",
+      "entity1_color": "#286327",
+      "entity2_name": "类型2",
+      "entity2_color": "#cc3679",
+      "relation_color": "#888888"
+    },
+    {
+      "relation_id": {
+        "$oid": "696c87f995aed10e54f6185b"
+      },
+      "entity1_name": "类型1",
+      "entity1_color": "#286327",
+      "entity2_name": "类型3",
+      "entity2_color": "#d5c7af",
+      "relation_color": "#888888"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "696c888d95aed10e54f61864"
+  },
+  "name": "测试2",
+  "description": "",
+  "ttag": [
+    {
+      "tag_name": "类型1",
+      "tag_color": "#7f9bd9",
+      "description": ""
+    },
+    {
+      "tag_name": "类型2",
+      "tag_color": "#b79fac",
+      "description": ""
+    },
+    {
+      "tag_name": "类型3",
+      "tag_color": "#747756",
+      "description": ""
+    }
+  ],
+  "relationList": []
+},
+{
+  "_id": {
+    "$oid": "6970863076d8ac1dc6eb4f0b"
+  },
+  "name": "测试4",
+  "description": "",
+  "ttag": [
+    {
+      "tag_name": "类型1",
+      "tag_color": "#4c5ad1",
+      "description": ""
+    },
+    {
+      "tag_name": "类型2",
+      "tag_color": "#43c899",
+      "description": ""
+    },
+    {
+      "tag_name": "类型3",
+      "tag_color": "#906ba3",
+      "description": ""
+    }
+  ],
+  "relationList": [
+    {
+      "relation_id": {
+        "$oid": "6974d11273924558a52f16ce"
+      },
+      "entity1_name": "类型1",
+      "entity1_color": "#4c5ad1",
+      "entity2_name": "类型2",
+      "entity2_color": "#43c899",
+      "relation_color": "#888888"
+    },
+    {
+      "relation_id": {
+        "$oid": "6974d11273924558a52f16cf"
+      },
+      "entity1_name": "类型1",
+      "entity1_color": "#4c5ad1",
+      "entity2_name": "类型3",
+      "entity2_color": "#906ba3",
+      "relation_color": "#888888"
+    },
+    {
+      "relation_id": {
+        "$oid": "6974d17373924558a52f16d5"
+      },
+      "entity1_name": "类型2",
+      "entity1_color": "#43c899",
+      "entity2_name": "类型3",
+      "entity2_color": "#906ba3",
+      "relation_color": "#888888"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6974d1ed73924558a52f16db"
+  },
+  "name": "测试5",
+  "description": "",
+  "ttag": [
+    {
+      "tag_name": "类型1",
+      "tag_color": "rgba(24, 21, 200, 1)",
+      "description": ""
+    },
+    {
+      "tag_name": "类型2",
+      "tag_color": "#28d972",
+      "description": ""
+    },
+    {
+      "tag_name": "类型3",
+      "tag_color": "#d17335",
+      "description": ""
+    }
+  ],
+  "relationList": [
+    {
+      "relation_id": {
+        "$oid": "6974d1ed73924558a52f16da"
+      },
+      "entity1_name": "类型1",
+      "entity1_color": "rgba(24, 21, 200, 1)",
+      "entity2_name": "类型2",
+      "entity2_color": "#28d972",
+      "relation_color": "rgba(17, 160, 208, 1)"
+    },
+    {
+      "relation_id": {
+        "$oid": "6975f228ae9a647907ecea3d"
+      },
+      "entity1_name": "类型2",
+      "entity1_color": "#28d972",
+      "entity2_name": "类型3",
+      "entity2_color": "#d17335",
+      "relation_color": "#888888"
+    },
+    {
+      "relation_id": {
+        "$oid": "6975fcf3ae9a647907ecea42"
+      },
+      "entity1_name": "类型1",
+      "entity1_color": "rgba(24, 21, 200, 1)",
+      "entity2_name": "类型3",
+      "entity2_color": "#d17335",
+      "relation_color": "#888888"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69787b7038ec68a8fbc791e6"
+  },
+  "name": "古生物实体关系抽取模板",
+  "description": "这个模板是定义好的系统默认模板，用于抽取对应的实体关系",
+  "ttag": [
+    {
+      "tag_name": "fossil",
+      "tag_color": "#c2a268",
+      "description": ""
+    },
+    {
+      "tag_name": "strata",
+      "tag_color": "rgba(21, 140, 191, 1)",
+      "description": ""
+    },
+    {
+      "tag_name": "geoAge",
+      "tag_color": "#96628a",
+      "description": ""
+    },
+    {
+      "tag_name": "face",
+      "tag_color": "#d68cd6",
+      "description": ""
+    },
+    {
+      "tag_name": "lith",
+      "tag_color": "#5c5ac5",
+      "description": ""
+    },
+    {
+      "tag_name": "section",
+      "tag_color": "#b2cc86",
+      "description": ""
+    }
+  ],
+  "relationList": [
+    {
+      "relation_id": {
+        "$oid": "69787b7038ec68a8fbc791e0"
+      },
+      "entity1_name": "fossil",
+      "entity1_color": "#c2a268",
+      "entity2_name": "strata",
+      "entity2_color": "rgba(21, 140, 191, 1)",
+      "relation_color": "#888888"
+    },
+    {
+      "relation_id": {
+        "$oid": "69787b7038ec68a8fbc791e1"
+      },
+      "entity1_name": "fossil",
+      "entity1_color": "#c2a268",
+      "entity2_name": "geoAge",
+      "entity2_color": "#96628a",
+      "relation_color": "#888888"
+    },
+    {
+      "relation_id": {
+        "$oid": "69787b7038ec68a8fbc791e2"
+      },
+      "entity1_name": "strata",
+      "entity1_color": "rgba(21, 140, 191, 1)",
+      "entity2_name": "geoAge",
+      "entity2_color": "#96628a",
+      "relation_color": "#888888"
+    },
+    {
+      "relation_id": {
+        "$oid": "69787b7038ec68a8fbc791e3"
+      },
+      "entity1_name": "strata",
+      "entity1_color": "rgba(21, 140, 191, 1)",
+      "entity2_name": "face",
+      "entity2_color": "#d68cd6",
+      "relation_color": "#888888"
+    },
+    {
+      "relation_id": {
+        "$oid": "69787b7038ec68a8fbc791e4"
+      },
+      "entity1_name": "strata",
+      "entity1_color": "rgba(21, 140, 191, 1)",
+      "entity2_name": "lith",
+      "entity2_color": "#5c5ac5",
+      "relation_color": "#888888"
+    },
+    {
+      "relation_id": {
+        "$oid": "69787b7038ec68a8fbc791e5"
+      },
+      "entity1_name": "section",
+      "entity1_color": "#b2cc86",
+      "entity2_name": "strata",
+      "entity2_color": "rgba(21, 140, 191, 1)",
+      "relation_color": "#888888"
+    }
+  ]
+}]

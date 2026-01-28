@@ -1,0 +1,5849 @@
+[{
+  "_id": {
+    "$oid": "692a64149cbc74389d06adfa"
+  },
+  "pdf_id": "e6f34e0c-e125-4780-83f8-19ebf2e0d0d5",
+  "predef_id": "693822e2b2a726e399cf0a78",
+  "textList": [
+    {
+      "text": "Samples averaging-3 Myr intervals have analytically indistinguishable 238U/235U throughout the Cenozoic.",
+      "text_tag": [
+        {
+          "tag_name": "SAMPLE",
+          "start": 0,
+          "end": 23,
+          "mark_content": "Samples averaging-3 Myr"
+        },
+        {
+          "tag_name": "Time",
+          "start": 70,
+          "end": 104,
+          "mark_content": "238U/235U throughout the Cenozoic."
+        }
+      ]
+    },
+    {
+      "text": "Keywords: Uranium isotopes, redox proxies, Cenozoic marine redox introduction Models predict that warmer surface temperatures will reduce O2 solubility and potentially increase thermal stratiﬁcation in Earth’s oceans (Sarmiento and others, 1998; Shaffer and others, 2009), potentially leading to ocean “deoxygenation” on a broad scale (for examples, Keeling and others, 2010).",
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 43,
+          "end": 51,
+          "mark_content": "Cenozoic"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 202,
+          "end": 209,
+          "mark_content": "Earth’s"
+        }
+      ]
+    },
+    {
+      "text": "Here we apply a uranium isotope approach (238U/ 235U, expressed as (cid:3)238U relative to the standard CRM112a) to hydrogenous ferromanganese (Fe-Mn) crusts in order to reconstruct ocean redox state throughout the Cenozoic [65 million years (Myr) ago to the present], a period during which tectonism, weathering, and surface temperatures ﬂuctuated signiﬁcantly (Hansen and others, 2008).",
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 215,
+          "end": 223,
+          "mark_content": "Cenozoic"
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "from": {
+        "text_id": "0",
+        "start": 0,
+        "end": 23
+      },
+      "to": {
+        "text_id": "2",
+        "start": 215,
+        "end": 223
+      },
+      "relation": {
+        "entity1_name": "SAMPLE",
+        "entity1_color": "#BB01CF",
+        "entity2_name": "Time",
+        "entity2_color": "#969F04",
+        "relation_color": "#6C757D"
+      }
+    },
+    {
+      "from": {
+        "text_id": "0",
+        "start": 0,
+        "end": 23
+      },
+      "to": {
+        "text_id": "1",
+        "start": 43,
+        "end": 51
+      },
+      "relation": {
+        "entity1_name": "SAMPLE",
+        "entity1_color": "#BB01CF",
+        "entity2_name": "Time",
+        "entity2_color": "#969F04",
+        "relation_color": "#6C757D"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6945381a84f4b6c5860f8660"
+  },
+  "pdf_id": "0d84b7c5-e796-4297-85be-9cd8cf4e05b0",
+  "predef_id": {
+    "$oid": "692a86479182f3ca25356a0d"
+  },
+  "textList": [
+    {
+      "text_id": 0,
+      "text_tag": [
+        {
+          "tag_name": "SAMPLE",
+          "start": 0,
+          "end": 23,
+          "content": "Samples averaging-3 Myr"
+        },
+        {
+          "tag_name": "Time",
+          "start": 70,
+          "end": 104,
+          "content": "238U/235U throughout the Cenozoic."
+        }
+      ]
+    },
+    {
+      "text_id": 1,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 43,
+          "end": 51,
+          "content": "Cenozoic"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 202,
+          "end": 209,
+          "content": "Earth’s"
+        }
+      ]
+    },
+    {
+      "text_id": 2,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 215,
+          "end": 223,
+          "content": "Cenozoic"
+        }
+      ]
+    },
+    {
+      "text_id": 3,
+      "text_tag": []
+    },
+    {
+      "text_id": 4,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 47,
+          "end": 69,
+          "content": "removed from seawater."
+        }
+      ]
+    },
+    {
+      "text_id": 5,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 101,
+          "end": 118,
+          "content": "U(VI) in seawater"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 122,
+          "end": 123,
+          "content": "*"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 124,
+          "end": 162,
+          "content": "Yale University, Department of Geology"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 179,
+          "end": 202,
+          "content": "New Haven, Connecticut,"
+        },
+        {
+          "tag_name": "Country",
+          "start": 221,
+          "end": 228,
+          "content": "Georgia"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 229,
+          "end": 269,
+          "content": "Institute of Technology, School of Earth"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 296,
+          "end": 313,
+          "content": "Atlanta, Georgia,"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 357,
+          "end": 380,
+          "content": "Santa Cruz, California,"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 404,
+          "end": 416,
+          "content": "of Illinois,"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 458,
+          "end": 467,
+          "content": "Illinois,"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 474,
+          "end": 477,
+          "content": "USA"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 527,
+          "end": 539,
+          "content": "Xiangli Wang"
+        }
+      ]
+    },
+    {
+      "text_id": 6,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 109,
+          "end": 130,
+          "content": "238U/235U of seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 7,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 47,
+          "end": 71,
+          "content": "below the sediment-water"
+        }
+      ]
+    },
+    {
+      "text_id": 8,
+      "text_tag": [
+        {
+          "tag_name": "BIO",
+          "start": 146,
+          "end": 166,
+          "content": "Oxygen Minimum Zones"
+        }
+      ]
+    },
+    {
+      "text_id": 9,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 0,
+          "end": 7,
+          "content": "Seaﬂoor"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 40,
+          "end": 60,
+          "content": "archive for seawater"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 96,
+          "end": 118,
+          "content": "directly from seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 10,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 26,
+          "end": 45,
+          "content": "the modern seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 11,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 76,
+          "end": 107,
+          "content": "record contemporaneous seawater"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 309,
+          "end": 322,
+          "content": "Indian Ocean,"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 349,
+          "end": 362,
+          "content": "Paciﬁc Ocean,"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 383,
+          "end": 397,
+          "content": "Atlantic Ocean"
+        }
+      ]
+    },
+    {
+      "text_id": 12,
+      "text_tag": []
+    },
+    {
+      "text_id": 13,
+      "text_tag": []
+    },
+    {
+      "text_id": 14,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 121,
+          "end": 132,
+          "content": "Wasserburg,"
+        }
+      ]
+    },
+    {
+      "text_id": 15,
+      "text_tag": [
+        {
+          "tag_name": "SAMPLE",
+          "start": 92,
+          "end": 110,
+          "content": "sample U. External"
+        },
+        {
+          "tag_name": "SEC",
+          "start": 188,
+          "end": 208,
+          "content": "(see result section)"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 330,
+          "end": 334,
+          "content": "Wang"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 339,
+          "end": 365,
+          "content": "others—A cenozoic seawater"
+        },
+        {
+          "tag_name": "STR",
+          "start": 395,
+          "end": 412,
+          "content": "Basic information"
+        },
+        {
+          "tag_name": "STR",
+          "start": 457,
+          "end": 476,
+          "content": "General information"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 664,
+          "end": 673,
+          "content": "Rehkamper"
+        }
+      ]
+    },
+    {
+      "text_id": 16,
+      "text_tag": [
+        {
+          "tag_name": "SEC",
+          "start": 150,
+          "end": 172,
+          "content": "“Age Models” section)."
+        }
+      ]
+    },
+    {
+      "text_id": 17,
+      "text_tag": []
+    },
+    {
+      "text_id": 18,
+      "text_tag": []
+    },
+    {
+      "text_id": 19,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 104,
+          "end": 124,
+          "content": "67 reliable seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 20,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 54,
+          "end": 73,
+          "content": "the modern seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 21,
+      "text_tag": []
+    },
+    {
+      "text_id": 22,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 134,
+          "end": 157,
+          "content": "and ultimately seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 23,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 183,
+          "end": 201,
+          "content": "of modern seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 24,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 83,
+          "end": 102,
+          "content": "the modern seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 25,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 107,
+          "end": 126,
+          "content": "by modern seawater."
+        }
+      ]
+    },
+    {
+      "text_id": 26,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 12,
+          "end": 24,
+          "content": "Xiangli Wang"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 29,
+          "end": 55,
+          "content": "others—A cenozoic seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 27,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 61,
+          "end": 79,
+          "content": "of modern seawater"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 113,
+          "end": 118,
+          "content": "(Goto"
+        }
+      ]
+    },
+    {
+      "text_id": 28,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 145,
+          "end": 164,
+          "content": "changes in seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 29,
+      "text_tag": []
+    },
+    {
+      "text_id": 30,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 3,
+          "end": 15,
+          "content": "Xiangli Wang"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 20,
+          "end": 46,
+          "content": "others—A cenozoic seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 31,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 72,
+          "end": 74,
+          "content": "Os"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 92,
+          "end": 108,
+          "content": "for the seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 32,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 84,
+          "end": 92,
+          "content": "Dauphas,"
+        }
+      ]
+    },
+    {
+      "text_id": 33,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 61,
+          "end": 78,
+          "content": "with the seawater"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 105,
+          "end": 107,
+          "content": "Os"
+        }
+      ]
+    },
+    {
+      "text_id": 34,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 105,
+          "end": 128,
+          "content": "others, 2011; seawater,"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 141,
+          "end": 146,
+          "content": "Klemm"
+        }
+      ]
+    },
+    {
+      "text_id": 35,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 221,
+          "end": 242,
+          "content": "from modern seawater,"
+        }
+      ]
+    },
+    {
+      "text_id": 36,
+      "text_tag": []
+    },
+    {
+      "text_id": 37,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 520,
+          "end": 539,
+          "content": "(A) Modern seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 38,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 50,
+          "end": 69,
+          "content": "(B) Modern seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 39,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 98,
+          "end": 117,
+          "content": "by modern seawater."
+        }
+      ]
+    },
+    {
+      "text_id": 40,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 57,
+          "end": 82,
+          "content": "represent modern seawater"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 349,
+          "end": 354,
+          "content": "Cheng"
+        }
+      ]
+    },
+    {
+      "text_id": 41,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 180,
+          "end": 198,
+          "content": "by recent seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 42,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 46,
+          "end": 65,
+          "content": "record the seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 43,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 128,
+          "end": 146,
+          "content": "by recent seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 44,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 90,
+          "end": 112,
+          "content": "controlled by seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 45,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 3,
+          "end": 15,
+          "content": "Xiangli Wang"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 20,
+          "end": 46,
+          "content": "others—A cenozoic seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 46,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 166,
+          "end": 186,
+          "content": "archive for seawater"
+        },
+        {
+          "tag_name": "Time",
+          "start": 266,
+          "end": 275,
+          "content": "Cenozoic."
+        }
+      ]
+    },
+    {
+      "text_id": 47,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 0,
+          "end": 37,
+          "content": "Uranium Isotope Mass Balance Modeling"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 65,
+          "end": 84,
+          "content": "relate our seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 48,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 0,
+          "end": 4,
+          "content": "Goto"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 76,
+          "end": 98,
+          "content": "production on seawater"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 120,
+          "end": 138,
+          "content": "Tissot and Dauphas"
+        }
+      ]
+    },
+    {
+      "text_id": 49,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 51,
+          "end": 74,
+          "content": "sensitivity of seawater"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 158,
+          "end": 166,
+          "content": "seaﬂoor."
+        }
+      ]
+    },
+    {
+      "text_id": 50,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 10,
+          "end": 14,
+          "content": "Goto"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 57,
+          "end": 82,
+          "content": "transient global seawater"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 313,
+          "end": 327,
+          "content": "U in seawater;"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 466,
+          "end": 484,
+          "content": "values of seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 51,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 138,
+          "end": 157,
+          "content": "respect to seawater"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 364,
+          "end": 384,
+          "content": "[U] denotes seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 52,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 209,
+          "end": 231,
+          "content": "and subsea groundwater"
+        }
+      ]
+    },
+    {
+      "text_id": 53,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 58,
+          "end": 74,
+          "content": "to the porewater"
+        }
+      ]
+    },
+    {
+      "text_id": 54,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 617,
+          "end": 637,
+          "content": "modern ﬂux, seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 55,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 59,
+          "end": 79,
+          "content": "from modern seawater"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 120,
+          "end": 128,
+          "content": "Dauphas,"
+        }
+      ]
+    },
+    {
+      "text_id": 56,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 30,
+          "end": 56,
+          "content": "fractionated from seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 57,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 56,
+          "end": 83,
+          "content": "fractionation from seawater"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 92,
+          "end": 100,
+          "content": "Andersen"
+        }
+      ]
+    },
+    {
+      "text_id": 58,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 28,
+          "end": 54,
+          "content": "fractionated from seawater"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 96,
+          "end": 104,
+          "content": "Dauphas,"
+        }
+      ]
+    },
+    {
+      "text_id": 59,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 66,
+          "end": 70,
+          "content": "Goto"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 152,
+          "end": 170,
+          "content": "sink from seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 60,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 15,
+          "end": 27,
+          "content": "Xiangli Wang"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 32,
+          "end": 58,
+          "content": "others—A cenozoic seawater"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 80,
+          "end": 85,
+          "content": "River"
+        },
+        {
+          "tag_name": "Time",
+          "start": 190,
+          "end": 197,
+          "content": "400 kyr"
+        },
+        {
+          "tag_name": "Time",
+          "start": 218,
+          "end": 224,
+          "content": "~1 kyr"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 233,
+          "end": 238,
+          "content": "Fanox"
+        }
+      ]
+    },
+    {
+      "text_id": 61,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 0,
+          "end": 8,
+          "content": "Riverine"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 51,
+          "end": 52,
+          "content": "U"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 67,
+          "end": 90,
+          "content": "aeolian and groundwater"
+        }
+      ]
+    },
+    {
+      "text_id": 62,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 68,
+          "end": 77,
+          "content": "Brennecka"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 131,
+          "end": 139,
+          "content": "Dauphas,"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 223,
+          "end": 242,
+          "content": "sinks from seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 63,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 289,
+          "end": 310,
+          "content": "factors from seawater"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 433,
+          "end": 458,
+          "content": "individual ones. seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 64,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 17,
+          "end": 22,
+          "content": "ﬁgure"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 78,
+          "end": 97,
+          "content": "brings the seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 65,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 43,
+          "end": 47,
+          "content": "area"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 148,
+          "end": 168,
+          "content": "20 percent, seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 66,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 18,
+          "end": 38,
+          "content": "drawdown in seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 67,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 16,
+          "end": 35,
+          "content": "Ocean Deoxygenation"
+        },
+        {
+          "tag_name": "Time",
+          "start": 50,
+          "end": 58,
+          "content": "Cenozoic"
+        }
+      ]
+    },
+    {
+      "text_id": 68,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 108,
+          "end": 111,
+          "content": "Myr"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 159,
+          "end": 171,
+          "content": "Xiangli Wang"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 176,
+          "end": 202,
+          "content": "others—A cenozoic seawater"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 453,
+          "end": 470,
+          "content": "δ Modern seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 69,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 54,
+          "end": 73,
+          "content": "the modern seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 70,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 34,
+          "end": 58,
+          "content": "(cid:4)0.07‰ on seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 71,
+      "text_tag": []
+    },
+    {
+      "text_id": 72,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 70,
+          "end": 80,
+          "content": "Ruiz-Pino,"
+        }
+      ]
+    },
+    {
+      "text_id": 73,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 118,
+          "end": 143,
+          "content": "early and middle Cenozoic"
+        }
+      ]
+    },
+    {
+      "text_id": 74,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 110,
+          "end": 135,
+          "content": "early to middle Cenozoic."
+        }
+      ]
+    },
+    {
+      "text_id": 75,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 15,
+          "end": 41,
+          "content": "decreased surface seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 76,
+      "text_tag": []
+    },
+    {
+      "text_id": 77,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 73,
+          "end": 93,
+          "content": "supply via gas-water"
+        }
+      ]
+    },
+    {
+      "text_id": 78,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 61,
+          "end": 86,
+          "content": "early to middle Cenozoic)"
+        }
+      ]
+    },
+    {
+      "text_id": 79,
+      "text_tag": []
+    },
+    {
+      "text_id": 80,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 105,
+          "end": 114,
+          "content": "Cenozoic,"
+        },
+        {
+          "tag_name": "Time",
+          "start": 182,
+          "end": 191,
+          "content": "Paleozoic"
+        },
+        {
+          "tag_name": "Time",
+          "start": 196,
+          "end": 205,
+          "content": "Mesozoic."
+        }
+      ]
+    },
+    {
+      "text_id": 81,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 43,
+          "end": 55,
+          "content": "Xiangli Wang"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 60,
+          "end": 86,
+          "content": "others—A cenozoic seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 82,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 13,
+          "end": 23,
+          "content": "Cretaceous"
+        }
+      ]
+    },
+    {
+      "text_id": 83,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 84,
+          "end": 100,
+          "content": "Paleocene-Eocene"
+        }
+      ]
+    },
+    {
+      "text_id": 84,
+      "text_tag": []
+    },
+    {
+      "text_id": 85,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 119,
+          "end": 127,
+          "content": "Cenozoic"
+        }
+      ]
+    },
+    {
+      "text_id": 86,
+      "text_tag": []
+    },
+    {
+      "text_id": 87,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 0,
+          "end": 15,
+          "content": "Sample aliquots"
+        }
+      ]
+    },
+    {
+      "text_id": 88,
+      "text_tag": []
+    },
+    {
+      "text_id": 89,
+      "text_tag": []
+    },
+    {
+      "text_id": 90,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 0,
+          "end": 7,
+          "content": "Brieﬂy,"
+        }
+      ]
+    },
+    {
+      "text_id": 91,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 349,
+          "end": 352,
+          "content": "UK)"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 386,
+          "end": 408,
+          "content": "University of Illinois"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 412,
+          "end": 429,
+          "content": "Urbana-Champaign."
+        }
+      ]
+    },
+    {
+      "text_id": 92,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 4,
+          "end": 66,
+          "content": "CRM 112a (New Brunswick Laboratory, U.S. Department of Energy)"
+        }
+      ]
+    },
+    {
+      "text_id": 93,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 363,
+          "end": 368,
+          "content": "Villa"
+        }
+      ]
+    },
+    {
+      "text_id": 94,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 35,
+          "end": 59,
+          "content": "(JRC, Brussels, Belgium)"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 72,
+          "end": 125,
+          "content": "(New Brunswick Laboratory, U.S. Department of Energy)"
+        }
+      ]
+    },
+    {
+      "text_id": 95,
+      "text_tag": []
+    },
+    {
+      "text_id": 96,
+      "text_tag": [
+        {
+          "tag_name": "SAMPLE",
+          "start": 88,
+          "end": 108,
+          "content": "sample U. References"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 758,
+          "end": 768,
+          "content": "Black Sea:"
+        }
+      ]
+    },
+    {
+      "text_id": 97,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 679,
+          "end": 694,
+          "content": "O2 in seawater:"
+        }
+      ]
+    },
+    {
+      "text_id": 98,
+      "text_tag": []
+    },
+    {
+      "text_id": 99,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 124,
+          "end": 135,
+          "content": "Phanerozoic"
+        }
+      ]
+    },
+    {
+      "text_id": 100,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 291,
+          "end": 305,
+          "content": "Colorado, USA:"
+        }
+      ]
+    },
+    {
+      "text_id": 101,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 204,
+          "end": 219,
+          "content": "mid-Proterozoic"
+        },
+        {
+          "tag_name": "Time",
+          "start": 433,
+          "end": 444,
+          "content": "end-Permian"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 481,
+          "end": 500,
+          "content": "National Academy of"
+        },
+        {
+          "tag_name": "Country",
+          "start": 517,
+          "end": 530,
+          "content": "United States"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 531,
+          "end": 542,
+          "content": "of America,"
+        }
+      ]
+    },
+    {
+      "text_id": 102,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 3,
+          "end": 15,
+          "content": "Xiangli Wang"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 20,
+          "end": 46,
+          "content": "others—A cenozoic seawater"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 68,
+          "end": 75,
+          "content": "Burton,"
+        }
+      ]
+    },
+    {
+      "text_id": 103,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 90,
+          "end": 101,
+          "content": "Wasserburg,"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 130,
+          "end": 148,
+          "content": "232Th in seawater:"
+        }
+      ]
+    },
+    {
+      "text_id": 104,
+      "text_tag": []
+    },
+    {
+      "text_id": 105,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 135,
+          "end": 141,
+          "content": "Eocene"
+        },
+        {
+          "tag_name": "Time",
+          "start": 208,
+          "end": 221,
+          "content": "early Eocene:"
+        }
+      ]
+    },
+    {
+      "text_id": 106,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 89,
+          "end": 107,
+          "content": "L., 2012, Seawater"
+        },
+        {
+          "tag_name": "Time",
+          "start": 131,
+          "end": 147,
+          "content": "Paleocene-Eocene"
+        }
+      ]
+    },
+    {
+      "text_id": 107,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 109,
+          "end": 117,
+          "content": "Banakar,"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 223,
+          "end": 249,
+          "content": "Reconstruction of seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 108,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 69,
+          "end": 80,
+          "content": "Koschinsky,"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 117,
+          "end": 123,
+          "content": "Crusts"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 140,
+          "end": 146,
+          "content": "Scott,"
+        },
+        {
+          "tag_name": "Time",
+          "start": 395,
+          "end": 419,
+          "content": "1993, Two major Cenozoic"
+        }
+      ]
+    },
+    {
+      "text_id": 109,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 51,
+          "end": 57,
+          "content": "Helly,"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 150,
+          "end": 161,
+          "content": "continental"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 171,
+          "end": 193,
+          "content": "Deep Sea Research Part"
+        }
+      ]
+    },
+    {
+      "text_id": 110,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 76,
+          "end": 94,
+          "content": "M., 2002, Seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 111,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 47,
+          "end": 54,
+          "content": "Jenkyns"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 80,
+          "end": 89,
+          "content": "Hesselbo,"
+        },
+        {
+          "tag_name": "Time",
+          "start": 170,
+          "end": 195,
+          "content": "early Toarcian (Jurassic)"
+        }
+      ]
+    },
+    {
+      "text_id": 112,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 123,
+          "end": 134,
+          "content": "Cretaceous,"
+        },
+        {
+          "tag_name": "Time",
+          "start": 135,
+          "end": 154,
+          "content": "Cenomanian-Turonian"
+        }
+      ]
+    },
+    {
+      "text_id": 113,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 129,
+          "end": 147,
+          "content": "R., 2008, Seawater"
+        },
+        {
+          "tag_name": "Time",
+          "start": 178,
+          "end": 192,
+          "content": "middle Miocene"
+        }
+      ]
+    },
+    {
+      "text_id": 114,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 66,
+          "end": 77,
+          "content": "Koschinsky,"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 115,
+          "end": 137,
+          "content": "elements from seawater"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 176,
+          "end": 201,
+          "content": "associations and seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 115,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 182,
+          "end": 200,
+          "content": "Deep Sea Research,"
+        }
+      ]
+    },
+    {
+      "text_id": 116,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 99,
+          "end": 107,
+          "content": "O’Nions,"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 115,
+          "end": 122,
+          "content": "Kamber,"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 134,
+          "end": 147,
+          "content": "Blanckenburg,"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 223,
+          "end": 230,
+          "content": "Central"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 231,
+          "end": 246,
+          "content": "Paciﬁc seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 117,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 288,
+          "end": 296,
+          "content": "Pliocene"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 297,
+          "end": 310,
+          "content": "Indian Ocean:"
+        }
+      ]
+    },
+    {
+      "text_id": 118,
+      "text_tag": []
+    },
+    {
+      "text_id": 119,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 191,
+          "end": 217,
+          "content": "others—A cenozoic seawater"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 239,
+          "end": 249,
+          "content": "Konhauser,"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 306,
+          "end": 312,
+          "content": "Lyons,"
+        },
+        {
+          "tag_name": "Time",
+          "start": 320,
+          "end": 364,
+          "content": "2013, Large-scale ﬂuctuations in Precambrian"
+        }
+      ]
+    },
+    {
+      "text_id": 120,
+      "text_tag": []
+    },
+    {
+      "text_id": 121,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 175,
+          "end": 197,
+          "content": "variations in seawater"
+        }
+      ]
+    },
+    {
+      "text_id": 122,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 119,
+          "end": 133,
+          "content": "2004, Cenozoic"
+        }
+      ]
+    },
+    {
+      "text_id": 123,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 206,
+          "end": 223,
+          "content": "2013, Proterozoic"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 282,
+          "end": 301,
+          "content": "National Academy of"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 314,
+          "end": 317,
+          "content": "the"
+        },
+        {
+          "tag_name": "Country",
+          "start": 318,
+          "end": 331,
+          "content": "United States"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 335,
+          "end": 343,
+          "content": "America,"
+        }
+      ]
+    },
+    {
+      "text_id": 124,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 259,
+          "end": 273,
+          "content": "Cariaco Basin:"
+        },
+        {
+          "tag_name": "Time",
+          "start": 466,
+          "end": 482,
+          "content": "Paleocene-Eocene"
+        }
+      ]
+    },
+    {
+      "text_id": 125,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 186,
+          "end": 194,
+          "content": "Talanta,"
+        }
+      ]
+    },
+    {
+      "text_id": 126,
+      "text_tag": [
+        {
+          "tag_name": "FACE",
+          "start": 454,
+          "end": 476,
+          "content": "U(VI) from groundwater"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 484,
+          "end": 499,
+          "content": "Riﬂe, Colorado,"
+        }
+      ]
+    },
+    {
+      "text_id": 127,
+      "text_tag": []
+    },
+    {
+      "text_id": 128,
+      "text_tag": [
+        {
+          "tag_name": "LOC",
+          "start": 1035,
+          "end": 1041,
+          "content": "Chang,"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 1092,
+          "end": 1102,
+          "content": "Jayakumar,"
+        },
+        {
+          "tag_name": "LOC",
+          "start": 1173,
+          "end": 1180,
+          "content": "Arabian"
+        },
+        {
+          "tag_name": "FACE",
+          "start": 1320,
+          "end": 1339,
+          "content": "water and seawater:"
+        }
+      ]
+    },
+    {
+      "text_id": 129,
+      "text_tag": [
+        {
+          "tag_name": "Time",
+          "start": 109,
+          "end": 132,
+          "content": "2008, An early Cenozoic"
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "from": {
+        "text_id": "0",
+        "start": 0,
+        "end": 23
+      },
+      "to": {
+        "text_id": "1",
+        "start": 43,
+        "end": 51
+      },
+      "relation_id": {
+        "$oid": "6944eca08afc3dab28a2e0a7"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "695a5f3e62eb2d9967d8433b"
+  },
+  "pdf_id": "0d84b7c5-e796-4297-85be-9cd8cf4e05b0",
+  "predef_id": {
+    "$oid": "695a5f3b62eb2d9967d84338"
+  },
+  "textList": [
+    {
+      "text_id": 0,
+      "text_tag": []
+    },
+    {
+      "text_id": 1,
+      "text_tag": [
+        {
+          "tag_name": "类型4",
+          "start": 65,
+          "end": 77,
+          "content": "introduction"
+        },
+        {
+          "tag_name": "类型4",
+          "start": 258,
+          "end": 264,
+          "content": "others"
+        },
+        {
+          "tag_name": "类型3",
+          "start": 52,
+          "end": 58,
+          "content": "marine"
+        }
+      ]
+    },
+    {
+      "text_id": 2,
+      "text_tag": []
+    },
+    {
+      "text_id": 3,
+      "text_tag": []
+    },
+    {
+      "text_id": 4,
+      "text_tag": []
+    },
+    {
+      "text_id": 5,
+      "text_tag": []
+    },
+    {
+      "text_id": 6,
+      "text_tag": []
+    },
+    {
+      "text_id": 7,
+      "text_tag": []
+    },
+    {
+      "text_id": 8,
+      "text_tag": []
+    },
+    {
+      "text_id": 9,
+      "text_tag": []
+    },
+    {
+      "text_id": 10,
+      "text_tag": []
+    },
+    {
+      "text_id": 11,
+      "text_tag": []
+    },
+    {
+      "text_id": 12,
+      "text_tag": []
+    },
+    {
+      "text_id": 13,
+      "text_tag": []
+    },
+    {
+      "text_id": 14,
+      "text_tag": []
+    },
+    {
+      "text_id": 15,
+      "text_tag": []
+    },
+    {
+      "text_id": 16,
+      "text_tag": []
+    },
+    {
+      "text_id": 17,
+      "text_tag": []
+    },
+    {
+      "text_id": 18,
+      "text_tag": []
+    },
+    {
+      "text_id": 19,
+      "text_tag": []
+    },
+    {
+      "text_id": 20,
+      "text_tag": []
+    },
+    {
+      "text_id": 21,
+      "text_tag": []
+    },
+    {
+      "text_id": 22,
+      "text_tag": []
+    },
+    {
+      "text_id": 23,
+      "text_tag": []
+    },
+    {
+      "text_id": 24,
+      "text_tag": []
+    },
+    {
+      "text_id": 25,
+      "text_tag": []
+    },
+    {
+      "text_id": 26,
+      "text_tag": []
+    },
+    {
+      "text_id": 27,
+      "text_tag": []
+    },
+    {
+      "text_id": 28,
+      "text_tag": []
+    },
+    {
+      "text_id": 29,
+      "text_tag": []
+    },
+    {
+      "text_id": 30,
+      "text_tag": []
+    },
+    {
+      "text_id": 31,
+      "text_tag": []
+    },
+    {
+      "text_id": 32,
+      "text_tag": []
+    },
+    {
+      "text_id": 33,
+      "text_tag": []
+    },
+    {
+      "text_id": 34,
+      "text_tag": []
+    },
+    {
+      "text_id": 35,
+      "text_tag": []
+    },
+    {
+      "text_id": 36,
+      "text_tag": []
+    },
+    {
+      "text_id": 37,
+      "text_tag": []
+    },
+    {
+      "text_id": 38,
+      "text_tag": []
+    },
+    {
+      "text_id": 39,
+      "text_tag": []
+    },
+    {
+      "text_id": 40,
+      "text_tag": []
+    },
+    {
+      "text_id": 41,
+      "text_tag": []
+    },
+    {
+      "text_id": 42,
+      "text_tag": []
+    },
+    {
+      "text_id": 43,
+      "text_tag": []
+    },
+    {
+      "text_id": 44,
+      "text_tag": []
+    },
+    {
+      "text_id": 45,
+      "text_tag": []
+    },
+    {
+      "text_id": 46,
+      "text_tag": []
+    },
+    {
+      "text_id": 47,
+      "text_tag": []
+    },
+    {
+      "text_id": 48,
+      "text_tag": []
+    },
+    {
+      "text_id": 49,
+      "text_tag": []
+    },
+    {
+      "text_id": 50,
+      "text_tag": []
+    },
+    {
+      "text_id": 51,
+      "text_tag": []
+    },
+    {
+      "text_id": 52,
+      "text_tag": []
+    },
+    {
+      "text_id": 53,
+      "text_tag": []
+    },
+    {
+      "text_id": 54,
+      "text_tag": []
+    },
+    {
+      "text_id": 55,
+      "text_tag": []
+    },
+    {
+      "text_id": 56,
+      "text_tag": []
+    },
+    {
+      "text_id": 57,
+      "text_tag": []
+    },
+    {
+      "text_id": 58,
+      "text_tag": []
+    },
+    {
+      "text_id": 59,
+      "text_tag": []
+    },
+    {
+      "text_id": 60,
+      "text_tag": []
+    },
+    {
+      "text_id": 61,
+      "text_tag": []
+    },
+    {
+      "text_id": 62,
+      "text_tag": []
+    },
+    {
+      "text_id": 63,
+      "text_tag": []
+    },
+    {
+      "text_id": 64,
+      "text_tag": []
+    },
+    {
+      "text_id": 65,
+      "text_tag": []
+    },
+    {
+      "text_id": 66,
+      "text_tag": []
+    },
+    {
+      "text_id": 67,
+      "text_tag": []
+    },
+    {
+      "text_id": 68,
+      "text_tag": []
+    },
+    {
+      "text_id": 69,
+      "text_tag": []
+    },
+    {
+      "text_id": 70,
+      "text_tag": []
+    },
+    {
+      "text_id": 71,
+      "text_tag": []
+    },
+    {
+      "text_id": 72,
+      "text_tag": []
+    },
+    {
+      "text_id": 73,
+      "text_tag": []
+    },
+    {
+      "text_id": 74,
+      "text_tag": []
+    },
+    {
+      "text_id": 75,
+      "text_tag": []
+    },
+    {
+      "text_id": 76,
+      "text_tag": []
+    },
+    {
+      "text_id": 77,
+      "text_tag": []
+    },
+    {
+      "text_id": 78,
+      "text_tag": []
+    },
+    {
+      "text_id": 79,
+      "text_tag": []
+    },
+    {
+      "text_id": 80,
+      "text_tag": []
+    },
+    {
+      "text_id": 81,
+      "text_tag": []
+    },
+    {
+      "text_id": 82,
+      "text_tag": []
+    },
+    {
+      "text_id": 83,
+      "text_tag": []
+    },
+    {
+      "text_id": 84,
+      "text_tag": []
+    },
+    {
+      "text_id": 85,
+      "text_tag": []
+    },
+    {
+      "text_id": 86,
+      "text_tag": []
+    },
+    {
+      "text_id": 87,
+      "text_tag": []
+    },
+    {
+      "text_id": 88,
+      "text_tag": []
+    },
+    {
+      "text_id": 89,
+      "text_tag": []
+    },
+    {
+      "text_id": 90,
+      "text_tag": []
+    },
+    {
+      "text_id": 91,
+      "text_tag": []
+    },
+    {
+      "text_id": 92,
+      "text_tag": []
+    },
+    {
+      "text_id": 93,
+      "text_tag": []
+    },
+    {
+      "text_id": 94,
+      "text_tag": []
+    },
+    {
+      "text_id": 95,
+      "text_tag": []
+    },
+    {
+      "text_id": 96,
+      "text_tag": []
+    },
+    {
+      "text_id": 97,
+      "text_tag": []
+    },
+    {
+      "text_id": 98,
+      "text_tag": []
+    },
+    {
+      "text_id": 99,
+      "text_tag": []
+    },
+    {
+      "text_id": 100,
+      "text_tag": []
+    },
+    {
+      "text_id": 101,
+      "text_tag": []
+    },
+    {
+      "text_id": 102,
+      "text_tag": []
+    },
+    {
+      "text_id": 103,
+      "text_tag": []
+    },
+    {
+      "text_id": 104,
+      "text_tag": []
+    },
+    {
+      "text_id": 105,
+      "text_tag": []
+    },
+    {
+      "text_id": 106,
+      "text_tag": []
+    },
+    {
+      "text_id": 107,
+      "text_tag": []
+    },
+    {
+      "text_id": 108,
+      "text_tag": []
+    },
+    {
+      "text_id": 109,
+      "text_tag": []
+    },
+    {
+      "text_id": 110,
+      "text_tag": []
+    },
+    {
+      "text_id": 111,
+      "text_tag": []
+    },
+    {
+      "text_id": 112,
+      "text_tag": []
+    },
+    {
+      "text_id": 113,
+      "text_tag": []
+    },
+    {
+      "text_id": 114,
+      "text_tag": []
+    },
+    {
+      "text_id": 115,
+      "text_tag": []
+    },
+    {
+      "text_id": 116,
+      "text_tag": []
+    },
+    {
+      "text_id": 117,
+      "text_tag": []
+    },
+    {
+      "text_id": 118,
+      "text_tag": []
+    },
+    {
+      "text_id": 119,
+      "text_tag": []
+    },
+    {
+      "text_id": 120,
+      "text_tag": []
+    },
+    {
+      "text_id": 121,
+      "text_tag": []
+    },
+    {
+      "text_id": 122,
+      "text_tag": []
+    },
+    {
+      "text_id": 123,
+      "text_tag": []
+    },
+    {
+      "text_id": 124,
+      "text_tag": []
+    },
+    {
+      "text_id": 125,
+      "text_tag": []
+    },
+    {
+      "text_id": 126,
+      "text_tag": []
+    },
+    {
+      "text_id": 127,
+      "text_tag": []
+    },
+    {
+      "text_id": 128,
+      "text_tag": []
+    },
+    {
+      "text_id": 129,
+      "text_tag": []
+    }
+  ],
+  "relations": []
+},
+{
+  "_id": {
+    "$oid": "69638c2fedafb81c03482ddb"
+  },
+  "pdf_id": "0d84b7c5-e796-4297-85be-9cd8cf4e05b0",
+  "predef_id": {
+    "$oid": "69638c2aedafb81c03482dd7"
+  },
+  "textList": [
+    {
+      "text_id": 0,
+      "text_tag": []
+    },
+    {
+      "text_id": 1,
+      "text_tag": [
+        {
+          "tag_name": "实体1",
+          "start": 27,
+          "end": 33,
+          "content": "redox"
+        }
+      ]
+    },
+    {
+      "text_id": 2,
+      "text_tag": []
+    },
+    {
+      "text_id": 3,
+      "text_tag": []
+    },
+    {
+      "text_id": 4,
+      "text_tag": []
+    },
+    {
+      "text_id": 5,
+      "text_tag": []
+    },
+    {
+      "text_id": 6,
+      "text_tag": []
+    },
+    {
+      "text_id": 7,
+      "text_tag": []
+    },
+    {
+      "text_id": 8,
+      "text_tag": []
+    },
+    {
+      "text_id": 9,
+      "text_tag": []
+    },
+    {
+      "text_id": 10,
+      "text_tag": []
+    },
+    {
+      "text_id": 11,
+      "text_tag": []
+    },
+    {
+      "text_id": 12,
+      "text_tag": []
+    },
+    {
+      "text_id": 13,
+      "text_tag": []
+    },
+    {
+      "text_id": 14,
+      "text_tag": []
+    },
+    {
+      "text_id": 15,
+      "text_tag": []
+    },
+    {
+      "text_id": 16,
+      "text_tag": []
+    },
+    {
+      "text_id": 17,
+      "text_tag": []
+    },
+    {
+      "text_id": 18,
+      "text_tag": []
+    },
+    {
+      "text_id": 19,
+      "text_tag": []
+    },
+    {
+      "text_id": 20,
+      "text_tag": []
+    },
+    {
+      "text_id": 21,
+      "text_tag": []
+    },
+    {
+      "text_id": 22,
+      "text_tag": []
+    },
+    {
+      "text_id": 23,
+      "text_tag": []
+    },
+    {
+      "text_id": 24,
+      "text_tag": []
+    },
+    {
+      "text_id": 25,
+      "text_tag": []
+    },
+    {
+      "text_id": 26,
+      "text_tag": []
+    },
+    {
+      "text_id": 27,
+      "text_tag": []
+    },
+    {
+      "text_id": 28,
+      "text_tag": []
+    },
+    {
+      "text_id": 29,
+      "text_tag": []
+    },
+    {
+      "text_id": 30,
+      "text_tag": []
+    },
+    {
+      "text_id": 31,
+      "text_tag": []
+    },
+    {
+      "text_id": 32,
+      "text_tag": []
+    },
+    {
+      "text_id": 33,
+      "text_tag": []
+    },
+    {
+      "text_id": 34,
+      "text_tag": []
+    },
+    {
+      "text_id": 35,
+      "text_tag": []
+    },
+    {
+      "text_id": 36,
+      "text_tag": []
+    },
+    {
+      "text_id": 37,
+      "text_tag": []
+    },
+    {
+      "text_id": 38,
+      "text_tag": []
+    },
+    {
+      "text_id": 39,
+      "text_tag": []
+    },
+    {
+      "text_id": 40,
+      "text_tag": []
+    },
+    {
+      "text_id": 41,
+      "text_tag": []
+    },
+    {
+      "text_id": 42,
+      "text_tag": []
+    },
+    {
+      "text_id": 43,
+      "text_tag": []
+    },
+    {
+      "text_id": 44,
+      "text_tag": []
+    },
+    {
+      "text_id": 45,
+      "text_tag": []
+    },
+    {
+      "text_id": 46,
+      "text_tag": []
+    },
+    {
+      "text_id": 47,
+      "text_tag": []
+    },
+    {
+      "text_id": 48,
+      "text_tag": []
+    },
+    {
+      "text_id": 49,
+      "text_tag": []
+    },
+    {
+      "text_id": 50,
+      "text_tag": []
+    },
+    {
+      "text_id": 51,
+      "text_tag": []
+    },
+    {
+      "text_id": 52,
+      "text_tag": []
+    },
+    {
+      "text_id": 53,
+      "text_tag": []
+    },
+    {
+      "text_id": 54,
+      "text_tag": []
+    },
+    {
+      "text_id": 55,
+      "text_tag": []
+    },
+    {
+      "text_id": 56,
+      "text_tag": []
+    },
+    {
+      "text_id": 57,
+      "text_tag": []
+    },
+    {
+      "text_id": 58,
+      "text_tag": []
+    },
+    {
+      "text_id": 59,
+      "text_tag": []
+    },
+    {
+      "text_id": 60,
+      "text_tag": []
+    },
+    {
+      "text_id": 61,
+      "text_tag": []
+    },
+    {
+      "text_id": 62,
+      "text_tag": []
+    },
+    {
+      "text_id": 63,
+      "text_tag": []
+    },
+    {
+      "text_id": 64,
+      "text_tag": []
+    },
+    {
+      "text_id": 65,
+      "text_tag": []
+    },
+    {
+      "text_id": 66,
+      "text_tag": []
+    },
+    {
+      "text_id": 67,
+      "text_tag": []
+    },
+    {
+      "text_id": 68,
+      "text_tag": []
+    },
+    {
+      "text_id": 69,
+      "text_tag": []
+    },
+    {
+      "text_id": 70,
+      "text_tag": []
+    },
+    {
+      "text_id": 71,
+      "text_tag": []
+    },
+    {
+      "text_id": 72,
+      "text_tag": []
+    },
+    {
+      "text_id": 73,
+      "text_tag": []
+    },
+    {
+      "text_id": 74,
+      "text_tag": []
+    },
+    {
+      "text_id": 75,
+      "text_tag": []
+    },
+    {
+      "text_id": 76,
+      "text_tag": []
+    },
+    {
+      "text_id": 77,
+      "text_tag": []
+    },
+    {
+      "text_id": 78,
+      "text_tag": []
+    },
+    {
+      "text_id": 79,
+      "text_tag": []
+    },
+    {
+      "text_id": 80,
+      "text_tag": []
+    },
+    {
+      "text_id": 81,
+      "text_tag": []
+    },
+    {
+      "text_id": 82,
+      "text_tag": []
+    },
+    {
+      "text_id": 83,
+      "text_tag": []
+    },
+    {
+      "text_id": 84,
+      "text_tag": []
+    },
+    {
+      "text_id": 85,
+      "text_tag": []
+    },
+    {
+      "text_id": 86,
+      "text_tag": []
+    },
+    {
+      "text_id": 87,
+      "text_tag": []
+    },
+    {
+      "text_id": 88,
+      "text_tag": []
+    },
+    {
+      "text_id": 89,
+      "text_tag": []
+    },
+    {
+      "text_id": 90,
+      "text_tag": []
+    },
+    {
+      "text_id": 91,
+      "text_tag": []
+    },
+    {
+      "text_id": 92,
+      "text_tag": []
+    },
+    {
+      "text_id": 93,
+      "text_tag": []
+    },
+    {
+      "text_id": 94,
+      "text_tag": []
+    },
+    {
+      "text_id": 95,
+      "text_tag": []
+    },
+    {
+      "text_id": 96,
+      "text_tag": []
+    },
+    {
+      "text_id": 97,
+      "text_tag": []
+    },
+    {
+      "text_id": 98,
+      "text_tag": []
+    },
+    {
+      "text_id": 99,
+      "text_tag": []
+    },
+    {
+      "text_id": 100,
+      "text_tag": []
+    },
+    {
+      "text_id": 101,
+      "text_tag": []
+    },
+    {
+      "text_id": 102,
+      "text_tag": []
+    },
+    {
+      "text_id": 103,
+      "text_tag": []
+    },
+    {
+      "text_id": 104,
+      "text_tag": []
+    },
+    {
+      "text_id": 105,
+      "text_tag": []
+    },
+    {
+      "text_id": 106,
+      "text_tag": []
+    },
+    {
+      "text_id": 107,
+      "text_tag": []
+    },
+    {
+      "text_id": 108,
+      "text_tag": []
+    },
+    {
+      "text_id": 109,
+      "text_tag": []
+    },
+    {
+      "text_id": 110,
+      "text_tag": []
+    },
+    {
+      "text_id": 111,
+      "text_tag": []
+    },
+    {
+      "text_id": 112,
+      "text_tag": []
+    },
+    {
+      "text_id": 113,
+      "text_tag": []
+    },
+    {
+      "text_id": 114,
+      "text_tag": []
+    },
+    {
+      "text_id": 115,
+      "text_tag": []
+    },
+    {
+      "text_id": 116,
+      "text_tag": []
+    },
+    {
+      "text_id": 117,
+      "text_tag": []
+    },
+    {
+      "text_id": 118,
+      "text_tag": []
+    },
+    {
+      "text_id": 119,
+      "text_tag": []
+    },
+    {
+      "text_id": 120,
+      "text_tag": []
+    },
+    {
+      "text_id": 121,
+      "text_tag": []
+    },
+    {
+      "text_id": 122,
+      "text_tag": []
+    },
+    {
+      "text_id": 123,
+      "text_tag": []
+    },
+    {
+      "text_id": 124,
+      "text_tag": []
+    },
+    {
+      "text_id": 125,
+      "text_tag": []
+    },
+    {
+      "text_id": 126,
+      "text_tag": []
+    },
+    {
+      "text_id": 127,
+      "text_tag": []
+    },
+    {
+      "text_id": 128,
+      "text_tag": []
+    },
+    {
+      "text_id": 129,
+      "text_tag": []
+    }
+  ],
+  "relations": []
+},
+{
+  "_id": {
+    "$oid": "696c889695aed10e54f61868"
+  },
+  "pdf_id": "0d84b7c5-e796-4297-85be-9cd8cf4e05b0",
+  "predef_id": {
+    "$oid": "696c888d95aed10e54f61864"
+  },
+  "textList": [
+    {
+      "text_id": 0,
+      "text_tag": [
+        {
+          "tag_name": "类型1",
+          "start": 0,
+          "end": 8,
+          "content": "Samples"
+        }
+      ]
+    },
+    {
+      "text_id": 1,
+      "text_tag": [
+        {
+          "tag_name": "类型2",
+          "start": 34,
+          "end": 41,
+          "content": "proxies"
+        }
+      ]
+    },
+    {
+      "text_id": 2,
+      "text_tag": []
+    },
+    {
+      "text_id": 3,
+      "text_tag": []
+    },
+    {
+      "text_id": 4,
+      "text_tag": []
+    },
+    {
+      "text_id": 5,
+      "text_tag": []
+    },
+    {
+      "text_id": 6,
+      "text_tag": []
+    },
+    {
+      "text_id": 7,
+      "text_tag": []
+    },
+    {
+      "text_id": 8,
+      "text_tag": []
+    },
+    {
+      "text_id": 9,
+      "text_tag": []
+    },
+    {
+      "text_id": 10,
+      "text_tag": []
+    },
+    {
+      "text_id": 11,
+      "text_tag": []
+    },
+    {
+      "text_id": 12,
+      "text_tag": []
+    },
+    {
+      "text_id": 13,
+      "text_tag": []
+    },
+    {
+      "text_id": 14,
+      "text_tag": []
+    },
+    {
+      "text_id": 15,
+      "text_tag": []
+    },
+    {
+      "text_id": 16,
+      "text_tag": []
+    },
+    {
+      "text_id": 17,
+      "text_tag": []
+    },
+    {
+      "text_id": 18,
+      "text_tag": []
+    },
+    {
+      "text_id": 19,
+      "text_tag": []
+    },
+    {
+      "text_id": 20,
+      "text_tag": []
+    },
+    {
+      "text_id": 21,
+      "text_tag": []
+    },
+    {
+      "text_id": 22,
+      "text_tag": []
+    },
+    {
+      "text_id": 23,
+      "text_tag": []
+    },
+    {
+      "text_id": 24,
+      "text_tag": []
+    },
+    {
+      "text_id": 25,
+      "text_tag": []
+    },
+    {
+      "text_id": 26,
+      "text_tag": []
+    },
+    {
+      "text_id": 27,
+      "text_tag": []
+    },
+    {
+      "text_id": 28,
+      "text_tag": []
+    },
+    {
+      "text_id": 29,
+      "text_tag": []
+    },
+    {
+      "text_id": 30,
+      "text_tag": []
+    },
+    {
+      "text_id": 31,
+      "text_tag": []
+    },
+    {
+      "text_id": 32,
+      "text_tag": []
+    },
+    {
+      "text_id": 33,
+      "text_tag": []
+    },
+    {
+      "text_id": 34,
+      "text_tag": []
+    },
+    {
+      "text_id": 35,
+      "text_tag": []
+    },
+    {
+      "text_id": 36,
+      "text_tag": []
+    },
+    {
+      "text_id": 37,
+      "text_tag": []
+    },
+    {
+      "text_id": 38,
+      "text_tag": []
+    },
+    {
+      "text_id": 39,
+      "text_tag": []
+    },
+    {
+      "text_id": 40,
+      "text_tag": []
+    },
+    {
+      "text_id": 41,
+      "text_tag": []
+    },
+    {
+      "text_id": 42,
+      "text_tag": []
+    },
+    {
+      "text_id": 43,
+      "text_tag": []
+    },
+    {
+      "text_id": 44,
+      "text_tag": []
+    },
+    {
+      "text_id": 45,
+      "text_tag": []
+    },
+    {
+      "text_id": 46,
+      "text_tag": []
+    },
+    {
+      "text_id": 47,
+      "text_tag": []
+    },
+    {
+      "text_id": 48,
+      "text_tag": []
+    },
+    {
+      "text_id": 49,
+      "text_tag": []
+    },
+    {
+      "text_id": 50,
+      "text_tag": []
+    },
+    {
+      "text_id": 51,
+      "text_tag": []
+    },
+    {
+      "text_id": 52,
+      "text_tag": []
+    },
+    {
+      "text_id": 53,
+      "text_tag": []
+    },
+    {
+      "text_id": 54,
+      "text_tag": []
+    },
+    {
+      "text_id": 55,
+      "text_tag": []
+    },
+    {
+      "text_id": 56,
+      "text_tag": []
+    },
+    {
+      "text_id": 57,
+      "text_tag": []
+    },
+    {
+      "text_id": 58,
+      "text_tag": []
+    },
+    {
+      "text_id": 59,
+      "text_tag": []
+    },
+    {
+      "text_id": 60,
+      "text_tag": []
+    },
+    {
+      "text_id": 61,
+      "text_tag": []
+    },
+    {
+      "text_id": 62,
+      "text_tag": []
+    },
+    {
+      "text_id": 63,
+      "text_tag": []
+    },
+    {
+      "text_id": 64,
+      "text_tag": []
+    },
+    {
+      "text_id": 65,
+      "text_tag": []
+    },
+    {
+      "text_id": 66,
+      "text_tag": []
+    },
+    {
+      "text_id": 67,
+      "text_tag": []
+    },
+    {
+      "text_id": 68,
+      "text_tag": []
+    },
+    {
+      "text_id": 69,
+      "text_tag": []
+    },
+    {
+      "text_id": 70,
+      "text_tag": []
+    },
+    {
+      "text_id": 71,
+      "text_tag": []
+    },
+    {
+      "text_id": 72,
+      "text_tag": []
+    },
+    {
+      "text_id": 73,
+      "text_tag": []
+    },
+    {
+      "text_id": 74,
+      "text_tag": []
+    },
+    {
+      "text_id": 75,
+      "text_tag": []
+    },
+    {
+      "text_id": 76,
+      "text_tag": []
+    },
+    {
+      "text_id": 77,
+      "text_tag": []
+    },
+    {
+      "text_id": 78,
+      "text_tag": []
+    },
+    {
+      "text_id": 79,
+      "text_tag": []
+    },
+    {
+      "text_id": 80,
+      "text_tag": []
+    },
+    {
+      "text_id": 81,
+      "text_tag": []
+    },
+    {
+      "text_id": 82,
+      "text_tag": []
+    },
+    {
+      "text_id": 83,
+      "text_tag": []
+    },
+    {
+      "text_id": 84,
+      "text_tag": []
+    },
+    {
+      "text_id": 85,
+      "text_tag": []
+    },
+    {
+      "text_id": 86,
+      "text_tag": []
+    },
+    {
+      "text_id": 87,
+      "text_tag": []
+    },
+    {
+      "text_id": 88,
+      "text_tag": []
+    },
+    {
+      "text_id": 89,
+      "text_tag": []
+    },
+    {
+      "text_id": 90,
+      "text_tag": []
+    },
+    {
+      "text_id": 91,
+      "text_tag": []
+    },
+    {
+      "text_id": 92,
+      "text_tag": []
+    },
+    {
+      "text_id": 93,
+      "text_tag": []
+    },
+    {
+      "text_id": 94,
+      "text_tag": []
+    },
+    {
+      "text_id": 95,
+      "text_tag": []
+    },
+    {
+      "text_id": 96,
+      "text_tag": []
+    },
+    {
+      "text_id": 97,
+      "text_tag": []
+    },
+    {
+      "text_id": 98,
+      "text_tag": []
+    },
+    {
+      "text_id": 99,
+      "text_tag": []
+    },
+    {
+      "text_id": 100,
+      "text_tag": []
+    },
+    {
+      "text_id": 101,
+      "text_tag": []
+    },
+    {
+      "text_id": 102,
+      "text_tag": []
+    },
+    {
+      "text_id": 103,
+      "text_tag": []
+    },
+    {
+      "text_id": 104,
+      "text_tag": []
+    },
+    {
+      "text_id": 105,
+      "text_tag": []
+    },
+    {
+      "text_id": 106,
+      "text_tag": []
+    },
+    {
+      "text_id": 107,
+      "text_tag": []
+    },
+    {
+      "text_id": 108,
+      "text_tag": []
+    },
+    {
+      "text_id": 109,
+      "text_tag": []
+    },
+    {
+      "text_id": 110,
+      "text_tag": []
+    },
+    {
+      "text_id": 111,
+      "text_tag": []
+    },
+    {
+      "text_id": 112,
+      "text_tag": []
+    },
+    {
+      "text_id": 113,
+      "text_tag": []
+    },
+    {
+      "text_id": 114,
+      "text_tag": []
+    },
+    {
+      "text_id": 115,
+      "text_tag": []
+    },
+    {
+      "text_id": 116,
+      "text_tag": []
+    },
+    {
+      "text_id": 117,
+      "text_tag": []
+    },
+    {
+      "text_id": 118,
+      "text_tag": []
+    },
+    {
+      "text_id": 119,
+      "text_tag": []
+    },
+    {
+      "text_id": 120,
+      "text_tag": []
+    },
+    {
+      "text_id": 121,
+      "text_tag": []
+    },
+    {
+      "text_id": 122,
+      "text_tag": []
+    },
+    {
+      "text_id": 123,
+      "text_tag": []
+    },
+    {
+      "text_id": 124,
+      "text_tag": []
+    },
+    {
+      "text_id": 125,
+      "text_tag": []
+    },
+    {
+      "text_id": 126,
+      "text_tag": []
+    },
+    {
+      "text_id": 127,
+      "text_tag": []
+    },
+    {
+      "text_id": 128,
+      "text_tag": []
+    },
+    {
+      "text_id": 129,
+      "text_tag": []
+    }
+  ],
+  "relations": []
+},
+{
+  "_id": {
+    "$oid": "6970856e76d8ac1dc6eb4ef8"
+  },
+  "pdf_id": "0d84b7c5-e796-4297-85be-9cd8cf4e05b0",
+  "predef_id": {
+    "$oid": "696c87f995aed10e54f6185c"
+  },
+  "textList": [
+    {
+      "text_id": 0,
+      "text_tag": [
+        {
+          "tag_name": "类型1",
+          "start": 24,
+          "end": 33,
+          "content": "intervals"
+        }
+      ]
+    },
+    {
+      "text_id": 1,
+      "text_tag": [
+        {
+          "tag_name": "类型2",
+          "start": 43,
+          "end": 51,
+          "content": "Cenozoic"
+        }
+      ]
+    },
+    {
+      "text_id": 2,
+      "text_tag": []
+    },
+    {
+      "text_id": 3,
+      "text_tag": []
+    },
+    {
+      "text_id": 4,
+      "text_tag": []
+    },
+    {
+      "text_id": 5,
+      "text_tag": []
+    },
+    {
+      "text_id": 6,
+      "text_tag": []
+    },
+    {
+      "text_id": 7,
+      "text_tag": []
+    },
+    {
+      "text_id": 8,
+      "text_tag": []
+    },
+    {
+      "text_id": 9,
+      "text_tag": []
+    },
+    {
+      "text_id": 10,
+      "text_tag": []
+    },
+    {
+      "text_id": 11,
+      "text_tag": []
+    },
+    {
+      "text_id": 12,
+      "text_tag": []
+    },
+    {
+      "text_id": 13,
+      "text_tag": []
+    },
+    {
+      "text_id": 14,
+      "text_tag": []
+    },
+    {
+      "text_id": 15,
+      "text_tag": []
+    },
+    {
+      "text_id": 16,
+      "text_tag": []
+    },
+    {
+      "text_id": 17,
+      "text_tag": []
+    },
+    {
+      "text_id": 18,
+      "text_tag": []
+    },
+    {
+      "text_id": 19,
+      "text_tag": []
+    },
+    {
+      "text_id": 20,
+      "text_tag": []
+    },
+    {
+      "text_id": 21,
+      "text_tag": []
+    },
+    {
+      "text_id": 22,
+      "text_tag": []
+    },
+    {
+      "text_id": 23,
+      "text_tag": []
+    },
+    {
+      "text_id": 24,
+      "text_tag": []
+    },
+    {
+      "text_id": 25,
+      "text_tag": []
+    },
+    {
+      "text_id": 26,
+      "text_tag": []
+    },
+    {
+      "text_id": 27,
+      "text_tag": []
+    },
+    {
+      "text_id": 28,
+      "text_tag": []
+    },
+    {
+      "text_id": 29,
+      "text_tag": []
+    },
+    {
+      "text_id": 30,
+      "text_tag": []
+    },
+    {
+      "text_id": 31,
+      "text_tag": []
+    },
+    {
+      "text_id": 32,
+      "text_tag": []
+    },
+    {
+      "text_id": 33,
+      "text_tag": []
+    },
+    {
+      "text_id": 34,
+      "text_tag": []
+    },
+    {
+      "text_id": 35,
+      "text_tag": []
+    },
+    {
+      "text_id": 36,
+      "text_tag": []
+    },
+    {
+      "text_id": 37,
+      "text_tag": []
+    },
+    {
+      "text_id": 38,
+      "text_tag": []
+    },
+    {
+      "text_id": 39,
+      "text_tag": []
+    },
+    {
+      "text_id": 40,
+      "text_tag": []
+    },
+    {
+      "text_id": 41,
+      "text_tag": []
+    },
+    {
+      "text_id": 42,
+      "text_tag": []
+    },
+    {
+      "text_id": 43,
+      "text_tag": []
+    },
+    {
+      "text_id": 44,
+      "text_tag": []
+    },
+    {
+      "text_id": 45,
+      "text_tag": []
+    },
+    {
+      "text_id": 46,
+      "text_tag": []
+    },
+    {
+      "text_id": 47,
+      "text_tag": []
+    },
+    {
+      "text_id": 48,
+      "text_tag": []
+    },
+    {
+      "text_id": 49,
+      "text_tag": []
+    },
+    {
+      "text_id": 50,
+      "text_tag": []
+    },
+    {
+      "text_id": 51,
+      "text_tag": []
+    },
+    {
+      "text_id": 52,
+      "text_tag": []
+    },
+    {
+      "text_id": 53,
+      "text_tag": []
+    },
+    {
+      "text_id": 54,
+      "text_tag": []
+    },
+    {
+      "text_id": 55,
+      "text_tag": []
+    },
+    {
+      "text_id": 56,
+      "text_tag": []
+    },
+    {
+      "text_id": 57,
+      "text_tag": []
+    },
+    {
+      "text_id": 58,
+      "text_tag": []
+    },
+    {
+      "text_id": 59,
+      "text_tag": []
+    },
+    {
+      "text_id": 60,
+      "text_tag": []
+    },
+    {
+      "text_id": 61,
+      "text_tag": []
+    },
+    {
+      "text_id": 62,
+      "text_tag": []
+    },
+    {
+      "text_id": 63,
+      "text_tag": []
+    },
+    {
+      "text_id": 64,
+      "text_tag": []
+    },
+    {
+      "text_id": 65,
+      "text_tag": []
+    },
+    {
+      "text_id": 66,
+      "text_tag": []
+    },
+    {
+      "text_id": 67,
+      "text_tag": []
+    },
+    {
+      "text_id": 68,
+      "text_tag": []
+    },
+    {
+      "text_id": 69,
+      "text_tag": []
+    },
+    {
+      "text_id": 70,
+      "text_tag": []
+    },
+    {
+      "text_id": 71,
+      "text_tag": []
+    },
+    {
+      "text_id": 72,
+      "text_tag": []
+    },
+    {
+      "text_id": 73,
+      "text_tag": []
+    },
+    {
+      "text_id": 74,
+      "text_tag": []
+    },
+    {
+      "text_id": 75,
+      "text_tag": []
+    },
+    {
+      "text_id": 76,
+      "text_tag": []
+    },
+    {
+      "text_id": 77,
+      "text_tag": []
+    },
+    {
+      "text_id": 78,
+      "text_tag": []
+    },
+    {
+      "text_id": 79,
+      "text_tag": []
+    },
+    {
+      "text_id": 80,
+      "text_tag": []
+    },
+    {
+      "text_id": 81,
+      "text_tag": []
+    },
+    {
+      "text_id": 82,
+      "text_tag": []
+    },
+    {
+      "text_id": 83,
+      "text_tag": []
+    },
+    {
+      "text_id": 84,
+      "text_tag": []
+    },
+    {
+      "text_id": 85,
+      "text_tag": []
+    },
+    {
+      "text_id": 86,
+      "text_tag": []
+    },
+    {
+      "text_id": 87,
+      "text_tag": []
+    },
+    {
+      "text_id": 88,
+      "text_tag": []
+    },
+    {
+      "text_id": 89,
+      "text_tag": []
+    },
+    {
+      "text_id": 90,
+      "text_tag": []
+    },
+    {
+      "text_id": 91,
+      "text_tag": []
+    },
+    {
+      "text_id": 92,
+      "text_tag": []
+    },
+    {
+      "text_id": 93,
+      "text_tag": []
+    },
+    {
+      "text_id": 94,
+      "text_tag": []
+    },
+    {
+      "text_id": 95,
+      "text_tag": []
+    },
+    {
+      "text_id": 96,
+      "text_tag": []
+    },
+    {
+      "text_id": 97,
+      "text_tag": []
+    },
+    {
+      "text_id": 98,
+      "text_tag": []
+    },
+    {
+      "text_id": 99,
+      "text_tag": []
+    },
+    {
+      "text_id": 100,
+      "text_tag": []
+    },
+    {
+      "text_id": 101,
+      "text_tag": []
+    },
+    {
+      "text_id": 102,
+      "text_tag": []
+    },
+    {
+      "text_id": 103,
+      "text_tag": []
+    },
+    {
+      "text_id": 104,
+      "text_tag": []
+    },
+    {
+      "text_id": 105,
+      "text_tag": []
+    },
+    {
+      "text_id": 106,
+      "text_tag": []
+    },
+    {
+      "text_id": 107,
+      "text_tag": []
+    },
+    {
+      "text_id": 108,
+      "text_tag": []
+    },
+    {
+      "text_id": 109,
+      "text_tag": []
+    },
+    {
+      "text_id": 110,
+      "text_tag": []
+    },
+    {
+      "text_id": 111,
+      "text_tag": []
+    },
+    {
+      "text_id": 112,
+      "text_tag": []
+    },
+    {
+      "text_id": 113,
+      "text_tag": []
+    },
+    {
+      "text_id": 114,
+      "text_tag": []
+    },
+    {
+      "text_id": 115,
+      "text_tag": []
+    },
+    {
+      "text_id": 116,
+      "text_tag": []
+    },
+    {
+      "text_id": 117,
+      "text_tag": []
+    },
+    {
+      "text_id": 118,
+      "text_tag": []
+    },
+    {
+      "text_id": 119,
+      "text_tag": []
+    },
+    {
+      "text_id": 120,
+      "text_tag": []
+    },
+    {
+      "text_id": 121,
+      "text_tag": []
+    },
+    {
+      "text_id": 122,
+      "text_tag": []
+    },
+    {
+      "text_id": 123,
+      "text_tag": []
+    },
+    {
+      "text_id": 124,
+      "text_tag": []
+    },
+    {
+      "text_id": 125,
+      "text_tag": []
+    },
+    {
+      "text_id": 126,
+      "text_tag": []
+    },
+    {
+      "text_id": 127,
+      "text_tag": []
+    },
+    {
+      "text_id": 128,
+      "text_tag": []
+    },
+    {
+      "text_id": 129,
+      "text_tag": []
+    }
+  ],
+  "relations": []
+},
+{
+  "_id": {
+    "$oid": "6970863876d8ac1dc6eb4f0f"
+  },
+  "pdf_id": "0d84b7c5-e796-4297-85be-9cd8cf4e05b0",
+  "predef_id": {
+    "$oid": "6970863076d8ac1dc6eb4f0b"
+  },
+  "textList": [
+    {
+      "text_id": 0,
+      "text_tag": [
+        {
+          "tag_name": "类型1",
+          "start": 23,
+          "end": 33,
+          "content": "intervals"
+        }
+      ]
+    },
+    {
+      "text_id": 1,
+      "text_tag": [
+        {
+          "tag_name": "类型2",
+          "start": 65,
+          "end": 77,
+          "content": "introduction"
+        }
+      ]
+    },
+    {
+      "text_id": 2,
+      "text_tag": []
+    },
+    {
+      "text_id": 3,
+      "text_tag": []
+    },
+    {
+      "text_id": 4,
+      "text_tag": []
+    },
+    {
+      "text_id": 5,
+      "text_tag": []
+    },
+    {
+      "text_id": 6,
+      "text_tag": []
+    },
+    {
+      "text_id": 7,
+      "text_tag": []
+    },
+    {
+      "text_id": 8,
+      "text_tag": []
+    },
+    {
+      "text_id": 9,
+      "text_tag": []
+    },
+    {
+      "text_id": 10,
+      "text_tag": []
+    },
+    {
+      "text_id": 11,
+      "text_tag": []
+    },
+    {
+      "text_id": 12,
+      "text_tag": []
+    },
+    {
+      "text_id": 13,
+      "text_tag": []
+    },
+    {
+      "text_id": 14,
+      "text_tag": []
+    },
+    {
+      "text_id": 15,
+      "text_tag": []
+    },
+    {
+      "text_id": 16,
+      "text_tag": []
+    },
+    {
+      "text_id": 17,
+      "text_tag": []
+    },
+    {
+      "text_id": 18,
+      "text_tag": []
+    },
+    {
+      "text_id": 19,
+      "text_tag": []
+    },
+    {
+      "text_id": 20,
+      "text_tag": []
+    },
+    {
+      "text_id": 21,
+      "text_tag": []
+    },
+    {
+      "text_id": 22,
+      "text_tag": []
+    },
+    {
+      "text_id": 23,
+      "text_tag": []
+    },
+    {
+      "text_id": 24,
+      "text_tag": []
+    },
+    {
+      "text_id": 25,
+      "text_tag": []
+    },
+    {
+      "text_id": 26,
+      "text_tag": []
+    },
+    {
+      "text_id": 27,
+      "text_tag": []
+    },
+    {
+      "text_id": 28,
+      "text_tag": []
+    },
+    {
+      "text_id": 29,
+      "text_tag": []
+    },
+    {
+      "text_id": 30,
+      "text_tag": []
+    },
+    {
+      "text_id": 31,
+      "text_tag": []
+    },
+    {
+      "text_id": 32,
+      "text_tag": []
+    },
+    {
+      "text_id": 33,
+      "text_tag": []
+    },
+    {
+      "text_id": 34,
+      "text_tag": []
+    },
+    {
+      "text_id": 35,
+      "text_tag": []
+    },
+    {
+      "text_id": 36,
+      "text_tag": []
+    },
+    {
+      "text_id": 37,
+      "text_tag": []
+    },
+    {
+      "text_id": 38,
+      "text_tag": []
+    },
+    {
+      "text_id": 39,
+      "text_tag": []
+    },
+    {
+      "text_id": 40,
+      "text_tag": []
+    },
+    {
+      "text_id": 41,
+      "text_tag": []
+    },
+    {
+      "text_id": 42,
+      "text_tag": []
+    },
+    {
+      "text_id": 43,
+      "text_tag": []
+    },
+    {
+      "text_id": 44,
+      "text_tag": []
+    },
+    {
+      "text_id": 45,
+      "text_tag": []
+    },
+    {
+      "text_id": 46,
+      "text_tag": []
+    },
+    {
+      "text_id": 47,
+      "text_tag": []
+    },
+    {
+      "text_id": 48,
+      "text_tag": []
+    },
+    {
+      "text_id": 49,
+      "text_tag": []
+    },
+    {
+      "text_id": 50,
+      "text_tag": []
+    },
+    {
+      "text_id": 51,
+      "text_tag": []
+    },
+    {
+      "text_id": 52,
+      "text_tag": []
+    },
+    {
+      "text_id": 53,
+      "text_tag": []
+    },
+    {
+      "text_id": 54,
+      "text_tag": []
+    },
+    {
+      "text_id": 55,
+      "text_tag": []
+    },
+    {
+      "text_id": 56,
+      "text_tag": []
+    },
+    {
+      "text_id": 57,
+      "text_tag": []
+    },
+    {
+      "text_id": 58,
+      "text_tag": []
+    },
+    {
+      "text_id": 59,
+      "text_tag": []
+    },
+    {
+      "text_id": 60,
+      "text_tag": []
+    },
+    {
+      "text_id": 61,
+      "text_tag": []
+    },
+    {
+      "text_id": 62,
+      "text_tag": []
+    },
+    {
+      "text_id": 63,
+      "text_tag": []
+    },
+    {
+      "text_id": 64,
+      "text_tag": []
+    },
+    {
+      "text_id": 65,
+      "text_tag": []
+    },
+    {
+      "text_id": 66,
+      "text_tag": []
+    },
+    {
+      "text_id": 67,
+      "text_tag": []
+    },
+    {
+      "text_id": 68,
+      "text_tag": []
+    },
+    {
+      "text_id": 69,
+      "text_tag": []
+    },
+    {
+      "text_id": 70,
+      "text_tag": []
+    },
+    {
+      "text_id": 71,
+      "text_tag": []
+    },
+    {
+      "text_id": 72,
+      "text_tag": []
+    },
+    {
+      "text_id": 73,
+      "text_tag": []
+    },
+    {
+      "text_id": 74,
+      "text_tag": []
+    },
+    {
+      "text_id": 75,
+      "text_tag": []
+    },
+    {
+      "text_id": 76,
+      "text_tag": []
+    },
+    {
+      "text_id": 77,
+      "text_tag": []
+    },
+    {
+      "text_id": 78,
+      "text_tag": []
+    },
+    {
+      "text_id": 79,
+      "text_tag": []
+    },
+    {
+      "text_id": 80,
+      "text_tag": []
+    },
+    {
+      "text_id": 81,
+      "text_tag": []
+    },
+    {
+      "text_id": 82,
+      "text_tag": []
+    },
+    {
+      "text_id": 83,
+      "text_tag": []
+    },
+    {
+      "text_id": 84,
+      "text_tag": []
+    },
+    {
+      "text_id": 85,
+      "text_tag": []
+    },
+    {
+      "text_id": 86,
+      "text_tag": []
+    },
+    {
+      "text_id": 87,
+      "text_tag": []
+    },
+    {
+      "text_id": 88,
+      "text_tag": []
+    },
+    {
+      "text_id": 89,
+      "text_tag": []
+    },
+    {
+      "text_id": 90,
+      "text_tag": []
+    },
+    {
+      "text_id": 91,
+      "text_tag": []
+    },
+    {
+      "text_id": 92,
+      "text_tag": []
+    },
+    {
+      "text_id": 93,
+      "text_tag": []
+    },
+    {
+      "text_id": 94,
+      "text_tag": []
+    },
+    {
+      "text_id": 95,
+      "text_tag": []
+    },
+    {
+      "text_id": 96,
+      "text_tag": []
+    },
+    {
+      "text_id": 97,
+      "text_tag": []
+    },
+    {
+      "text_id": 98,
+      "text_tag": []
+    },
+    {
+      "text_id": 99,
+      "text_tag": []
+    },
+    {
+      "text_id": 100,
+      "text_tag": []
+    },
+    {
+      "text_id": 101,
+      "text_tag": []
+    },
+    {
+      "text_id": 102,
+      "text_tag": []
+    },
+    {
+      "text_id": 103,
+      "text_tag": []
+    },
+    {
+      "text_id": 104,
+      "text_tag": []
+    },
+    {
+      "text_id": 105,
+      "text_tag": []
+    },
+    {
+      "text_id": 106,
+      "text_tag": []
+    },
+    {
+      "text_id": 107,
+      "text_tag": []
+    },
+    {
+      "text_id": 108,
+      "text_tag": []
+    },
+    {
+      "text_id": 109,
+      "text_tag": []
+    },
+    {
+      "text_id": 110,
+      "text_tag": []
+    },
+    {
+      "text_id": 111,
+      "text_tag": []
+    },
+    {
+      "text_id": 112,
+      "text_tag": []
+    },
+    {
+      "text_id": 113,
+      "text_tag": []
+    },
+    {
+      "text_id": 114,
+      "text_tag": []
+    },
+    {
+      "text_id": 115,
+      "text_tag": []
+    },
+    {
+      "text_id": 116,
+      "text_tag": []
+    },
+    {
+      "text_id": 117,
+      "text_tag": []
+    },
+    {
+      "text_id": 118,
+      "text_tag": []
+    },
+    {
+      "text_id": 119,
+      "text_tag": []
+    },
+    {
+      "text_id": 120,
+      "text_tag": []
+    },
+    {
+      "text_id": 121,
+      "text_tag": []
+    },
+    {
+      "text_id": 122,
+      "text_tag": []
+    },
+    {
+      "text_id": 123,
+      "text_tag": []
+    },
+    {
+      "text_id": 124,
+      "text_tag": []
+    },
+    {
+      "text_id": 125,
+      "text_tag": []
+    },
+    {
+      "text_id": 126,
+      "text_tag": []
+    },
+    {
+      "text_id": 127,
+      "text_tag": []
+    },
+    {
+      "text_id": 128,
+      "text_tag": []
+    },
+    {
+      "text_id": 129,
+      "text_tag": []
+    }
+  ],
+  "relations": [
+    {
+      "from": {
+        "text_id": "0",
+        "start": 23,
+        "end": 33
+      },
+      "to": {
+        "text_id": "1",
+        "start": 65,
+        "end": 77
+      },
+      "relation_id": {
+        "$oid": "6974d11273924558a52f16ce"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6974d1f573924558a52f16df"
+  },
+  "pdf_id": "0d84b7c5-e796-4297-85be-9cd8cf4e05b0",
+  "predef_id": {
+    "$oid": "6974d1ed73924558a52f16db"
+  },
+  "textList": [
+    {
+      "text_id": 0,
+      "text_tag": []
+    },
+    {
+      "text_id": 1,
+      "text_tag": []
+    },
+    {
+      "text_id": 2,
+      "text_tag": []
+    },
+    {
+      "text_id": 3,
+      "text_tag": []
+    },
+    {
+      "text_id": 4,
+      "text_tag": []
+    },
+    {
+      "text_id": 5,
+      "text_tag": []
+    },
+    {
+      "text_id": 6,
+      "text_tag": []
+    },
+    {
+      "text_id": 7,
+      "text_tag": []
+    },
+    {
+      "text_id": 8,
+      "text_tag": []
+    },
+    {
+      "text_id": 9,
+      "text_tag": []
+    },
+    {
+      "text_id": 10,
+      "text_tag": []
+    },
+    {
+      "text_id": 11,
+      "text_tag": []
+    },
+    {
+      "text_id": 12,
+      "text_tag": []
+    },
+    {
+      "text_id": 13,
+      "text_tag": []
+    },
+    {
+      "text_id": 14,
+      "text_tag": []
+    },
+    {
+      "text_id": 15,
+      "text_tag": []
+    },
+    {
+      "text_id": 16,
+      "text_tag": []
+    },
+    {
+      "text_id": 17,
+      "text_tag": []
+    },
+    {
+      "text_id": 18,
+      "text_tag": []
+    },
+    {
+      "text_id": 19,
+      "text_tag": []
+    },
+    {
+      "text_id": 20,
+      "text_tag": []
+    },
+    {
+      "text_id": 21,
+      "text_tag": []
+    },
+    {
+      "text_id": 22,
+      "text_tag": []
+    },
+    {
+      "text_id": 23,
+      "text_tag": []
+    },
+    {
+      "text_id": 24,
+      "text_tag": []
+    },
+    {
+      "text_id": 25,
+      "text_tag": []
+    },
+    {
+      "text_id": 26,
+      "text_tag": []
+    },
+    {
+      "text_id": 27,
+      "text_tag": []
+    },
+    {
+      "text_id": 28,
+      "text_tag": []
+    },
+    {
+      "text_id": 29,
+      "text_tag": []
+    },
+    {
+      "text_id": 30,
+      "text_tag": []
+    },
+    {
+      "text_id": 31,
+      "text_tag": []
+    },
+    {
+      "text_id": 32,
+      "text_tag": []
+    },
+    {
+      "text_id": 33,
+      "text_tag": []
+    },
+    {
+      "text_id": 34,
+      "text_tag": []
+    },
+    {
+      "text_id": 35,
+      "text_tag": []
+    },
+    {
+      "text_id": 36,
+      "text_tag": []
+    },
+    {
+      "text_id": 37,
+      "text_tag": []
+    },
+    {
+      "text_id": 38,
+      "text_tag": []
+    },
+    {
+      "text_id": 39,
+      "text_tag": []
+    },
+    {
+      "text_id": 40,
+      "text_tag": []
+    },
+    {
+      "text_id": 41,
+      "text_tag": []
+    },
+    {
+      "text_id": 42,
+      "text_tag": []
+    },
+    {
+      "text_id": 43,
+      "text_tag": []
+    },
+    {
+      "text_id": 44,
+      "text_tag": []
+    },
+    {
+      "text_id": 45,
+      "text_tag": []
+    },
+    {
+      "text_id": 46,
+      "text_tag": []
+    },
+    {
+      "text_id": 47,
+      "text_tag": []
+    },
+    {
+      "text_id": 48,
+      "text_tag": []
+    },
+    {
+      "text_id": 49,
+      "text_tag": []
+    },
+    {
+      "text_id": 50,
+      "text_tag": []
+    },
+    {
+      "text_id": 51,
+      "text_tag": []
+    },
+    {
+      "text_id": 52,
+      "text_tag": []
+    },
+    {
+      "text_id": 53,
+      "text_tag": []
+    },
+    {
+      "text_id": 54,
+      "text_tag": []
+    },
+    {
+      "text_id": 55,
+      "text_tag": []
+    },
+    {
+      "text_id": 56,
+      "text_tag": []
+    },
+    {
+      "text_id": 57,
+      "text_tag": []
+    },
+    {
+      "text_id": 58,
+      "text_tag": []
+    },
+    {
+      "text_id": 59,
+      "text_tag": []
+    },
+    {
+      "text_id": 60,
+      "text_tag": []
+    },
+    {
+      "text_id": 61,
+      "text_tag": []
+    },
+    {
+      "text_id": 62,
+      "text_tag": []
+    },
+    {
+      "text_id": 63,
+      "text_tag": []
+    },
+    {
+      "text_id": 64,
+      "text_tag": []
+    },
+    {
+      "text_id": 65,
+      "text_tag": []
+    },
+    {
+      "text_id": 66,
+      "text_tag": []
+    },
+    {
+      "text_id": 67,
+      "text_tag": []
+    },
+    {
+      "text_id": 68,
+      "text_tag": []
+    },
+    {
+      "text_id": 69,
+      "text_tag": []
+    },
+    {
+      "text_id": 70,
+      "text_tag": []
+    },
+    {
+      "text_id": 71,
+      "text_tag": []
+    },
+    {
+      "text_id": 72,
+      "text_tag": []
+    },
+    {
+      "text_id": 73,
+      "text_tag": []
+    },
+    {
+      "text_id": 74,
+      "text_tag": []
+    },
+    {
+      "text_id": 75,
+      "text_tag": []
+    },
+    {
+      "text_id": 76,
+      "text_tag": []
+    },
+    {
+      "text_id": 77,
+      "text_tag": []
+    },
+    {
+      "text_id": 78,
+      "text_tag": []
+    },
+    {
+      "text_id": 79,
+      "text_tag": []
+    },
+    {
+      "text_id": 80,
+      "text_tag": []
+    },
+    {
+      "text_id": 81,
+      "text_tag": []
+    },
+    {
+      "text_id": 82,
+      "text_tag": []
+    },
+    {
+      "text_id": 83,
+      "text_tag": []
+    },
+    {
+      "text_id": 84,
+      "text_tag": []
+    },
+    {
+      "text_id": 85,
+      "text_tag": []
+    },
+    {
+      "text_id": 86,
+      "text_tag": []
+    },
+    {
+      "text_id": 87,
+      "text_tag": []
+    },
+    {
+      "text_id": 88,
+      "text_tag": []
+    },
+    {
+      "text_id": 89,
+      "text_tag": []
+    },
+    {
+      "text_id": 90,
+      "text_tag": []
+    },
+    {
+      "text_id": 91,
+      "text_tag": []
+    },
+    {
+      "text_id": 92,
+      "text_tag": []
+    },
+    {
+      "text_id": 93,
+      "text_tag": []
+    },
+    {
+      "text_id": 94,
+      "text_tag": []
+    },
+    {
+      "text_id": 95,
+      "text_tag": []
+    },
+    {
+      "text_id": 96,
+      "text_tag": []
+    },
+    {
+      "text_id": 97,
+      "text_tag": []
+    },
+    {
+      "text_id": 98,
+      "text_tag": []
+    },
+    {
+      "text_id": 99,
+      "text_tag": []
+    },
+    {
+      "text_id": 100,
+      "text_tag": []
+    },
+    {
+      "text_id": 101,
+      "text_tag": []
+    },
+    {
+      "text_id": 102,
+      "text_tag": []
+    },
+    {
+      "text_id": 103,
+      "text_tag": []
+    },
+    {
+      "text_id": 104,
+      "text_tag": []
+    },
+    {
+      "text_id": 105,
+      "text_tag": []
+    },
+    {
+      "text_id": 106,
+      "text_tag": []
+    },
+    {
+      "text_id": 107,
+      "text_tag": []
+    },
+    {
+      "text_id": 108,
+      "text_tag": []
+    },
+    {
+      "text_id": 109,
+      "text_tag": []
+    },
+    {
+      "text_id": 110,
+      "text_tag": []
+    },
+    {
+      "text_id": 111,
+      "text_tag": []
+    },
+    {
+      "text_id": 112,
+      "text_tag": []
+    },
+    {
+      "text_id": 113,
+      "text_tag": []
+    },
+    {
+      "text_id": 114,
+      "text_tag": []
+    },
+    {
+      "text_id": 115,
+      "text_tag": []
+    },
+    {
+      "text_id": 116,
+      "text_tag": []
+    },
+    {
+      "text_id": 117,
+      "text_tag": []
+    },
+    {
+      "text_id": 118,
+      "text_tag": []
+    },
+    {
+      "text_id": 119,
+      "text_tag": []
+    },
+    {
+      "text_id": 120,
+      "text_tag": []
+    },
+    {
+      "text_id": 121,
+      "text_tag": []
+    },
+    {
+      "text_id": 122,
+      "text_tag": []
+    },
+    {
+      "text_id": 123,
+      "text_tag": []
+    },
+    {
+      "text_id": 124,
+      "text_tag": []
+    },
+    {
+      "text_id": 125,
+      "text_tag": []
+    },
+    {
+      "text_id": 126,
+      "text_tag": []
+    },
+    {
+      "text_id": 127,
+      "text_tag": []
+    },
+    {
+      "text_id": 128,
+      "text_tag": []
+    },
+    {
+      "text_id": 129,
+      "text_tag": []
+    }
+  ],
+  "relations": []
+},
+{
+  "_id": {
+    "$oid": "69787b7438ec68a8fbc791ea"
+  },
+  "pdf_id": "0d84b7c5-e796-4297-85be-9cd8cf4e05b0",
+  "predef_id": {
+    "$oid": "69787b7038ec68a8fbc791e6"
+  },
+  "textList": [
+    {
+      "text_id": 0,
+      "text_tag": []
+    },
+    {
+      "text_id": 1,
+      "text_tag": []
+    },
+    {
+      "text_id": 2,
+      "text_tag": []
+    },
+    {
+      "text_id": 3,
+      "text_tag": []
+    },
+    {
+      "text_id": 4,
+      "text_tag": []
+    },
+    {
+      "text_id": 5,
+      "text_tag": []
+    },
+    {
+      "text_id": 6,
+      "text_tag": []
+    },
+    {
+      "text_id": 7,
+      "text_tag": []
+    },
+    {
+      "text_id": 8,
+      "text_tag": []
+    },
+    {
+      "text_id": 9,
+      "text_tag": []
+    },
+    {
+      "text_id": 10,
+      "text_tag": []
+    },
+    {
+      "text_id": 11,
+      "text_tag": []
+    },
+    {
+      "text_id": 12,
+      "text_tag": []
+    },
+    {
+      "text_id": 13,
+      "text_tag": []
+    },
+    {
+      "text_id": 14,
+      "text_tag": []
+    },
+    {
+      "text_id": 15,
+      "text_tag": []
+    },
+    {
+      "text_id": 16,
+      "text_tag": []
+    },
+    {
+      "text_id": 17,
+      "text_tag": []
+    },
+    {
+      "text_id": 18,
+      "text_tag": []
+    },
+    {
+      "text_id": 19,
+      "text_tag": []
+    },
+    {
+      "text_id": 20,
+      "text_tag": []
+    },
+    {
+      "text_id": 21,
+      "text_tag": []
+    },
+    {
+      "text_id": 22,
+      "text_tag": []
+    },
+    {
+      "text_id": 23,
+      "text_tag": []
+    },
+    {
+      "text_id": 24,
+      "text_tag": []
+    },
+    {
+      "text_id": 25,
+      "text_tag": []
+    },
+    {
+      "text_id": 26,
+      "text_tag": []
+    },
+    {
+      "text_id": 27,
+      "text_tag": []
+    },
+    {
+      "text_id": 28,
+      "text_tag": []
+    },
+    {
+      "text_id": 29,
+      "text_tag": []
+    },
+    {
+      "text_id": 30,
+      "text_tag": []
+    },
+    {
+      "text_id": 31,
+      "text_tag": []
+    },
+    {
+      "text_id": 32,
+      "text_tag": []
+    },
+    {
+      "text_id": 33,
+      "text_tag": []
+    },
+    {
+      "text_id": 34,
+      "text_tag": []
+    },
+    {
+      "text_id": 35,
+      "text_tag": []
+    },
+    {
+      "text_id": 36,
+      "text_tag": []
+    },
+    {
+      "text_id": 37,
+      "text_tag": []
+    },
+    {
+      "text_id": 38,
+      "text_tag": []
+    },
+    {
+      "text_id": 39,
+      "text_tag": []
+    },
+    {
+      "text_id": 40,
+      "text_tag": []
+    },
+    {
+      "text_id": 41,
+      "text_tag": []
+    },
+    {
+      "text_id": 42,
+      "text_tag": []
+    },
+    {
+      "text_id": 43,
+      "text_tag": []
+    },
+    {
+      "text_id": 44,
+      "text_tag": []
+    },
+    {
+      "text_id": 45,
+      "text_tag": []
+    },
+    {
+      "text_id": 46,
+      "text_tag": []
+    },
+    {
+      "text_id": 47,
+      "text_tag": []
+    },
+    {
+      "text_id": 48,
+      "text_tag": []
+    },
+    {
+      "text_id": 49,
+      "text_tag": []
+    },
+    {
+      "text_id": 50,
+      "text_tag": []
+    },
+    {
+      "text_id": 51,
+      "text_tag": []
+    },
+    {
+      "text_id": 52,
+      "text_tag": []
+    },
+    {
+      "text_id": 53,
+      "text_tag": []
+    },
+    {
+      "text_id": 54,
+      "text_tag": []
+    },
+    {
+      "text_id": 55,
+      "text_tag": []
+    },
+    {
+      "text_id": 56,
+      "text_tag": []
+    },
+    {
+      "text_id": 57,
+      "text_tag": []
+    },
+    {
+      "text_id": 58,
+      "text_tag": []
+    },
+    {
+      "text_id": 59,
+      "text_tag": []
+    },
+    {
+      "text_id": 60,
+      "text_tag": []
+    },
+    {
+      "text_id": 61,
+      "text_tag": []
+    },
+    {
+      "text_id": 62,
+      "text_tag": []
+    },
+    {
+      "text_id": 63,
+      "text_tag": []
+    },
+    {
+      "text_id": 64,
+      "text_tag": []
+    },
+    {
+      "text_id": 65,
+      "text_tag": []
+    },
+    {
+      "text_id": 66,
+      "text_tag": []
+    },
+    {
+      "text_id": 67,
+      "text_tag": []
+    },
+    {
+      "text_id": 68,
+      "text_tag": []
+    },
+    {
+      "text_id": 69,
+      "text_tag": []
+    },
+    {
+      "text_id": 70,
+      "text_tag": []
+    },
+    {
+      "text_id": 71,
+      "text_tag": []
+    },
+    {
+      "text_id": 72,
+      "text_tag": []
+    },
+    {
+      "text_id": 73,
+      "text_tag": []
+    },
+    {
+      "text_id": 74,
+      "text_tag": []
+    },
+    {
+      "text_id": 75,
+      "text_tag": []
+    },
+    {
+      "text_id": 76,
+      "text_tag": []
+    },
+    {
+      "text_id": 77,
+      "text_tag": []
+    },
+    {
+      "text_id": 78,
+      "text_tag": []
+    },
+    {
+      "text_id": 79,
+      "text_tag": []
+    },
+    {
+      "text_id": 80,
+      "text_tag": []
+    },
+    {
+      "text_id": 81,
+      "text_tag": []
+    },
+    {
+      "text_id": 82,
+      "text_tag": []
+    },
+    {
+      "text_id": 83,
+      "text_tag": []
+    },
+    {
+      "text_id": 84,
+      "text_tag": []
+    },
+    {
+      "text_id": 85,
+      "text_tag": []
+    },
+    {
+      "text_id": 86,
+      "text_tag": []
+    },
+    {
+      "text_id": 87,
+      "text_tag": []
+    },
+    {
+      "text_id": 88,
+      "text_tag": []
+    },
+    {
+      "text_id": 89,
+      "text_tag": []
+    },
+    {
+      "text_id": 90,
+      "text_tag": []
+    },
+    {
+      "text_id": 91,
+      "text_tag": []
+    },
+    {
+      "text_id": 92,
+      "text_tag": []
+    },
+    {
+      "text_id": 93,
+      "text_tag": []
+    },
+    {
+      "text_id": 94,
+      "text_tag": []
+    },
+    {
+      "text_id": 95,
+      "text_tag": []
+    },
+    {
+      "text_id": 96,
+      "text_tag": []
+    },
+    {
+      "text_id": 97,
+      "text_tag": []
+    },
+    {
+      "text_id": 98,
+      "text_tag": []
+    },
+    {
+      "text_id": 99,
+      "text_tag": []
+    },
+    {
+      "text_id": 100,
+      "text_tag": []
+    },
+    {
+      "text_id": 101,
+      "text_tag": []
+    },
+    {
+      "text_id": 102,
+      "text_tag": []
+    },
+    {
+      "text_id": 103,
+      "text_tag": []
+    },
+    {
+      "text_id": 104,
+      "text_tag": []
+    },
+    {
+      "text_id": 105,
+      "text_tag": []
+    },
+    {
+      "text_id": 106,
+      "text_tag": []
+    },
+    {
+      "text_id": 107,
+      "text_tag": []
+    },
+    {
+      "text_id": 108,
+      "text_tag": []
+    },
+    {
+      "text_id": 109,
+      "text_tag": []
+    },
+    {
+      "text_id": 110,
+      "text_tag": []
+    },
+    {
+      "text_id": 111,
+      "text_tag": []
+    },
+    {
+      "text_id": 112,
+      "text_tag": []
+    },
+    {
+      "text_id": 113,
+      "text_tag": []
+    },
+    {
+      "text_id": 114,
+      "text_tag": []
+    },
+    {
+      "text_id": 115,
+      "text_tag": []
+    },
+    {
+      "text_id": 116,
+      "text_tag": []
+    },
+    {
+      "text_id": 117,
+      "text_tag": []
+    },
+    {
+      "text_id": 118,
+      "text_tag": []
+    },
+    {
+      "text_id": 119,
+      "text_tag": []
+    },
+    {
+      "text_id": 120,
+      "text_tag": []
+    },
+    {
+      "text_id": 121,
+      "text_tag": []
+    },
+    {
+      "text_id": 122,
+      "text_tag": []
+    },
+    {
+      "text_id": 123,
+      "text_tag": []
+    },
+    {
+      "text_id": 124,
+      "text_tag": []
+    },
+    {
+      "text_id": 125,
+      "text_tag": []
+    },
+    {
+      "text_id": 126,
+      "text_tag": []
+    },
+    {
+      "text_id": 127,
+      "text_tag": []
+    },
+    {
+      "text_id": 128,
+      "text_tag": []
+    },
+    {
+      "text_id": 129,
+      "text_tag": []
+    }
+  ],
+  "relations": []
+}]

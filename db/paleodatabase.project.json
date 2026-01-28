@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "681b1d56c67527d6b4bc2ec7"
+  },
+  "projectName": "古海洋生物多样性生态重建",
+  "projectDescription": "着重研究古代海洋生态系统中的各种生物，如三叶虫、海百合、古鱼类等。通过化石分析，重建古代海洋生态系统的结构和功能，了解生物之间的相互关系。",
+  "normalMembers": [
+    {
+      "id": "2",
+      "name": "刘丰"
+    },
+    {
+      "id": "3",
+      "name": "李战庆"
+    }
+  ],
+  "approvalMembers": [
+    {
+      "id": "4",
+      "name": "王明媛"
+    }
+  ],
+  "creatorId": "2001",
+  "creatorName": "管理员",
+  "projectId": "1"
+},
+{
+  "_id": {
+    "$oid": "681b256bc67527d6b4bc2ec9"
+  },
+  "projectName": "古生物微观结构研究",
+  "projectDescription": "专注于古生物的微观结构，如细胞结构、组织结构等。利用先进的显微技术，如电子显微镜，观察和分析化石的微观特征，为理解古生物的生理功能和演化提供新的视角。",
+  "normalMembers": [
+    {
+      "id": "5",
+      "name": "刘展清"
+    }
+  ],
+  "approvalMembers": [
+    {
+      "id": "6",
+      "name": "夏思平"
+    }
+  ],
+  "creatorId": "2002",
+  "creatorName": "管理员2",
+  "projectId": "2"
+},
+{
+  "_id": {
+    "$oid": "681b2655c67527d6b4bc2ecd"
+  },
+  "projectName": "古生物与现代生物关系研究",
+  "projectDescription": "探讨古生物与现代生物之间的进化联系，通过比较解剖学、分子生物学等方法，研究它们之间的亲缘关系，揭示生物进化的连续性和阶段性。",
+  "normalMembers": [],
+  "approvalMembers": [],
+  "creatorId": "2003",
+  "creatorName": "管理员3",
+  "projectId": "3"
+},
+{
+  "_id": {
+    "$oid": "681b26c8c67527d6b4bc2ecf"
+  },
+  "projectName": "古生物化石保护与修复工程",
+  "projectDescription": "旨在保护和修复珍贵的古生物化石，防止化石因自然侵蚀、人为破坏等原因而损坏。项目可以包括化石的采集规范、保存技术、修复工艺等方面的研究和实践。",
+  "normalMembers": [],
+  "approvalMembers": [],
+  "creatorId": "2004",
+  "creatorName": "管理员4",
+  "projectId": "4"
+},
+{
+  "_id": {
+    "$oid": "681b270ac67527d6b4bc2ed1"
+  },
+  "projectName": "古生物化石资源普查与保护",
+  "projectDescription": "对某一地区或全国范围内的古生物化石资源进行全面普查，摸清资源家底。然后根据普查结果，制定科学合理的保护规划，确保化石资源得到有效保护。",
+  "normalMembers": [],
+  "approvalMembers": [],
+  "creatorId": "2005",
+  "creatorName": "管理员5",
+  "projectId": "5"
+}]
