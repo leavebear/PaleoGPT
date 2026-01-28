@@ -23,6 +23,9 @@ Human-in-the-loop Correction: A user-friendly Vue 3 interface for reviewing and 
 │   ├── requirements.txt # Python dependency list
 │   └── output_data/     # Pre-generated sample extraction results
 └── db/                  # Database schema and sample JSON documents
+```
+
+---
 
 📊 Sample Extraction Results
 To facilitate research reproducibility, we provide pre-generated extraction examples in the aiAPI/output_data directory. These samples include:
@@ -40,7 +43,7 @@ OS: Windows / Linux / macOS
 
 Java: JDK 21
 
-Python: 3.9 or higher
+Python: 3.9
 
 Database: MongoDB 6.0+ (Essential for multi-modal data storage)
 
