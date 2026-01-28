@@ -10,10 +10,12 @@ Automated Literature Extraction: High-precision extraction of tables, profession
 Paleontological QA: Intelligent dialogue services powered by domain-specific language models using Adaptive RAG technology.
 
 Human-in-the-loop Correction: A user-friendly Vue 3 interface for reviewing and manually correcting AI extraction results to ensure high-quality database construction.
----
 
-📂 Project Structure
 
+
+## 📂 Project Structure
+
+```text
 .
 ├── dist/                # Frontend production build (Vue 3 + Vite)
 ├── aiAPI/               # AI Service Backend (FastAPI)
