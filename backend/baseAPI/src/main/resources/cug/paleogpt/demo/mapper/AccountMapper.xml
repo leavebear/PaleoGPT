@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cug.paleogpt.demo.mapper.AccountMapper">
+    <resultMap id="ac" type="cug.paleogpt.demo.entity.Account">
+        <id column="account_id" property="accountId"/>
+        <result column="account_name" property="accountName"/>
+        <result column="email" property="email"/>
+        <result column="password" property="password"/>
+    </resultMap>
+
+    <select id="getAccountName" resultType="java.lang.String">
+        select account_name from account where account_id = #{accountId}
+    </select>
+
+    <select id="getAccountByEmail" resultMap="ac">
+        select * from account where email = #{email}
+    </select>
+</mapper>

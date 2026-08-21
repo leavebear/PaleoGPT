@@ -1,0 +1,23 @@
+{
+    "textList": [
+        {
+            "text": "Samples averaging-3 Myr intervals have analytically indistinguishable 238U/235U throughout the Cenozoic.",
+            "text_tag": [
+                {
+                    "mark_content": "Samples averaging-3 Myr"
+                },
+                {
+                    "mark_content": "238U/235U throughout the Cenozoic."
+                }
+            ]
+        }
+    ],
+    "ttag": [
+        {
+            "tag_name": "SAMPLE"
+        },
+        {
+            "tag_name": "Time"
+        }
+    ]
+}

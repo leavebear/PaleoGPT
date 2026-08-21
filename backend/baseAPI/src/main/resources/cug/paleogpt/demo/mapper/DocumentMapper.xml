@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cug.paleogpt.demo.mapper.DocumentMapper">
+    <resultMap id="doc" type="cug.paleogpt.demo.entity.Document">
+        <id column="pdf_id" property="pdfId" jdbcType="CHAR"/>
+        <result column="project_id" property="projectId"/>
+        <result column="pdf_name" property="pdfName"/>
+        <result column="pdf_size" property="pdfSize"/>
+        <result column="pdf_upload_time" property="pdfUploadTime"/>
+        <result column="pdf_uploader" property="pdfUploader"/>
+        <result column="pdf_update_time" property="pdfUpdateTime"/>
+        <result column="image_status" property="imageStatus"/>
+        <result column="table_status" property="tableStatus"/>
+        <result column="entity_status" property="entityStatus"/>
+        <result column="correction_status" property="correctionStatus"/>
+        <result column="approval_status" property="approvalStatus"/>
+        <result column="pdf_url" property="pdfUrl"/>
+    </resultMap>
+    <insert id="insertDocument">
+        insert into document (pdf_id, pdf_name, pdf_size, pdf_upload_time, pdf_uploader, pdf_update_time,image_status, table_status, entity_status, correction_status, approval_status, pdf_url, project_id)
+        values (#{pdfId}, #{pdfName}, #{pdfSize}, #{pdfUploadTime},#{pdfUploader}, #{pdfUpdateTime},#{imageStatus}, #{tableStatus}, #{entityStatus}, #{correctionStatus}, #{approvalStatus}, #{pdfUrl}, #{projectId})
+    </insert>
+
+    <select id="getDocuments" resultMap="doc">
+        select * from document where project_id = #{projectId}
+    </select>
+
+    <select id="getDocumentByProjectIdAndPdfName" resultMap="doc">
+        select * from document where project_id = #{projectId} and pdf_name = #{pdfName}
+    </select>
+</mapper>

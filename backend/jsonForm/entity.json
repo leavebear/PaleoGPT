@@ -1,0 +1,138 @@
+{
+    "status_code": 0,
+    "status_msg": "xxx",
+    "data": {
+        "pdf_id": 123,
+        "textList": [
+            {
+                "text": "xxxxxxx",
+                "text_tag": [
+                    {
+                        "tag_id": "tag_id1",
+                        "start": 0,
+                        "end": 5,
+                        "mark_content": "hello"
+                    },
+                    {
+                        "tag_id": "tag_id1",
+                        "start": 0,
+                        "end": 5,
+                        "mark_content": "hello"
+                    }
+                    ...
+                ]
+            },
+            {
+                "text": "xxxxxxx",
+                "text_tag": [
+                    {
+                        "tag_id": "tag_id1",
+                        "start": 0,
+                        "end": 5,
+                        "mark_content": "hello"
+                    },
+                    {
+                        "tag_id": "tag_id1",
+                        "start": 0,
+                        "end": 5,
+                        "mark_content": "hello"
+                    }
+                    ...
+                ]
+            },
+            ...
+        ],
+        "ttag": [
+            {
+                "tag_name": "link",
+                "tag_color": "#FF5733FF",
+                "tag_id": "tag_id1"
+            },
+            {
+                "tag_name": "doi",
+                "tag_color": "#33FF57FF",
+                "tag_id": "tag_id2"
+            },
+            {
+                "tag_name": "标题",
+                "tag_color": "#FF33A6FF",
+                "tag_id": "tag_id4"
+            },
+            {
+                "tag_name": "属",
+                "tag_color": "#B533FFFF",
+                "tag_id": "tag_id5"
+            },
+            {
+                "tag_name": "种",
+                "tag_color": "#FFC300FF",
+                "tag_id": "tag_id6"
+            },
+            {
+                "tag_name": "地层",
+                "tag_color": "#C70039FF",
+                "tag_id": "tag_id7"
+            },
+            {
+                "tag_name": "Formation",
+                "tag_color": "#900C3FFF",
+                "tag_id": "tag_id8"
+            },
+            {
+                "tag_name": "Group",
+                "tag_color": "#2E8B57FF",
+                "tag_id": "tag_id9"
+            },
+            {
+                "tag_name": "Bed",
+                "tag_color": "#FFA500FF",
+                "tag_id": "tag_id10"
+            },
+            {
+                "tag_name": "时间",
+                "tag_color": "#DAF7A6FF",
+                "tag_id": "tag_id11"
+            },
+            {
+                "tag_name": "生物带",
+                "tag_color": "#FFD700FF",
+                "tag_id": "tag_id12"
+            },
+            {
+                "tag_name": "岩相",
+                "tag_color": "#7FFFD4FF",
+                "tag_id": "tag_id13"
+            },
+            {
+                "tag_name": "岩性",
+                "tag_color": "#FF4D00FF",
+                "tag_id": "tag_id14"
+            },
+            {
+                "tag_name": "地点",
+                "tag_color": "#808080FF",
+                "tag_id": "tag_id15"
+            },
+            {
+                "tag_name": "采样信息",
+                "tag_color": "#800080FF",
+                "tag_id": "tag_id16"
+            },
+            {
+                "tag_name": "剖面",
+                "tag_color": "#800080FF",
+                "tag_id": "tag_id16"
+            },
+            {
+                "tag_name": "经纬度",
+                "tag_color": "#800080FF",
+                "tag_id": "tag_id16"
+            },
+            {
+                "tag_name": "国家",
+                "tag_color": "#800080FF",
+                "tag_id": "tag_id16"
+            }
+        ]
+    }
+}

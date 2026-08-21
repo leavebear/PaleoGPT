@@ -1,0 +1,448 @@
+INFO:     127.0.0.1:41856 - "OPTIONS /api/user/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41856 - "POST /api/user/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41856 - "GET /api/project/init HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46738 - "OPTIONS /api/processEntity HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46738 - "POST /api/processEntity HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46764 - "POST /api/processEntity HTTP/1.1" 404 Not Found
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [887602]
+INFO:     Started server process [1130502]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1130502]
+INFO:     Started server process [1130689]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:54780 - "GET /api/project/init HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54780 - "OPTIONS /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54780 - "POST /api/entityProcess HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:47894 - "POST /api/entityProcess HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:35480 - "POST /api/entityProcess HTTP/1.1" 422 Unprocessable Entity
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1130689]
+INFO:     Started server process [1130927]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:34932 - "POST /api/entityProcess HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/middleware/errors.py", line 187, in __call__
+    raise exc
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/middleware/errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/middleware/cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/middleware/cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/routing.py", line 73, in app
+    response = await f(request)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/fastapi/routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/data/jsj201-2/mount1/lihongjun/PaleoPRO/backend/aiAPI/main.py", line 231, in process_pdf_entity
+    task_id = uuid()
+TypeError: 'module' object is not callable
+INFO:     127.0.0.1:34940 - "POST /api/entityProcess HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/middleware/errors.py", line 187, in __call__
+    raise exc
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/middleware/errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/middleware/cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/middleware/cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/routing.py", line 73, in app
+    response = await f(request)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/fastapi/routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/data/jsj201-2/mount1/lihongjun/PaleoPRO/backend/aiAPI/main.py", line 231, in process_pdf_entity
+    task_id = uuid()
+TypeError: 'module' object is not callable
+INFO:     127.0.0.1:35470 - "POST /api/entityProcess HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/uvicorn/protocols/http/httptools_impl.py", line 409, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/middleware/errors.py", line 187, in __call__
+    raise exc
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/middleware/errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/middleware/cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/middleware/cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/starlette/routing.py", line 73, in app
+    response = await f(request)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/fastapi/routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/data/jsj201-2/mount1/lihongjun/PaleoPRO/backend/aiAPI/main.py", line 231, in process_pdf_entity
+    task_id = uuid()
+TypeError: 'module' object is not callable
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1130927]
+INFO:     Started server process [1131292]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:48120 - "POST /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48096 - "POST /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59920 - "POST /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33204 - "POST /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52242 - "POST /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58284 - "OPTIONS /api/user/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58284 - "POST /api/user/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58284 - "GET /api/project/init HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54140 - "OPTIONS /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54140 - "POST /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42996 - "OPTIONS /api/project/entityExtra HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42996 - "POST /api/project/entityExtra HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48330 - "POST /api/entityProcess HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1131292]
+Traceback (most recent call last):
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/bin/uvicorn", line 8, in <module>
+    sys.exit(main())
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/click/core.py", line 1161, in __call__
+    return self.main(*args, **kwargs)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/click/core.py", line 1082, in main
+    rv = self.invoke(ctx)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/click/core.py", line 1443, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/click/core.py", line 788, in invoke
+    return __callback(*args, **kwargs)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/uvicorn/main.py", line 412, in main
+    run(
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/uvicorn/main.py", line 579, in run
+    server.run()
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/uvicorn/server.py", line 66, in run
+    return asyncio.run(self.serve(sockets=sockets))
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "uvloop/loop.pyx", line 1518, in uvloop.loop.Loop.run_until_complete
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/uvicorn/server.py", line 70, in serve
+    await self._serve(sockets)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/uvicorn/server.py", line 77, in _serve
+    config.load()
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/uvicorn/config.py", line 435, in load
+    self.loaded_app = import_from_string(self.app)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/site-packages/uvicorn/importer.py", line 19, in import_from_string
+    module = importlib.import_module(module_str)
+  File "/data/jsj201-2/mount1/anaconda3/envs/fastapi/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/data/jsj201-2/mount1/lihongjun/PaleoPRO/backend/aiAPI/main.py", line 285
+    return StreamingResponse(event_stream(), media_type="text/event-stream")
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: 'return' with value in async generator
+INFO:     Started server process [1139051]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:55934 - "OPTIONS /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55934 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] WebSocket 异常： server rejected WebSocket connection: HTTP 404
+INFO:     127.0.0.1:39552 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:43382 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] WebSocket 异常： timed out during opening handshake
+[SSE] WebSocket 异常： sent 1011 (internal error) keepalive ping timeout; no close frame received
+INFO:     127.0.0.1:52526 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] WebSocket 异常： timed out during opening handshake
+INFO:     127.0.0.1:36846 - "GET /api/project/init HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36846 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:43110 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+[SSE] WebSocket 异常： received 1012 (service restart); then sent 1012 (service restart)
+INFO:     127.0.0.1:52906 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+[SSE] WebSocket 异常： sent 1011 (internal error) keepalive ping timeout; no close frame received
+INFO:     127.0.0.1:57548 - "OPTIONS /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57548 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+[SSE] WebSocket 异常： received 1012 (service restart); then sent 1012 (service restart)
+INFO:     127.0.0.1:37248 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+[SSE] WebSocket 异常： received 1012 (service restart); then sent 1012 (service restart)
+INFO:     127.0.0.1:48580 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:54170 - "OPTIONS /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54170 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:38276 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:55184 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:36432 - "OPTIONS /api/user/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36432 - "POST /api/user/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36432 - "GET /api/project/init HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60872 - "OPTIONS /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60872 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:51288 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:38116 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:46546 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:33152 - "GET /api/project/init HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50444 - "OPTIONS /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50444 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:48264 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:38648 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:46226 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:46242 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:49422 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:32818 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:37144 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:34706 - "OPTIONS /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34706 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:41946 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:59110 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:51306 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:49946 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:49032 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:48152 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:47742 - "OPTIONS /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47742 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:53080 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:50446 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:43072 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:38426 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:60302 - "OPTIONS /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60302 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:54870 - "OPTIONS /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54870 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:52120 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:57046 - "OPTIONS /api/entityProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57046 - "POST /api/entityProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 Entity WebSocket 服务: ws://localhost:5000/entity
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:51572 - "OPTIONS /api/user/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51572 - "POST /api/user/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44688 - "GET /api/project/init HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49268 - "OPTIONS /api/imageProcess HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49268 - "POST /api/imageProcess HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1139051]
+Traceback (most recent call last):
+  File "/data/jsj201-2/mount1/anaconda3/envs/paleo-entity/bin/uvicorn", line 8, in <module>
+    sys.exit(main())
+  File "/data/jsj201-2/mount1/anaconda3/envs/paleo-entity/lib/python3.8/site-packages/click/core.py", line 1161, in __call__
+    return self.main(*args, **kwargs)
+  File "/data/jsj201-2/mount1/anaconda3/envs/paleo-entity/lib/python3.8/site-packages/click/core.py", line 1082, in main
+    rv = self.invoke(ctx)
+  File "/data/jsj201-2/mount1/anaconda3/envs/paleo-entity/lib/python3.8/site-packages/click/core.py", line 1443, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/data/jsj201-2/mount1/anaconda3/envs/paleo-entity/lib/python3.8/site-packages/click/core.py", line 788, in invoke
+    return __callback(*args, **kwargs)
+  File "/data/jsj201-2/mount1/anaconda3/envs/paleo-entity/lib/python3.8/site-packages/uvicorn/main.py", line 412, in main
+    run(
+  File "/data/jsj201-2/mount1/anaconda3/envs/paleo-entity/lib/python3.8/site-packages/uvicorn/main.py", line 579, in run
+    server.run()
+  File "/data/jsj201-2/mount1/anaconda3/envs/paleo-entity/lib/python3.8/site-packages/uvicorn/server.py", line 65, in run
+    return asyncio.run(self.serve(sockets=sockets))
+  File "/data/jsj201-2/mount1/anaconda3/envs/paleo-entity/lib/python3.8/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "uvloop/loop.pyx", line 1518, in uvloop.loop.Loop.run_until_complete
+  File "/data/jsj201-2/mount1/anaconda3/envs/paleo-entity/lib/python3.8/site-packages/uvicorn/server.py", line 69, in serve
+    await self._serve(sockets)
+  File "/data/jsj201-2/mount1/anaconda3/envs/paleo-entity/lib/python3.8/site-packages/uvicorn/server.py", line 76, in _serve
+    config.load()
+  File "/data/jsj201-2/mount1/anaconda3/envs/paleo-entity/lib/python3.8/site-packages/uvicorn/config.py", line 434, in load
+    self.loaded_app = import_from_string(self.app)
+  File "/data/jsj201-2/mount1/anaconda3/envs/paleo-entity/lib/python3.8/site-packages/uvicorn/importer.py", line 22, in import_from_string
+    raise exc from None
+  File "/data/jsj201-2/mount1/anaconda3/envs/paleo-entity/lib/python3.8/site-packages/uvicorn/importer.py", line 19, in import_from_string
+    module = importlib.import_module(module_str)
+  File "/data/jsj201-2/mount1/anaconda3/envs/paleo-entity/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/data/jsj201-2/mount1/lihongjun/PaleoPRO/backend/aiAPI/main.py", line 7, in <module>
+    from openpyxl import load_workbook
+ModuleNotFoundError: No module named 'openpyxl'
+INFO:     Started server process [1169799]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:54904 - "POST /api/imageProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 image WebSocket 服务: ws://192.168.149.5:5100/image
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:40952 - "POST /api/imageProcess HTTP/1.1" 200 OK
+[SSE] 准备连接 image WebSocket 服务: ws://192.168.149.5:5100/image
+[SSE] 已发送PDF相关信息
+INFO:     127.0.0.1:45262 - "POST /api/imageProcess HTTP/1.1" 200 OK

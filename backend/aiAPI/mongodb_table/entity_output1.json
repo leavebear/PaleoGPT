@@ -1,0 +1,23 @@
+{
+    "textList": [
+        {
+            "text": "Keywords: Uranium isotopes, redox proxies, Cenozoic marine redox introduction Models predict that warmer surface temperatures will reduce O2 solubility and potentially increase thermal stratiﬁcation in Earth’s oceans (Sarmiento and others, 1998; Shaffer and others, 2009), potentially leading to ocean “deoxygenation” on a broad scale (for examples, Keeling and others, 2010).",
+            "text_tag": [
+                {
+                    "mark_content": "Cenozoic"
+                },
+                {
+                    "mark_content": "Earth’s"
+                }
+            ]
+        }
+    ],
+    "ttag": [
+        {
+            "tag_name": "Time"
+        },
+        {
+            "tag_name": "LOC"
+        }
+    ]
+}

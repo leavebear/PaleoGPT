@@ -1,0 +1,30 @@
+{
+    "status_code": 0,
+    "status_msg": "xxx",
+    "data": {
+        "pdfDownloadUrl": "http://xxx",
+        "tableList": [
+            {
+                "tableImg": "http://xxx",
+                "table": [
+                    [ "Fatty acid","1","2","3" ],
+                    ["C16:0","0.8","-","2.0"],
+                    ["anteiso-C15:0","0.8","3.0","1.2"],
+                    ["anteiso-C17:0","0.6", "-","-"],
+                    ...
+                ]
+            },
+            {
+                "tableImg": "http://xxx",
+                "table": [
+                    [ "Fatty acid","1","2","3" ],
+                    ["C16:0","0.8","-","2.0"],
+                    ["anteiso-C15:0","0.8","3.0","1.2"],
+                    ["anteiso-C17:0","0.6", "-","-"],
+                    ...
+                ]
+            },
+            ...
+        ]
+    }
+}

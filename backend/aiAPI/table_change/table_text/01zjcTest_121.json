@@ -1,0 +1,44 @@
+{
+    "table": [
+        [
+            "null",
+            "Flux (10mol/yr)",
+            ": (%)"
+        ],
+        [
+            "[Pelagic cla]",
+            "null",
+            "E0.04"
+        ],
+        [
+            "Carbonates",
+            "null",
+            "E0.2"
+        ],
+        [
+            "Metalic sed",
+            "null",
+            "E0.2"
+        ],
+        [
+            "High T oceanic crustal alteratidn",
+            "null",
+            "9"
+        ],
+        [
+            "LowToceanic crustal alteratio",
+            "null",
+            "F0.21"
+        ],
+        [
+            "Coastal zoneretention",
+            "null",
+            "-0.24"
+        ],
+        [
+            "Weighted averade",
+            "null",
+            "E0.005"
+        ]
+    ]
+}

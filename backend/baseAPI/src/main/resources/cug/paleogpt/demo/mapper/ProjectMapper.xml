@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cug.paleogpt.demo.mapper.ProjectMapper">
+    <resultMap id="pro" type="cug.paleogpt.demo.entity.Project">
+        <id column="project_id" property="projectId"/>
+        <result column="project_name" property="projectName"/>
+        <result column="project_description" property="projectDescription"/>
+    </resultMap>
+    <insert id="insertProject" keyProperty="projectId" useGeneratedKeys="true">
+        insert into project (project_name, project_description) values (#{projectName}, #{projectDescription})
+    </insert>
+    <update id="updateProject">
+        update project set
+            project_name = #{projectName},
+            project_description = #{projectDescription}
+        where project_id = #{projectId}
+    </update>
+    <select id="getProjects" resultMap="pro">
+        select * from project
+    </select>
+</mapper>

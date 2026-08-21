@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cug.paleogpt.demo.mapper.MemberMapper">
+    <resultMap id="mem" type="cug.paleogpt.demo.entity.Member">
+        <id column="member_Id" property="memberId"/>
+        <result column="project_id" property="projectId"/>
+        <result column="account_id" property="accountId"/>
+        <result column="member_name" property="memberName"/>
+        <result column="auth" property="auth"/>
+    </resultMap>
+    <insert id="insertMember">
+        insert into member (project_id, member_name, auth) values (#{projectId}, #{memberName}, #{auth})
+    </insert>
+    <delete id="deleteMembers">
+        delete from member where project_id = #{projectId}
+    </delete>
+    <select id="getMembers" resultMap="mem">
+        select * from member where project_id = #{projectId}
+    </select>
+</mapper>

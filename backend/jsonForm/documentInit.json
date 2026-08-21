@@ -1,0 +1,51 @@
+{
+    "status_code": 0,
+    "status_msg": "xxx",
+    "data": {
+        "fileMetaDataList": [
+            {
+                "pdfId": "xxx",
+                "pdfName": "xxx",
+                "pdfSize": 0.1,
+                "pdfUploadTime": "xxxx-xx-xx",
+                "pdfUploader": "xxx",
+                "pdfUpdateTime": "xxxx-xx-xx",
+                "imageStatus": "xxx",
+                "tableStatus": "xxx",
+                "entityStatus": "xxx",
+                "correctionStatus": "xxx",
+                "approvalStatus": "xxx",
+                "pdfUrl": "xxx"
+            },
+            {
+                "pdfId": "xxx",
+                "pdfName": "xxx",
+                "pdfSize": 0.1,
+                "pdfUploadTime": "xxxx-xx-xx",
+                "pdfUploader": "xxx",
+                "pdfUpdateTime": "xxxx-xx-xx",
+                "imageStatus": "xxx",
+                "tableStatus": "xxx",
+                "entityStatus": "xxx",
+                "correctionStatus": "xxx",
+                "approvalStatus": "xxx",
+                "pdfUrl": "xxx"
+            },
+            ...
+            {
+                "pdfId": "xxx",
+                "pdfName": "xxx",
+                "pdfSize": 0.1,
+                "pdfUploadTime": "xxxx-xx-xx",
+                "pdfUploader": "xxx",
+                "pdfUpdateTime": "xxxx-xx-xx",
+                "imageStatus": "xxx",
+                "tableStatus": "xxx",
+                "entityStatus": "xxx",
+                "correctionStatus": "xxx",
+                "approvalStatus": "xxx",
+                "pdfUrl": "xxx"
+            }
+        ]
+    }
+}

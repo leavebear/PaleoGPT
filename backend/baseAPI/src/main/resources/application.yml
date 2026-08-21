@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: demo
+
+  servlet:
+    multipart:
+      max-file-size: 10MB #单个上传文件的最大大小
+      max-request-size: 100MB #所有上传文件的总大小
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:17000/PaleoGPT
+    username: root
+    password: 2025
+
+  rabbitmq:
+    host: localhost
+    port: 5672
+    virtual-host: /
+    username: guest
+    password: guest
+
+minio:
+  url: http://localhost:9000
+  accessKey: minioadmin
+  secretKey: minioadmin
+
+server:
+  port: 17100
+
